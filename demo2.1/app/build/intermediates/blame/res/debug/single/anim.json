@@ -1,0 +1,158 @@
+[
+    {
+        "merged": "F:\\demo2.1\\app\\build\\intermediates\\res\\merged\\debug\\anim\\rotate_radar.xml",
+        "source": "F:\\demo2.1\\app\\src\\main\\res\\anim\\rotate_radar.xml"
+    },
+    {
+        "merged": "F:\\demo2.1\\app\\build\\intermediates\\res\\merged\\debug\\anim\\in_from_left.xml",
+        "source": "F:\\demo2.1\\app\\src\\main\\res\\anim\\in_from_left.xml"
+    },
+    {
+        "merged": "G:\\demo2.1\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_bottom.xml",
+        "source": "C:\\Users\\zhp\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.4.0.aar\\5bfae358ce9383a6adc3d0328d3051cd\\res\\anim\\abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "F:\\demo2.1\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_out.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.4.0.aar\\dd9a55aac51ce73dc3ef6c150e584100\\res\\anim\\abc_fade_out.xml"
+    },
+    {
+        "merged": "F:\\demo2.1\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_shrink_fade_out_from_bottom.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.4.0.aar\\dd9a55aac51ce73dc3ef6c150e584100\\res\\anim\\abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "F:\\demo2.1\\app\\build\\intermediates\\res\\merged\\debug\\anim\\rotate.xml",
+        "source": "F:\\demo2.1\\app\\src\\main\\res\\anim\\rotate.xml"
+    },
+    {
+        "merged": "G:\\demo2.1\\app\\build\\intermediates\\res\\merged\\debug\\anim\\pupshow.xml",
+        "source": "G:\\demo2.1\\app\\src\\main\\res\\anim\\pupshow.xml"
+    },
+    {
+        "merged": "F:\\demo2.1\\app\\build\\intermediates\\res\\merged\\debug\\anim\\out_to_right.xml",
+        "source": "F:\\demo2.1\\app\\src\\main\\res\\anim\\out_to_right.xml"
+    },
+    {
+        "merged": "G:\\demo2.1\\app\\build\\intermediates\\res\\merged\\debug\\anim\\in_from_right.xml",
+        "source": "G:\\demo2.1\\app\\src\\main\\res\\anim\\in_from_right.xml"
+    },
+    {
+        "merged": "F:\\demo2.1\\app\\build\\intermediates\\res\\merged\\debug\\anim\\out_to_left.xml",
+        "source": "F:\\demo2.1\\app\\src\\main\\res\\anim\\out_to_left.xml"
+    },
+    {
+        "merged": "G:\\demo2.1\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_grow_fade_in_from_bottom.xml",
+        "source": "C:\\Users\\zhp\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.4.0.aar\\5bfae358ce9383a6adc3d0328d3051cd\\res\\anim\\abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "G:\\demo2.1\\app\\build\\intermediates\\res\\merged\\debug\\anim\\rotate_radar.xml",
+        "source": "G:\\demo2.1\\app\\src\\main\\res\\anim\\rotate_radar.xml"
+    },
+    {
+        "merged": "G:\\demo2.1\\app\\build\\intermediates\\res\\merged\\debug\\anim\\in_from_left.xml",
+        "source": "G:\\demo2.1\\app\\src\\main\\res\\anim\\in_from_left.xml"
+    },
+    {
+        "merged": "F:\\demo2.1\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_bottom.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.4.0.aar\\dd9a55aac51ce73dc3ef6c150e584100\\res\\anim\\abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "G:\\demo2.1\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_enter.xml",
+        "source": "C:\\Users\\zhp\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.4.0.aar\\5bfae358ce9383a6adc3d0328d3051cd\\res\\anim\\abc_popup_enter.xml"
+    },
+    {
+        "merged": "G:\\demo2.1\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_out.xml",
+        "source": "C:\\Users\\zhp\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.4.0.aar\\5bfae358ce9383a6adc3d0328d3051cd\\res\\anim\\abc_fade_out.xml"
+    },
+    {
+        "merged": "G:\\demo2.1\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_top.xml",
+        "source": "C:\\Users\\zhp\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.4.0.aar\\5bfae358ce9383a6adc3d0328d3051cd\\res\\anim\\abc_slide_out_top.xml"
+    },
+    {
+        "merged": "F:\\demo2.1\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_bottom.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.4.0.aar\\dd9a55aac51ce73dc3ef6c150e584100\\res\\anim\\abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "G:\\demo2.1\\app\\build\\intermediates\\res\\merged\\debug\\anim\\out_to_right.xml",
+        "source": "G:\\demo2.1\\app\\src\\main\\res\\anim\\out_to_right.xml"
+    },
+    {
+        "merged": "G:\\demo2.1\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_top.xml",
+        "source": "C:\\Users\\zhp\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.4.0.aar\\5bfae358ce9383a6adc3d0328d3051cd\\res\\anim\\abc_slide_in_top.xml"
+    },
+    {
+        "merged": "G:\\demo2.1\\app\\build\\intermediates\\res\\merged\\debug\\anim\\puphide.xml",
+        "source": "G:\\demo2.1\\app\\src\\main\\res\\anim\\puphide.xml"
+    },
+    {
+        "merged": "G:\\demo2.1\\app\\build\\intermediates\\res\\merged\\debug\\anim\\alpha_view_model.xml",
+        "source": "G:\\demo2.1\\app\\src\\main\\res\\anim\\alpha_view_model.xml"
+    },
+    {
+        "merged": "F:\\demo2.1\\app\\build\\intermediates\\res\\merged\\debug\\anim\\pupshow.xml",
+        "source": "F:\\demo2.1\\app\\src\\main\\res\\anim\\pupshow.xml"
+    },
+    {
+        "merged": "F:\\demo2.1\\app\\build\\intermediates\\res\\merged\\debug\\anim\\in_from_right.xml",
+        "source": "F:\\demo2.1\\app\\src\\main\\res\\anim\\in_from_right.xml"
+    },
+    {
+        "merged": "G:\\demo2.1\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_shrink_fade_out_from_bottom.xml",
+        "source": "C:\\Users\\zhp\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.4.0.aar\\5bfae358ce9383a6adc3d0328d3051cd\\res\\anim\\abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "F:\\demo2.1\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_grow_fade_in_from_bottom.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.4.0.aar\\dd9a55aac51ce73dc3ef6c150e584100\\res\\anim\\abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "F:\\demo2.1\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_top.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.4.0.aar\\dd9a55aac51ce73dc3ef6c150e584100\\res\\anim\\abc_slide_out_top.xml"
+    },
+    {
+        "merged": "F:\\demo2.1\\app\\build\\intermediates\\res\\merged\\debug\\anim\\progress_bar.xml",
+        "source": "F:\\demo2.1\\app\\src\\main\\res\\anim\\progress_bar.xml"
+    },
+    {
+        "merged": "F:\\demo2.1\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_exit.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.4.0.aar\\dd9a55aac51ce73dc3ef6c150e584100\\res\\anim\\abc_popup_exit.xml"
+    },
+    {
+        "merged": "F:\\demo2.1\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_enter.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.4.0.aar\\dd9a55aac51ce73dc3ef6c150e584100\\res\\anim\\abc_popup_enter.xml"
+    },
+    {
+        "merged": "G:\\demo2.1\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_bottom.xml",
+        "source": "C:\\Users\\zhp\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.4.0.aar\\5bfae358ce9383a6adc3d0328d3051cd\\res\\anim\\abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "F:\\demo2.1\\app\\build\\intermediates\\res\\merged\\debug\\anim\\puphide.xml",
+        "source": "F:\\demo2.1\\app\\src\\main\\res\\anim\\puphide.xml"
+    },
+    {
+        "merged": "G:\\demo2.1\\app\\build\\intermediates\\res\\merged\\debug\\anim\\out_to_left.xml",
+        "source": "G:\\demo2.1\\app\\src\\main\\res\\anim\\out_to_left.xml"
+    },
+    {
+        "merged": "G:\\demo2.1\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_exit.xml",
+        "source": "C:\\Users\\zhp\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.4.0.aar\\5bfae358ce9383a6adc3d0328d3051cd\\res\\anim\\abc_popup_exit.xml"
+    },
+    {
+        "merged": "G:\\demo2.1\\app\\build\\intermediates\\res\\merged\\debug\\anim\\rotate.xml",
+        "source": "G:\\demo2.1\\app\\src\\main\\res\\anim\\rotate.xml"
+    },
+    {
+        "merged": "G:\\demo2.1\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_in.xml",
+        "source": "C:\\Users\\zhp\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.4.0.aar\\5bfae358ce9383a6adc3d0328d3051cd\\res\\anim\\abc_fade_in.xml"
+    },
+    {
+        "merged": "F:\\demo2.1\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_in.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.4.0.aar\\dd9a55aac51ce73dc3ef6c150e584100\\res\\anim\\abc_fade_in.xml"
+    },
+    {
+        "merged": "F:\\demo2.1\\app\\build\\intermediates\\res\\merged\\debug\\anim\\alpha_view_model.xml",
+        "source": "F:\\demo2.1\\app\\src\\main\\res\\anim\\alpha_view_model.xml"
+    },
+    {
+        "merged": "F:\\demo2.1\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_top.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.4.0.aar\\dd9a55aac51ce73dc3ef6c150e584100\\res\\anim\\abc_slide_in_top.xml"
+    }
+]

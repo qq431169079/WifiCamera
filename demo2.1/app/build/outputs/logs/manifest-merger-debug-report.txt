@@ -1,0 +1,757 @@
+-- Merging decision tree log ---
+manifest
+ADDED from G:\demo2.1\app\src\main\AndroidManifest.xml:2:1-461:12
+INJECTED from G:\demo2.1\app\src\main\AndroidManifest.xml:2:1-461:12
+INJECTED from G:\demo2.1\app\src\main\AndroidManifest.xml:2:1-461:12
+INJECTED from G:\demo2.1\app\src\main\AndroidManifest.xml:2:1-461:12
+MERGED from [com.android.support:appcompat-v7:23.4.0] C:\Users\zhp\.gradle\caches\transforms-1\files-1.1\appcompat-v7-23.4.0.aar\5bfae358ce9383a6adc3d0328d3051cd\AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:animated-vector-drawable:23.4.0] C:\Users\zhp\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-23.4.0.aar\a863771122a9b4b6d91a7650217c7301\AndroidManifest.xml:2:1-9:12
+MERGED from [com.android.support:support-vector-drawable:23.4.0] C:\Users\zhp\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-23.4.0.aar\58f2b8a2adb9eac8d28dcb48a1c831c0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.android.support:support-v4:23.4.0] C:\Users\zhp\.gradle\caches\transforms-1\files-1.1\support-v4-23.4.0.aar\c59c5677fb868f74065898bf7845fdbd\AndroidManifest.xml:17:1-24:12
+INJECTED from G:\demo2.1\app\src\main\AndroidManifest.xml:2:1-461:12
+INJECTED from G:\demo2.1\app\src\main\AndroidManifest.xml:2:1-461:12
+INJECTED from G:\demo2.1\app\src\main\AndroidManifest.xml:2:1-461:12
+	package
+		ADDED from G:\demo2.1\app\src\main\AndroidManifest.xml:3:5-26
+		INJECTED from G:\demo2.1\app\src\main\AndroidManifest.xml
+		INJECTED from G:\demo2.1\app\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from G:\demo2.1\app\src\main\AndroidManifest.xml:5:5-33
+		INJECTED from G:\demo2.1\app\src\main\AndroidManifest.xml
+		INJECTED from G:\demo2.1\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from G:\demo2.1\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from G:\demo2.1\app\src\main\AndroidManifest.xml:4:5-30
+		INJECTED from G:\demo2.1\app\src\main\AndroidManifest.xml
+		INJECTED from G:\demo2.1\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from G:\demo2.1\app\src\main\AndroidManifest.xml:8:5-67
+	android:name
+		ADDED from G:\demo2.1\app\src\main\AndroidManifest.xml:8:22-64
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from G:\demo2.1\app\src\main\AndroidManifest.xml:9:5-81
+	android:name
+		ADDED from G:\demo2.1\app\src\main\AndroidManifest.xml:9:22-78
+uses-permission#android.permission.RECORD_AUDIO
+ADDED from G:\demo2.1\app\src\main\AndroidManifest.xml:10:5-71
+	android:name
+		ADDED from G:\demo2.1\app\src\main\AndroidManifest.xml:10:22-68
+uses-permission#android.permission.CAMERA
+ADDED from G:\demo2.1\app\src\main\AndroidManifest.xml:11:5-65
+	android:name
+		ADDED from G:\demo2.1\app\src\main\AndroidManifest.xml:11:22-62
+uses-permission#android.permission.VIBRATE
+ADDED from G:\demo2.1\app\src\main\AndroidManifest.xml:12:5-66
+	android:name
+		ADDED from G:\demo2.1\app\src\main\AndroidManifest.xml:12:22-63
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from G:\demo2.1\app\src\main\AndroidManifest.xml:13:5-79
+	android:name
+		ADDED from G:\demo2.1\app\src\main\AndroidManifest.xml:13:22-76
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from G:\demo2.1\app\src\main\AndroidManifest.xml:14:5-76
+	android:name
+		ADDED from G:\demo2.1\app\src\main\AndroidManifest.xml:14:22-73
+uses-permission#android.permission.FLASHLIGHT
+ADDED from G:\demo2.1\app\src\main\AndroidManifest.xml:15:5-69
+	android:name
+		ADDED from G:\demo2.1\app\src\main\AndroidManifest.xml:15:22-66
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from G:\demo2.1\app\src\main\AndroidManifest.xml:19:5-75
+	android:name
+		ADDED from G:\demo2.1\app\src\main\AndroidManifest.xml:19:22-72
+uses-permission#android.permission.WAKE_LOCK
+ADDED from G:\demo2.1\app\src\main\AndroidManifest.xml:22:5-68
+	android:name
+		ADDED from G:\demo2.1\app\src\main\AndroidManifest.xml:22:22-65
+uses-permission#android.permission.RECEIVE_USER_PRESENT
+ADDED from G:\demo2.1\app\src\main\AndroidManifest.xml:25:5-79
+	android:name
+		ADDED from G:\demo2.1\app\src\main\AndroidManifest.xml:25:22-76
+uses-permission#android.permission.RECEIVE_BOOT_COMPLETED
+ADDED from G:\demo2.1\app\src\main\AndroidManifest.xml:26:5-81
+	android:name
+		ADDED from G:\demo2.1\app\src\main\AndroidManifest.xml:26:22-78
+uses-permission#android.permission.RESTART_PACKAGES
+ADDED from G:\demo2.1\app\src\main\AndroidManifest.xml:31:5-75
+	android:name
+		ADDED from G:\demo2.1\app\src\main\AndroidManifest.xml:31:22-72
+uses-permission#android.permission.BROADCAST_STICKY
+ADDED from G:\demo2.1\app\src\main\AndroidManifest.xml:32:5-75
+	android:name
+		ADDED from G:\demo2.1\app\src\main\AndroidManifest.xml:32:22-72
+uses-permission#android.permission.KILL_BACKGROUND_PROCESSES
+ADDED from G:\demo2.1\app\src\main\AndroidManifest.xml:33:5-84
+	android:name
+		ADDED from G:\demo2.1\app\src\main\AndroidManifest.xml:33:22-81
+uses-permission#android.permission.GET_TASKS
+ADDED from G:\demo2.1\app\src\main\AndroidManifest.xml:34:5-68
+	android:name
+		ADDED from G:\demo2.1\app\src\main\AndroidManifest.xml:34:22-65
+uses-permission#android.permission.BLUETOOTH
+ADDED from G:\demo2.1\app\src\main\AndroidManifest.xml:36:5-68
+	android:name
+		ADDED from G:\demo2.1\app\src\main\AndroidManifest.xml:36:22-65
+uses-sdk
+ADDED from G:\demo2.1\app\src\main\AndroidManifest.xml:39:5-41:41
+INJECTED from G:\demo2.1\app\src\main\AndroidManifest.xml:39:5-41:41
+INJECTED from G:\demo2.1\app\src\main\AndroidManifest.xml:39:5-41:41
+MERGED from [com.android.support:appcompat-v7:23.4.0] C:\Users\zhp\.gradle\caches\transforms-1\files-1.1\appcompat-v7-23.4.0.aar\5bfae358ce9383a6adc3d0328d3051cd\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:23.4.0] C:\Users\zhp\.gradle\caches\transforms-1\files-1.1\appcompat-v7-23.4.0.aar\5bfae358ce9383a6adc3d0328d3051cd\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:23.4.0] C:\Users\zhp\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-23.4.0.aar\a863771122a9b4b6d91a7650217c7301\AndroidManifest.xml:5:5-44
+MERGED from [com.android.support:animated-vector-drawable:23.4.0] C:\Users\zhp\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-23.4.0.aar\a863771122a9b4b6d91a7650217c7301\AndroidManifest.xml:5:5-44
+MERGED from [com.android.support:support-vector-drawable:23.4.0] C:\Users\zhp\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-23.4.0.aar\58f2b8a2adb9eac8d28dcb48a1c831c0\AndroidManifest.xml:5:5-43
+MERGED from [com.android.support:support-vector-drawable:23.4.0] C:\Users\zhp\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-23.4.0.aar\58f2b8a2adb9eac8d28dcb48a1c831c0\AndroidManifest.xml:5:5-43
+MERGED from [com.android.support:support-v4:23.4.0] C:\Users\zhp\.gradle\caches\transforms-1\files-1.1\support-v4-23.4.0.aar\c59c5677fb868f74065898bf7845fdbd\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:23.4.0] C:\Users\zhp\.gradle\caches\transforms-1\files-1.1\support-v4-23.4.0.aar\c59c5677fb868f74065898bf7845fdbd\AndroidManifest.xml:20:5-43
+INJECTED from G:\demo2.1\app\src\main\AndroidManifest.xml:39:5-41:41
+INJECTED from G:\demo2.1\app\src\main\AndroidManifest.xml:39:5-41:41
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:23.4.0] C:\Users\zhp\.gradle\caches\transforms-1\files-1.1\appcompat-v7-23.4.0.aar\5bfae358ce9383a6adc3d0328d3051cd\AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		ADDED from G:\demo2.1\app\src\main\AndroidManifest.xml:41:9-38
+		INJECTED from G:\demo2.1\app\src\main\AndroidManifest.xml
+		INJECTED from G:\demo2.1\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from G:\demo2.1\app\src\main\AndroidManifest.xml:40:9-35
+		INJECTED from G:\demo2.1\app\src\main\AndroidManifest.xml
+		INJECTED from G:\demo2.1\app\src\main\AndroidManifest.xml
+application
+ADDED from G:\demo2.1\app\src\main\AndroidManifest.xml:44:5-459:19
+MERGED from [com.android.support:appcompat-v7:23.4.0] C:\Users\zhp\.gradle\caches\transforms-1\files-1.1\appcompat-v7-23.4.0.aar\5bfae358ce9383a6adc3d0328d3051cd\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:appcompat-v7:23.4.0] C:\Users\zhp\.gradle\caches\transforms-1\files-1.1\appcompat-v7-23.4.0.aar\5bfae358ce9383a6adc3d0328d3051cd\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:animated-vector-drawable:23.4.0] C:\Users\zhp\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-23.4.0.aar\a863771122a9b4b6d91a7650217c7301\AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:animated-vector-drawable:23.4.0] C:\Users\zhp\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-23.4.0.aar\a863771122a9b4b6d91a7650217c7301\AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:support-vector-drawable:23.4.0] C:\Users\zhp\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-23.4.0.aar\58f2b8a2adb9eac8d28dcb48a1c831c0\AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:support-vector-drawable:23.4.0] C:\Users\zhp\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-23.4.0.aar\58f2b8a2adb9eac8d28dcb48a1c831c0\AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:support-v4:23.4.0] C:\Users\zhp\.gradle\caches\transforms-1\files-1.1\support-v4-23.4.0.aar\c59c5677fb868f74065898bf7845fdbd\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:23.4.0] C:\Users\zhp\.gradle\caches\transforms-1\files-1.1\support-v4-23.4.0.aar\c59c5677fb868f74065898bf7845fdbd\AndroidManifest.xml:22:5-20
+	android:label
+		ADDED from G:\demo2.1\app\src\main\AndroidManifest.xml:48:9-41
+	android:icon
+		ADDED from G:\demo2.1\app\src\main\AndroidManifest.xml:47:9-45
+	android:allowBackup
+		ADDED from G:\demo2.1\app\src\main\AndroidManifest.xml:46:9-35
+	android:theme
+		ADDED from G:\demo2.1\app\src\main\AndroidManifest.xml:49:9-40
+	android:name
+		ADDED from G:\demo2.1\app\src\main\AndroidManifest.xml:45:9-58
+activity#com.thecamhi.main.MainActivity
+ADDED from G:\demo2.1\app\src\main\AndroidManifest.xml:50:9-61:20
+	android:screenOrientation
+		ADDED from G:\demo2.1\app\src\main\AndroidManifest.xml:55:13-49
+	android:label
+		ADDED from G:\demo2.1\app\src\main\AndroidManifest.xml:53:13-45
+	android:launchMode
+		ADDED from G:\demo2.1\app\src\main\AndroidManifest.xml:54:13-43
+	android:configChanges
+		ADDED from G:\demo2.1\app\src\main\AndroidManifest.xml:52:13-74
+	android:name
+		ADDED from G:\demo2.1\app\src\main\AndroidManifest.xml:51:13-58
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from G:\demo2.1\app\src\main\AndroidManifest.xml:56:13-60:29
+action#android.intent.action.MAIN
+ADDED from G:\demo2.1\app\src\main\AndroidManifest.xml:57:17-69
+	android:name
+		ADDED from G:\demo2.1\app\src\main\AndroidManifest.xml:57:25-66
+category#android.intent.category.LAUNCHER
+ADDED from G:\demo2.1\app\src\main\AndroidManifest.xml:59:17-77
+	android:name
+		ADDED from G:\demo2.1\app\src\main\AndroidManifest.xml:59:27-74
+activity#com.thecamhi.activity.AddCameraActivity
+ADDED from G:\demo2.1\app\src\main\AndroidManifest.xml:62:9-67:20
+	android:screenOrientation
+		ADDED from G:\demo2.1\app\src\main\AndroidManifest.xml:66:13-49
+	android:label
+		ADDED from G:\demo2.1\app\src\main\AndroidManifest.xml:65:13-45
+	android:configChanges
+		ADDED from G:\demo2.1\app\src\main\AndroidManifest.xml:64:13-74
+	android:name
+		ADDED from G:\demo2.1\app\src\main\AndroidManifest.xml:63:13-67
+activity#com.thecamhi.activity.SearchCameraActivity
+ADDED from G:\demo2.1\app\src\main\AndroidManifest.xml:68:9-73:20
+	android:screenOrientation
+		ADDED from G:\demo2.1\app\src\main\AndroidManifest.xml:72:13-49
+	android:label
+		ADDED from G:\demo2.1\app\src\main\AndroidManifest.xml:71:13-45
+	android:configChanges
+		ADDED from G:\demo2.1\app\src\main\AndroidManifest.xml:70:13-74
+	android:name
+		ADDED from G:\demo2.1\app\src\main\AndroidManifest.xml:69:13-70
+activity#com.thecamhi.zxing.CaptureActivity
+ADDED from G:\demo2.1\app\src\main\AndroidManifest.xml:74:9-79:20
+	android:screenOrientation
+		ADDED from G:\demo2.1\app\src\main\AndroidManifest.xml:78:13-49
+	android:label
+		ADDED from G:\demo2.1\app\src\main\AndroidManifest.xml:77:13-45
+	android:configChanges
+		ADDED from G:\demo2.1\app\src\main\AndroidManifest.xml:76:13-74
+	android:name
+		ADDED from G:\demo2.1\app\src\main\AndroidManifest.xml:75:13-62
+activity#com.thecamhi.activity.WifiOneKeySettingActivity
+ADDED from G:\demo2.1\app\src\main\AndroidManifest.xml:80:9-85:20
+	android:screenOrientation
+		ADDED from G:\demo2.1\app\src\main\AndroidManifest.xml:84:13-49
+	android:label
+		ADDED from G:\demo2.1\app\src\main\AndroidManifest.xml:83:13-45
+	android:configChanges
+		ADDED from G:\demo2.1\app\src\main\AndroidManifest.xml:82:13-74
+	android:name
+		ADDED from G:\demo2.1\app\src\main\AndroidManifest.xml:81:13-75
+activity#com.thecamhi.activity.LiveViewActivity
+ADDED from G:\demo2.1\app\src\main\AndroidManifest.xml:86:9-92:20
+	android:screenOrientation
+		ADDED from G:\demo2.1\app\src\main\AndroidManifest.xml:90:13-50
+	android:label
+		ADDED from G:\demo2.1\app\src\main\AndroidManifest.xml:89:13-45
+	android:configChanges
+		ADDED from G:\demo2.1\app\src\main\AndroidManifest.xml:88:13-74
+	android:theme
+		ADDED from G:\demo2.1\app\src\main\AndroidManifest.xml:91:13-77
+	android:name
+		ADDED from G:\demo2.1\app\src\main\AndroidManifest.xml:87:13-66
+activity#com.thecamhi.activity.setting.AliveSettingActivity
+ADDED from G:\demo2.1\app\src\main\AndroidManifest.xml:93:9-98:20
+	android:screenOrientation
+		ADDED from G:\demo2.1\app\src\main\AndroidManifest.xml:97:13-49
+	android:label
+		ADDED from G:\demo2.1\app\src\main\AndroidManifest.xml:96:13-45
+	android:configChanges
+		ADDED from G:\demo2.1\app\src\main\AndroidManifest.xml:95:13-74
+	android:name
+		ADDED from G:\demo2.1\app\src\main\AndroidManifest.xml:94:13-78
+activity#com.thecamhi.activity.EditCameraActivity
+ADDED from G:\demo2.1\app\src\main\AndroidManifest.xml:99:9-104:20
+	android:screenOrientation
+		ADDED from G:\demo2.1\app\src\main\AndroidManifest.xml:103:13-49
+	android:label
+		ADDED from G:\demo2.1\app\src\main\AndroidManifest.xml:102:13-45
+	android:configChanges
+		ADDED from G:\demo2.1\app\src\main\AndroidManifest.xml:101:13-74
+	android:name
+		ADDED from G:\demo2.1\app\src\main\AndroidManifest.xml:100:13-68
+activity#com.thecamhi.activity.setting.PasswordSettingActivity
+ADDED from G:\demo2.1\app\src\main\AndroidManifest.xml:105:9-110:20
+	android:screenOrientation
+		ADDED from G:\demo2.1\app\src\main\AndroidManifest.xml:109:13-49
+	android:label
+		ADDED from G:\demo2.1\app\src\main\AndroidManifest.xml:108:13-45
+	android:configChanges
+		ADDED from G:\demo2.1\app\src\main\AndroidManifest.xml:107:13-74
+	android:name
+		ADDED from G:\demo2.1\app\src\main\AndroidManifest.xml:106:13-81
+activity#com.thecamhi.activity.setting.AlarmSettingActivity
+ADDED from G:\demo2.1\app\src\main\AndroidManifest.xml:111:9-116:20
+	android:screenOrientation
+		ADDED from G:\demo2.1\app\src\main\AndroidManifest.xml:115:13-49
+	android:label
+		ADDED from G:\demo2.1\app\src\main\AndroidManifest.xml:114:13-45
+	android:configChanges
+		ADDED from G:\demo2.1\app\src\main\AndroidManifest.xml:113:13-74
+	android:name
+		ADDED from G:\demo2.1\app\src\main\AndroidManifest.xml:112:13-78
+activity#com.thecamhi.activity.setting.AlarmActionActivity
+ADDED from G:\demo2.1\app\src\main\AndroidManifest.xml:117:9-122:20
+	android:screenOrientation
+		ADDED from G:\demo2.1\app\src\main\AndroidManifest.xml:121:13-49
+	android:label
+		ADDED from G:\demo2.1\app\src\main\AndroidManifest.xml:120:13-45
+	android:configChanges
+		ADDED from G:\demo2.1\app\src\main\AndroidManifest.xml:119:13-74
+	android:name
+		ADDED from G:\demo2.1\app\src\main\AndroidManifest.xml:118:13-77
+activity#com.thecamhi.activity.setting.TimeVideoActivity
+ADDED from G:\demo2.1\app\src\main\AndroidManifest.xml:123:9-128:20
+	android:screenOrientation
+		ADDED from G:\demo2.1\app\src\main\AndroidManifest.xml:127:13-49
+	android:label
+		ADDED from G:\demo2.1\app\src\main\AndroidManifest.xml:126:13-45
+	android:configChanges
+		ADDED from G:\demo2.1\app\src\main\AndroidManifest.xml:125:13-74
+	android:name
+		ADDED from G:\demo2.1\app\src\main\AndroidManifest.xml:124:13-75
+activity#com.thecamhi.activity.setting.AudioSettingActivity
+ADDED from G:\demo2.1\app\src\main\AndroidManifest.xml:129:9-134:20
+	android:screenOrientation
+		ADDED from G:\demo2.1\app\src\main\AndroidManifest.xml:133:13-49
+	android:label
+		ADDED from G:\demo2.1\app\src\main\AndroidManifest.xml:132:13-45
+	android:configChanges
+		ADDED from G:\demo2.1\app\src\main\AndroidManifest.xml:131:13-74
+	android:name
+		ADDED from G:\demo2.1\app\src\main\AndroidManifest.xml:130:13-78
+activity#com.thecamhi.activity.setting.VideoSettingActivity
+ADDED from G:\demo2.1\app\src\main\AndroidManifest.xml:135:9-141:20
+	android:screenOrientation
+		ADDED from G:\demo2.1\app\src\main\AndroidManifest.xml:139:13-49
+	android:label
+		ADDED from G:\demo2.1\app\src\main\AndroidManifest.xml:138:13-45
+	android:windowSoftInputMode
+		ADDED from G:\demo2.1\app\src\main\AndroidManifest.xml:140:13-72
+	android:configChanges
+		ADDED from G:\demo2.1\app\src\main\AndroidManifest.xml:137:13-74
+	android:name
+		ADDED from G:\demo2.1\app\src\main\AndroidManifest.xml:136:13-78
+activity#com.thecamhi.activity.setting.WifiSettingActivity
+ADDED from G:\demo2.1\app\src\main\AndroidManifest.xml:142:9-148:20
+	android:screenOrientation
+		ADDED from G:\demo2.1\app\src\main\AndroidManifest.xml:146:13-49
+	android:label
+		ADDED from G:\demo2.1\app\src\main\AndroidManifest.xml:145:13-45
+	android:windowSoftInputMode
+		ADDED from G:\demo2.1\app\src\main\AndroidManifest.xml:147:13-72
+	android:configChanges
+		ADDED from G:\demo2.1\app\src\main\AndroidManifest.xml:144:13-74
+	android:name
+		ADDED from G:\demo2.1\app\src\main\AndroidManifest.xml:143:13-77
+activity#com.thecamhi.activity.setting.SDCardSettingActivity
+ADDED from G:\demo2.1\app\src\main\AndroidManifest.xml:149:9-155:20
+	android:screenOrientation
+		ADDED from G:\demo2.1\app\src\main\AndroidManifest.xml:153:13-49
+	android:label
+		ADDED from G:\demo2.1\app\src\main\AndroidManifest.xml:152:13-45
+	android:windowSoftInputMode
+		ADDED from G:\demo2.1\app\src\main\AndroidManifest.xml:154:13-72
+	android:configChanges
+		ADDED from G:\demo2.1\app\src\main\AndroidManifest.xml:151:13-74
+	android:name
+		ADDED from G:\demo2.1\app\src\main\AndroidManifest.xml:150:13-79
+activity#com.thecamhi.activity.setting.TimeSettingActivity
+ADDED from G:\demo2.1\app\src\main\AndroidManifest.xml:156:9-162:20
+	android:screenOrientation
+		ADDED from G:\demo2.1\app\src\main\AndroidManifest.xml:160:13-49
+	android:label
+		ADDED from G:\demo2.1\app\src\main\AndroidManifest.xml:159:13-45
+	android:windowSoftInputMode
+		ADDED from G:\demo2.1\app\src\main\AndroidManifest.xml:161:13-72
+	android:configChanges
+		ADDED from G:\demo2.1\app\src\main\AndroidManifest.xml:158:13-74
+	android:name
+		ADDED from G:\demo2.1\app\src\main\AndroidManifest.xml:157:13-77
+activity#com.thecamhi.activity.setting.EmailSettingActivity
+ADDED from G:\demo2.1\app\src\main\AndroidManifest.xml:163:9-169:20
+	android:screenOrientation
+		ADDED from G:\demo2.1\app\src\main\AndroidManifest.xml:167:13-49
+	android:label
+		ADDED from G:\demo2.1\app\src\main\AndroidManifest.xml:166:13-45
+	android:windowSoftInputMode
+		ADDED from G:\demo2.1\app\src\main\AndroidManifest.xml:168:13-72
+	android:configChanges
+		ADDED from G:\demo2.1\app\src\main\AndroidManifest.xml:165:13-74
+	android:name
+		ADDED from G:\demo2.1\app\src\main\AndroidManifest.xml:164:13-78
+activity#com.thecamhi.activity.setting.FtpSettingActivity
+ADDED from G:\demo2.1\app\src\main\AndroidManifest.xml:170:9-176:20
+	android:screenOrientation
+		ADDED from G:\demo2.1\app\src\main\AndroidManifest.xml:174:13-49
+	android:label
+		ADDED from G:\demo2.1\app\src\main\AndroidManifest.xml:173:13-45
+	android:windowSoftInputMode
+		ADDED from G:\demo2.1\app\src\main\AndroidManifest.xml:175:13-72
+	android:configChanges
+		ADDED from G:\demo2.1\app\src\main\AndroidManifest.xml:172:13-74
+	android:name
+		ADDED from G:\demo2.1\app\src\main\AndroidManifest.xml:171:13-76
+activity#com.thecamhi.activity.setting.SystemSettingActivity
+ADDED from G:\demo2.1\app\src\main\AndroidManifest.xml:177:9-182:20
+	android:screenOrientation
+		ADDED from G:\demo2.1\app\src\main\AndroidManifest.xml:181:13-49
+	android:label
+		ADDED from G:\demo2.1\app\src\main\AndroidManifest.xml:180:13-45
+	android:configChanges
+		ADDED from G:\demo2.1\app\src\main\AndroidManifest.xml:179:13-74
+	android:name
+		ADDED from G:\demo2.1\app\src\main\AndroidManifest.xml:178:13-79
+activity#com.thecamhi.activity.setting.DeviceInfoActivity
+ADDED from G:\demo2.1\app\src\main\AndroidManifest.xml:183:9-188:20
+	android:screenOrientation
+		ADDED from G:\demo2.1\app\src\main\AndroidManifest.xml:187:13-49
+	android:label
+		ADDED from G:\demo2.1\app\src\main\AndroidManifest.xml:186:13-45
+	android:configChanges
+		ADDED from G:\demo2.1\app\src\main\AndroidManifest.xml:185:13-74
+	android:name
+		ADDED from G:\demo2.1\app\src\main\AndroidManifest.xml:184:13-76
+activity#com.thecamhi.activity.LocalPictureActivity
+ADDED from G:\demo2.1\app\src\main\AndroidManifest.xml:189:9-194:20
+	android:screenOrientation
+		ADDED from G:\demo2.1\app\src\main\AndroidManifest.xml:193:13-49
+	android:label
+		ADDED from G:\demo2.1\app\src\main\AndroidManifest.xml:192:13-45
+	android:configChanges
+		ADDED from G:\demo2.1\app\src\main\AndroidManifest.xml:191:13-74
+	android:name
+		ADDED from G:\demo2.1\app\src\main\AndroidManifest.xml:190:13-70
+activity#com.thecamhi.activity.VideoLocalActivity
+ADDED from G:\demo2.1\app\src\main\AndroidManifest.xml:195:9-200:20
+	android:screenOrientation
+		ADDED from G:\demo2.1\app\src\main\AndroidManifest.xml:199:13-49
+	android:label
+		ADDED from G:\demo2.1\app\src\main\AndroidManifest.xml:198:13-45
+	android:configChanges
+		ADDED from G:\demo2.1\app\src\main\AndroidManifest.xml:197:13-74
+	android:name
+		ADDED from G:\demo2.1\app\src\main\AndroidManifest.xml:196:13-68
+activity#com.thecamhi.activity.VideoOnlineActivity
+ADDED from G:\demo2.1\app\src\main\AndroidManifest.xml:201:9-206:20
+	android:screenOrientation
+		ADDED from G:\demo2.1\app\src\main\AndroidManifest.xml:205:13-49
+	android:label
+		ADDED from G:\demo2.1\app\src\main\AndroidManifest.xml:204:13-45
+	android:configChanges
+		ADDED from G:\demo2.1\app\src\main\AndroidManifest.xml:203:13-74
+	android:name
+		ADDED from G:\demo2.1\app\src\main\AndroidManifest.xml:202:13-69
+activity#com.thecamhi.activity.PlaybackOnlineActivity
+ADDED from G:\demo2.1\app\src\main\AndroidManifest.xml:207:9-212:20
+	android:screenOrientation
+		ADDED from G:\demo2.1\app\src\main\AndroidManifest.xml:211:13-50
+	android:label
+		ADDED from G:\demo2.1\app\src\main\AndroidManifest.xml:210:13-45
+	android:configChanges
+		ADDED from G:\demo2.1\app\src\main\AndroidManifest.xml:209:13-74
+	android:name
+		ADDED from G:\demo2.1\app\src\main\AndroidManifest.xml:208:13-72
+activity#com.thecamhi.activity.SearchSDCardVideoActivity
+ADDED from G:\demo2.1\app\src\main\AndroidManifest.xml:213:9-218:20
+	android:screenOrientation
+		ADDED from G:\demo2.1\app\src\main\AndroidManifest.xml:217:13-49
+	android:label
+		ADDED from G:\demo2.1\app\src\main\AndroidManifest.xml:216:13-45
+	android:configChanges
+		ADDED from G:\demo2.1\app\src\main\AndroidManifest.xml:215:13-74
+	android:name
+		ADDED from G:\demo2.1\app\src\main\AndroidManifest.xml:214:13-75
+activity#com.hichip.activity.ConstomSearchActivity
+ADDED from G:\demo2.1\app\src\main\AndroidManifest.xml:219:9-224:20
+	android:screenOrientation
+		ADDED from G:\demo2.1\app\src\main\AndroidManifest.xml:223:13-49
+	android:label
+		ADDED from G:\demo2.1\app\src\main\AndroidManifest.xml:222:13-45
+	android:configChanges
+		ADDED from G:\demo2.1\app\src\main\AndroidManifest.xml:221:13-74
+	android:name
+		ADDED from G:\demo2.1\app\src\main\AndroidManifest.xml:220:13-69
+activity#com.hichip.activity.WifiSetToDeviceActivity
+ADDED from G:\demo2.1\app\src\main\AndroidManifest.xml:225:9-230:20
+	android:screenOrientation
+		ADDED from G:\demo2.1\app\src\main\AndroidManifest.xml:229:13-49
+	android:label
+		ADDED from G:\demo2.1\app\src\main\AndroidManifest.xml:228:13-45
+	android:configChanges
+		ADDED from G:\demo2.1\app\src\main\AndroidManifest.xml:227:13-74
+	android:name
+		ADDED from G:\demo2.1\app\src\main\AndroidManifest.xml:226:13-71
+activity#com.hichip.activity.TimeZoneListActivity
+ADDED from G:\demo2.1\app\src\main\AndroidManifest.xml:231:9-236:20
+	android:screenOrientation
+		ADDED from G:\demo2.1\app\src\main\AndroidManifest.xml:235:13-49
+	android:label
+		ADDED from G:\demo2.1\app\src\main\AndroidManifest.xml:234:13-45
+	android:configChanges
+		ADDED from G:\demo2.1\app\src\main\AndroidManifest.xml:233:13-74
+	android:name
+		ADDED from G:\demo2.1\app\src\main\AndroidManifest.xml:232:13-68
+activity#com.hichip.pictureviewer.ImagePagerActivity
+ADDED from G:\demo2.1\app\src\main\AndroidManifest.xml:237:9-242:20
+	android:screenOrientation
+		ADDED from G:\demo2.1\app\src\main\AndroidManifest.xml:241:13-49
+	android:label
+		ADDED from G:\demo2.1\app\src\main\AndroidManifest.xml:240:13-45
+	android:configChanges
+		ADDED from G:\demo2.1\app\src\main\AndroidManifest.xml:239:13-74
+	android:name
+		ADDED from G:\demo2.1\app\src\main\AndroidManifest.xml:238:13-71
+activity#com.hichip.activity.PlaybackLocalActivity
+ADDED from G:\demo2.1\app\src\main\AndroidManifest.xml:243:9-248:20
+	android:screenOrientation
+		ADDED from G:\demo2.1\app\src\main\AndroidManifest.xml:247:13-50
+	android:label
+		ADDED from G:\demo2.1\app\src\main\AndroidManifest.xml:246:13-45
+	android:configChanges
+		ADDED from G:\demo2.1\app\src\main\AndroidManifest.xml:245:13-74
+	android:name
+		ADDED from G:\demo2.1\app\src\main\AndroidManifest.xml:244:13-69
+activity#com.hichip.activity.RF.RFActivity
+ADDED from G:\demo2.1\app\src\main\AndroidManifest.xml:249:9-254:20
+	android:screenOrientation
+		ADDED from G:\demo2.1\app\src\main\AndroidManifest.xml:253:13-49
+	android:label
+		ADDED from G:\demo2.1\app\src\main\AndroidManifest.xml:252:13-45
+	android:configChanges
+		ADDED from G:\demo2.1\app\src\main\AndroidManifest.xml:251:13-74
+	android:name
+		ADDED from G:\demo2.1\app\src\main\AndroidManifest.xml:250:13-61
+activity#com.hichip.activity.RF.AddRFActivity
+ADDED from G:\demo2.1\app\src\main\AndroidManifest.xml:255:9-260:20
+	android:screenOrientation
+		ADDED from G:\demo2.1\app\src\main\AndroidManifest.xml:259:13-49
+	android:label
+		ADDED from G:\demo2.1\app\src\main\AndroidManifest.xml:258:13-45
+	android:configChanges
+		ADDED from G:\demo2.1\app\src\main\AndroidManifest.xml:257:13-74
+	android:name
+		ADDED from G:\demo2.1\app\src\main\AndroidManifest.xml:256:13-64
+activity#com.hichip.activity.RF.RemoteControlActivity
+ADDED from G:\demo2.1\app\src\main\AndroidManifest.xml:261:9-266:20
+	android:screenOrientation
+		ADDED from G:\demo2.1\app\src\main\AndroidManifest.xml:265:13-49
+	android:label
+		ADDED from G:\demo2.1\app\src\main\AndroidManifest.xml:264:13-45
+	android:configChanges
+		ADDED from G:\demo2.1\app\src\main\AndroidManifest.xml:263:13-74
+	android:name
+		ADDED from G:\demo2.1\app\src\main\AndroidManifest.xml:262:13-72
+activity#com.hichip.activity.RF.CheckRFCodeActivity
+ADDED from G:\demo2.1\app\src\main\AndroidManifest.xml:267:9-272:20
+	android:screenOrientation
+		ADDED from G:\demo2.1\app\src\main\AndroidManifest.xml:271:13-49
+	android:label
+		ADDED from G:\demo2.1\app\src\main\AndroidManifest.xml:270:13-45
+	android:configChanges
+		ADDED from G:\demo2.1\app\src\main\AndroidManifest.xml:269:13-74
+	android:name
+		ADDED from G:\demo2.1\app\src\main\AndroidManifest.xml:268:13-70
+activity#com.hichip.activity.RF.SetUpAndAddRFActivity
+ADDED from G:\demo2.1\app\src\main\AndroidManifest.xml:273:9-278:20
+	android:screenOrientation
+		ADDED from G:\demo2.1\app\src\main\AndroidManifest.xml:277:13-49
+	android:label
+		ADDED from G:\demo2.1\app\src\main\AndroidManifest.xml:276:13-45
+	android:configChanges
+		ADDED from G:\demo2.1\app\src\main\AndroidManifest.xml:275:13-74
+	android:name
+		ADDED from G:\demo2.1\app\src\main\AndroidManifest.xml:274:13-72
+activity#com.hichip.activity.RF.RFAlarmlog
+ADDED from G:\demo2.1\app\src\main\AndroidManifest.xml:279:9-284:20
+	android:screenOrientation
+		ADDED from G:\demo2.1\app\src\main\AndroidManifest.xml:283:13-49
+	android:label
+		ADDED from G:\demo2.1\app\src\main\AndroidManifest.xml:282:13-45
+	android:configChanges
+		ADDED from G:\demo2.1\app\src\main\AndroidManifest.xml:281:13-74
+	android:name
+		ADDED from G:\demo2.1\app\src\main\AndroidManifest.xml:280:13-61
+activity#com.hichip.activity.RF.RemoteControlKeyActivity
+ADDED from G:\demo2.1\app\src\main\AndroidManifest.xml:285:9-290:20
+	android:screenOrientation
+		ADDED from G:\demo2.1\app\src\main\AndroidManifest.xml:289:13-49
+	android:label
+		ADDED from G:\demo2.1\app\src\main\AndroidManifest.xml:288:13-45
+	android:configChanges
+		ADDED from G:\demo2.1\app\src\main\AndroidManifest.xml:287:13-74
+	android:name
+		ADDED from G:\demo2.1\app\src\main\AndroidManifest.xml:286:13-75
+activity#com.hichip.activity.FishEye.FishEyeActivity
+ADDED from G:\demo2.1\app\src\main\AndroidManifest.xml:291:9-296:20
+	android:screenOrientation
+		ADDED from G:\demo2.1\app\src\main\AndroidManifest.xml:295:13-49
+	android:label
+		ADDED from G:\demo2.1\app\src\main\AndroidManifest.xml:294:13-45
+	android:configChanges
+		ADDED from G:\demo2.1\app\src\main\AndroidManifest.xml:293:13-74
+	android:name
+		ADDED from G:\demo2.1\app\src\main\AndroidManifest.xml:292:13-71
+activity#com.tencent.android.tpush.XGPushActivity
+ADDED from G:\demo2.1\app\src\main\AndroidManifest.xml:299:9-308:20
+	android:exported
+		ADDED from G:\demo2.1\app\src\main\AndroidManifest.xml:301:13-37
+	android:theme
+		ADDED from G:\demo2.1\app\src\main\AndroidManifest.xml:302:13-61
+	android:name
+		ADDED from G:\demo2.1\app\src\main\AndroidManifest.xml:300:13-68
+intent-filter#android.intent.action
+ADDED from G:\demo2.1\app\src\main\AndroidManifest.xml:303:13-307:29
+action#android.intent.action
+ADDED from G:\demo2.1\app\src\main\AndroidManifest.xml:306:17-64
+	android:name
+		ADDED from G:\demo2.1\app\src\main\AndroidManifest.xml:306:25-61
+activity#com.hichip.activity.Share.SeleShaCameraListActivity
+ADDED from G:\demo2.1\app\src\main\AndroidManifest.xml:309:9-314:20
+	android:screenOrientation
+		ADDED from G:\demo2.1\app\src\main\AndroidManifest.xml:313:13-49
+	android:label
+		ADDED from G:\demo2.1\app\src\main\AndroidManifest.xml:312:13-45
+	android:configChanges
+		ADDED from G:\demo2.1\app\src\main\AndroidManifest.xml:311:13-74
+	android:name
+		ADDED from G:\demo2.1\app\src\main\AndroidManifest.xml:310:13-79
+activity#com.hichip.activity.Share.ShareQRCodeActivity
+ADDED from G:\demo2.1\app\src\main\AndroidManifest.xml:315:9-323:20
+	android:screenOrientation
+		ADDED from G:\demo2.1\app\src\main\AndroidManifest.xml:319:13-49
+	android:label
+		ADDED from G:\demo2.1\app\src\main\AndroidManifest.xml:318:13-45
+	android:configChanges
+		ADDED from G:\demo2.1\app\src\main\AndroidManifest.xml:317:13-74
+	android:name
+		ADDED from G:\demo2.1\app\src\main\AndroidManifest.xml:316:13-73
+action#android.intent.action.SEND
+ADDED from G:\demo2.1\app\src\main\AndroidManifest.xml:320:13-65
+	android:name
+		ADDED from G:\demo2.1\app\src\main\AndroidManifest.xml:320:21-62
+category#android.intent.category.DEFAULT
+ADDED from G:\demo2.1\app\src\main\AndroidManifest.xml:322:13-72
+	android:name
+		ADDED from G:\demo2.1\app\src\main\AndroidManifest.xml:322:23-69
+activity#com.hichip.activity.FishEye.FishPlaybackOnlineActivity
+ADDED from G:\demo2.1\app\src\main\AndroidManifest.xml:324:9-329:20
+	android:screenOrientation
+		ADDED from G:\demo2.1\app\src\main\AndroidManifest.xml:328:13-50
+	android:label
+		ADDED from G:\demo2.1\app\src\main\AndroidManifest.xml:327:13-45
+	android:configChanges
+		ADDED from G:\demo2.1\app\src\main\AndroidManifest.xml:326:13-74
+	android:name
+		ADDED from G:\demo2.1\app\src\main\AndroidManifest.xml:325:13-82
+activity#com.hichip.activity.FishEye.FishEyePlaybackLocalActivity
+ADDED from G:\demo2.1\app\src\main\AndroidManifest.xml:330:9-335:20
+	android:screenOrientation
+		ADDED from G:\demo2.1\app\src\main\AndroidManifest.xml:334:13-50
+	android:label
+		ADDED from G:\demo2.1\app\src\main\AndroidManifest.xml:333:13-45
+	android:configChanges
+		ADDED from G:\demo2.1\app\src\main\AndroidManifest.xml:332:13-74
+	android:name
+		ADDED from G:\demo2.1\app\src\main\AndroidManifest.xml:331:13-84
+activity#com.hichip.activity.FishEye.FishEyePhotoActivity
+ADDED from G:\demo2.1\app\src\main\AndroidManifest.xml:336:9-341:20
+	android:screenOrientation
+		ADDED from G:\demo2.1\app\src\main\AndroidManifest.xml:340:13-50
+	android:label
+		ADDED from G:\demo2.1\app\src\main\AndroidManifest.xml:339:13-45
+	android:configChanges
+		ADDED from G:\demo2.1\app\src\main\AndroidManifest.xml:338:13-74
+	android:name
+		ADDED from G:\demo2.1\app\src\main\AndroidManifest.xml:337:13-76
+receiver#com.tencent.android.tpush.XGPushReceiver
+ADDED from G:\demo2.1\app\src\main\AndroidManifest.xml:344:9-372:20
+	android:process
+		ADDED from G:\demo2.1\app\src\main\AndroidManifest.xml:346:13-45
+	android:name
+		ADDED from G:\demo2.1\app\src\main\AndroidManifest.xml:345:13-68
+intent-filter#android.bluetooth.adapter.action.STATE_CHANGED+android.intent.action.ACTION_POWER_CONNECTED+android.intent.action.ACTION_POWER_DISCONNECTED+android.intent.action.USER_PRESENT+android.net.conn.CONNECTIVITY_CHANGE+com.tencent.android.tpush.action.INTERNAL_PUSH_MESSAGE+com.tencent.android.tpush.action.SDK
+ADDED from G:\demo2.1\app\src\main\AndroidManifest.xml:347:13-362:29
+	android:priority
+		ADDED from G:\demo2.1\app\src\main\AndroidManifest.xml:347:28-57
+action#com.tencent.android.tpush.action.SDK
+ADDED from G:\demo2.1\app\src\main\AndroidManifest.xml:350:17-79
+	android:name
+		ADDED from G:\demo2.1\app\src\main\AndroidManifest.xml:350:25-76
+action#com.tencent.android.tpush.action.INTERNAL_PUSH_MESSAGE
+ADDED from G:\demo2.1\app\src\main\AndroidManifest.xml:351:17-97
+	android:name
+		ADDED from G:\demo2.1\app\src\main\AndroidManifest.xml:351:25-94
+action#android.net.conn.CONNECTIVITY_CHANGE
+ADDED from G:\demo2.1\app\src\main\AndroidManifest.xml:353:17-79
+	android:name
+		ADDED from G:\demo2.1\app\src\main\AndroidManifest.xml:353:25-76
+action#android.intent.action.USER_PRESENT
+ADDED from G:\demo2.1\app\src\main\AndroidManifest.xml:356:17-77
+	android:name
+		ADDED from G:\demo2.1\app\src\main\AndroidManifest.xml:356:25-74
+action#android.bluetooth.adapter.action.STATE_CHANGED
+ADDED from G:\demo2.1\app\src\main\AndroidManifest.xml:359:17-89
+	android:name
+		ADDED from G:\demo2.1\app\src\main\AndroidManifest.xml:359:25-86
+action#android.intent.action.ACTION_POWER_CONNECTED
+ADDED from G:\demo2.1\app\src\main\AndroidManifest.xml:360:17-87
+	android:name
+		ADDED from G:\demo2.1\app\src\main\AndroidManifest.xml:360:25-84
+action#android.intent.action.ACTION_POWER_DISCONNECTED
+ADDED from G:\demo2.1\app\src\main\AndroidManifest.xml:361:17-90
+	android:name
+		ADDED from G:\demo2.1\app\src\main\AndroidManifest.xml:361:25-87
+intent-filter#android.intent.action.MEDIA_CHECKING+android.intent.action.MEDIA_EJECT+android.intent.action.MEDIA_REMOVED+android.intent.action.MEDIA_UNMOUNTED
+ADDED from G:\demo2.1\app\src\main\AndroidManifest.xml:364:13-371:29
+	android:priority
+		ADDED from G:\demo2.1\app\src\main\AndroidManifest.xml:364:28-57
+action#android.intent.action.MEDIA_UNMOUNTED
+ADDED from G:\demo2.1\app\src\main\AndroidManifest.xml:365:17-80
+	android:name
+		ADDED from G:\demo2.1\app\src\main\AndroidManifest.xml:365:25-77
+action#android.intent.action.MEDIA_REMOVED
+ADDED from G:\demo2.1\app\src\main\AndroidManifest.xml:366:17-78
+	android:name
+		ADDED from G:\demo2.1\app\src\main\AndroidManifest.xml:366:25-75
+action#android.intent.action.MEDIA_CHECKING
+ADDED from G:\demo2.1\app\src\main\AndroidManifest.xml:367:17-79
+	android:name
+		ADDED from G:\demo2.1\app\src\main\AndroidManifest.xml:367:25-76
+action#android.intent.action.MEDIA_EJECT
+ADDED from G:\demo2.1\app\src\main\AndroidManifest.xml:368:17-76
+	android:name
+		ADDED from G:\demo2.1\app\src\main\AndroidManifest.xml:368:25-73
+data
+ADDED from G:\demo2.1\app\src\main\AndroidManifest.xml:370:17-47
+	android:scheme
+		ADDED from G:\demo2.1\app\src\main\AndroidManifest.xml:370:23-44
+service#com.tencent.android.tpush.service.XGPushServiceV3
+ADDED from G:\demo2.1\app\src\main\AndroidManifest.xml:406:9-410:48
+	android:process
+		ADDED from G:\demo2.1\app\src\main\AndroidManifest.xml:410:13-45
+	android:exported
+		ADDED from G:\demo2.1\app\src\main\AndroidManifest.xml:408:13-36
+	android:persistent
+		ADDED from G:\demo2.1\app\src\main\AndroidManifest.xml:409:13-38
+	android:name
+		ADDED from G:\demo2.1\app\src\main\AndroidManifest.xml:407:13-77
+service#com.tencent.android.tpush.service.XGDaemonService
+ADDED from G:\demo2.1\app\src\main\AndroidManifest.xml:413:9-415:48
+	android:process
+		ADDED from G:\demo2.1\app\src\main\AndroidManifest.xml:415:13-45
+	android:name
+		ADDED from G:\demo2.1\app\src\main\AndroidManifest.xml:414:13-77
+receiver#com.thecamhi.base.PushMessageReceiver
+ADDED from G:\demo2.1\app\src\main\AndroidManifest.xml:419:9-429:20
+	android:exported
+		ADDED from G:\demo2.1\app\src\main\AndroidManifest.xml:421:13-36
+	android:name
+		ADDED from G:\demo2.1\app\src\main\AndroidManifest.xml:420:13-65
+intent-filter#com.tencent.android.tpush.action.FEEDBACK+com.tencent.android.tpush.action.PUSH_MESSAGE
+ADDED from G:\demo2.1\app\src\main\AndroidManifest.xml:422:13-428:29
+action#com.tencent.android.tpush.action.PUSH_MESSAGE
+ADDED from G:\demo2.1\app\src\main\AndroidManifest.xml:425:17-88
+	android:name
+		ADDED from G:\demo2.1\app\src\main\AndroidManifest.xml:425:25-85
+action#com.tencent.android.tpush.action.FEEDBACK
+ADDED from G:\demo2.1\app\src\main\AndroidManifest.xml:427:17-84
+	android:name
+		ADDED from G:\demo2.1\app\src\main\AndroidManifest.xml:427:25-81
+provider#com.tencent.android.tpush.XGPushProvider
+ADDED from G:\demo2.1\app\src\main\AndroidManifest.xml:432:9-435:39
+	android:authorities
+		ADDED from G:\demo2.1\app\src\main\AndroidManifest.xml:434:13-57
+	android:exported
+		ADDED from G:\demo2.1\app\src\main\AndroidManifest.xml:435:13-36
+	android:name
+		ADDED from G:\demo2.1\app\src\main\AndroidManifest.xml:433:13-68
+provider#com.tencent.android.tpush.SettingsContentProvider
+ADDED from G:\demo2.1\app\src\main\AndroidManifest.xml:438:9-441:40
+	android:authorities
+		ADDED from G:\demo2.1\app\src\main\AndroidManifest.xml:440:13-60
+	android:exported
+		ADDED from G:\demo2.1\app\src\main\AndroidManifest.xml:441:13-37
+	android:name
+		ADDED from G:\demo2.1\app\src\main\AndroidManifest.xml:439:13-77
+provider#com.tencent.mid.api.MidProvider
+ADDED from G:\demo2.1\app\src\main\AndroidManifest.xml:444:9-448:20
+	android:authorities
+		ADDED from G:\demo2.1\app\src\main\AndroidManifest.xml:446:13-60
+	android:exported
+		ADDED from G:\demo2.1\app\src\main\AndroidManifest.xml:447:13-36
+	android:name
+		ADDED from G:\demo2.1\app\src\main\AndroidManifest.xml:445:13-59
+meta-data#XG_V2_ACCESS_ID
+ADDED from G:\demo2.1\app\src\main\AndroidManifest.xml:451:9-453:42
+	android:value
+		ADDED from G:\demo2.1\app\src\main\AndroidManifest.xml:453:13-39
+	android:name
+		ADDED from G:\demo2.1\app\src\main\AndroidManifest.xml:452:13-43
+meta-data#XG_V2_ACCESS_KEY
+ADDED from G:\demo2.1\app\src\main\AndroidManifest.xml:456:9-458:44
+	android:value
+		ADDED from G:\demo2.1\app\src\main\AndroidManifest.xml:458:13-41
+	android:name
+		ADDED from G:\demo2.1\app\src\main\AndroidManifest.xml:457:13-44

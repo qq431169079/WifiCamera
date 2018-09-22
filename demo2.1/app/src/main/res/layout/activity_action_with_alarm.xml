@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/edit_box_bg"
+    android:orientation="vertical" >
+
+    <com.thecamhi.base.TitleView
+        android:id="@+id/title_top"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+    <RelativeLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="5dp"
+        android:background="@drawable/nor_background_ll"
+        android:orientation="horizontal"
+        android:padding="10dip" >
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            android:text="@string/alarm_push" />
+
+        <com.hichip.widget.SwitchButton
+            android:id="@+id/alarm_push_push_tgbtn"
+            style="@style/SwitchButtonStyle"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"
+        />
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="5dp"
+        android:background="@drawable/nor_background_ll"
+        android:orientation="horizontal"
+        android:padding="10dip" >
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            android:text="@string/alarm_sd_card_video" />
+
+        <com.hichip.widget.SwitchButton
+            android:id="@+id/alarm_push_sd_video_tgbtn"
+            style="@style/SwitchButtonStyle"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"
+            />
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="5dp"
+        android:background="@drawable/nor_background_ll"
+        android:orientation="horizontal"
+        android:padding="10dip" >
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            android:text="@string/email_alarm_and_send_pictures" />
+
+        <com.hichip.widget.SwitchButton
+            android:id="@+id/alarm_push_email_alarm_tgbtn"
+            style="@style/SwitchButtonStyle"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"
+            />
+    </RelativeLayout>
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="5dp"
+        android:background="@drawable/nor_background_ll"
+        android:orientation="vertical"
+        android:padding="10dip" >
+
+        <RelativeLayout
+            android:id="@+id/save_picture_to_ftp_ll"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" >
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerVertical="true"
+                android:text="@string/save_pictures_to_ftp_server" />
+
+            <com.hichip.widget.SwitchButton
+                android:id="@+id/alarm_push_save_picture_tgbtn"
+                style="@style/SwitchButtonStyle"
+                android:layout_alignParentRight="true"
+                android:layout_centerVertical="true"
+              />
+        </RelativeLayout>
+
+        <RelativeLayout
+            android:id="@+id/save_video_to_ftp_ll"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="5dip" >
+
+            <TextView
+                android:id="@+id/save_video_ftp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerVertical="true"
+                android:text="@string/save_videos_to_ftp_server" />
+
+            <com.hichip.widget.SwitchButton
+                android:id="@+id/alarm_push_video_tgbtn"
+                style="@style/SwitchButtonStyle"
+                android:layout_alignParentRight="true"
+                android:layout_centerVertical="true"
+                />
+        </RelativeLayout>
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/action_alarm_picture_num_ll"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="5dip"
+        android:background="@drawable/nor_background_ll"
+        android:orientation="vertical"
+        android:padding="10dip"
+        android:visibility="gone" >
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/take_picture_counts" />
+
+        <RadioGroup
+            android:id="@+id/radioGroup_alarm_action"
+            android:layout_width="wrap_content"
+            android:layout_height="34dp"
+            android:layout_gravity="center_horizontal"
+            android:layout_marginTop="10dp"
+            android:orientation="horizontal" >
+
+            <RadioButton
+                android:id="@+id/radio_one"
+                style="@style/radio_btn_style"
+                android:layout_marginRight="1dp"
+                android:background="@drawable/radio_btn_picture_fragment_left_bg"
+                android:button="@null"
+                android:gravity="center"
+                android:text="1"
+                android:textColor="@drawable/radio_button_font_style"
+                android:textSize="16sp" />
+
+            <RadioButton
+                android:id="@+id/radio_two"
+                style="@style/radio_btn_style"
+                android:layout_marginRight="1dp"
+                android:background="@drawable/radio_btn_picture_fragment_middle_bg"
+                android:button="@null"
+                android:gravity="center"
+                android:text="2"
+                android:textColor="@drawable/radio_button_font_style"
+                android:textSize="16sp" />
+
+            <RadioButton
+                android:id="@+id/radio_there"
+                style="@style/radio_btn_style"
+                android:background="@drawable/radio_btn_picture_fragment_right_bg"
+                android:button="@null"
+                android:gravity="center"
+                android:text="3"
+                android:textColor="@drawable/radio_button_font_style"
+                android:textSize="16sp" />
+        </RadioGroup>
+    </LinearLayout>
+
+</LinearLayout>

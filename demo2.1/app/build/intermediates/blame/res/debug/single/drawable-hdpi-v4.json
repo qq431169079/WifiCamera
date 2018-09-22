@@ -1,0 +1,1402 @@
+[
+    {
+        "merged": "F:\\demo2.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\camhi_tabbar_select_camera.png",
+        "source": "F:\\demo2.1\\app\\src\\main\\res\\drawable-hdpi\\camhi_tabbar_select_camera.png"
+    },
+    {
+        "merged": "F:\\demo2.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\tow_divide_sele.png",
+        "source": "F:\\demo2.1\\app\\src\\main\\res\\drawable-hdpi\\tow_divide_sele.png"
+    },
+    {
+        "merged": "F:\\demo2.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_setting_btn.png",
+        "source": "F:\\demo2.1\\app\\src\\main\\res\\drawable-hdpi\\ic_setting_btn.png"
+    },
+    {
+        "merged": "F:\\demo2.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_switch_track_mtrl_alpha.9.png",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.4.0.aar\\dd9a55aac51ce73dc3ef6c150e584100\\res\\drawable-hdpi-v4\\abc_switch_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "G:\\demo2.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\cruise.png",
+        "source": "G:\\demo2.1\\app\\src\\main\\res\\drawable-hdpi\\cruise.png"
+    },
+    {
+        "merged": "F:\\demo2.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\camhi_live_normal_micphone.png",
+        "source": "F:\\demo2.1\\app\\src\\main\\res\\drawable-hdpi\\camhi_live_normal_micphone.png"
+    },
+    {
+        "merged": "F:\\demo2.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\title_btn_back_pre.png",
+        "source": "F:\\demo2.1\\app\\src\\main\\res\\drawable-hdpi\\title_btn_back_pre.png"
+    },
+    {
+        "merged": "G:\\demo2.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\radar_11.png",
+        "source": "G:\\demo2.1\\app\\src\\main\\res\\drawable-hdpi\\radar_11.png"
+    },
+    {
+        "merged": "F:\\demo2.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\fast_forward.png",
+        "source": "F:\\demo2.1\\app\\src\\main\\res\\drawable-hdpi\\fast_forward.png"
+    },
+    {
+        "merged": "G:\\demo2.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\alarm_5.png",
+        "source": "G:\\demo2.1\\app\\src\\main\\res\\drawable-hdpi\\alarm_5.png"
+    },
+    {
+        "merged": "G:\\demo2.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_menu_copy_mtrl_am_alpha.png",
+        "source": "C:\\Users\\zhp\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.4.0.aar\\5bfae358ce9383a6adc3d0328d3051cd\\res\\drawable-hdpi-v4\\abc_ic_menu_copy_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "F:\\demo2.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_btn_rating_star_on_mtrl_alpha.png",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.4.0.aar\\dd9a55aac51ce73dc3ef6c150e584100\\res\\drawable-hdpi-v4\\abc_btn_rating_star_on_mtrl_alpha.png"
+    },
+    {
+        "merged": "F:\\demo2.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_textfield_search_activated_mtrl_alpha.9.png",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.4.0.aar\\dd9a55aac51ce73dc3ef6c150e584100\\res\\drawable-hdpi-v4\\abc_textfield_search_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "F:\\demo2.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\add_wireless_setting.png",
+        "source": "F:\\demo2.1\\app\\src\\main\\res\\drawable-hdpi\\add_wireless_setting.png"
+    },
+    {
+        "merged": "F:\\demo2.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\bowl_select.png",
+        "source": "F:\\demo2.1\\app\\src\\main\\res\\drawable-hdpi\\bowl_select.png"
+    },
+    {
+        "merged": "F:\\demo2.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\add_sense.png",
+        "source": "F:\\demo2.1\\app\\src\\main\\res\\drawable-hdpi\\add_sense.png"
+    },
+    {
+        "merged": "G:\\demo2.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\camhi_tabbar_select_about.png",
+        "source": "G:\\demo2.1\\app\\src\\main\\res\\drawable-hdpi\\camhi_tabbar_select_about.png"
+    },
+    {
+        "merged": "F:\\demo2.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\refresh.png",
+        "source": "F:\\demo2.1\\app\\src\\main\\res\\drawable-hdpi\\refresh.png"
+    },
+    {
+        "merged": "G:\\demo2.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\tow_divide_sele.png",
+        "source": "G:\\demo2.1\\app\\src\\main\\res\\drawable-hdpi\\tow_divide_sele.png"
+    },
+    {
+        "merged": "G:\\demo2.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\refreshing_image_frame_01.png",
+        "source": "G:\\demo2.1\\app\\src\\main\\res\\drawable-hdpi\\refreshing_image_frame_01.png"
+    },
+    {
+        "merged": "F:\\demo2.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\alarm_select.png",
+        "source": "F:\\demo2.1\\app\\src\\main\\res\\drawable-hdpi\\alarm_select.png"
+    },
+    {
+        "merged": "G:\\demo2.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\hava_video.png",
+        "source": "G:\\demo2.1\\app\\src\\main\\res\\drawable-hdpi\\hava_video.png"
+    },
+    {
+        "merged": "G:\\demo2.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\add_scan_qr_code.png",
+        "source": "G:\\demo2.1\\app\\src\\main\\res\\drawable-hdpi\\add_scan_qr_code.png"
+    },
+    {
+        "merged": "G:\\demo2.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\gas.png",
+        "source": "G:\\demo2.1\\app\\src\\main\\res\\drawable-hdpi\\gas.png"
+    },
+    {
+        "merged": "F:\\demo2.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ab_share_pack_mtrl_alpha.9.png",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.4.0.aar\\dd9a55aac51ce73dc3ef6c150e584100\\res\\drawable-hdpi-v4\\abc_ab_share_pack_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "G:\\demo2.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\alarm_3.png",
+        "source": "G:\\demo2.1\\app\\src\\main\\res\\drawable-hdpi\\alarm_3.png"
+    },
+    {
+        "merged": "F:\\demo2.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\camhi_live_normal_exit.png",
+        "source": "F:\\demo2.1\\app\\src\\main\\res\\drawable-hdpi\\camhi_live_normal_exit.png"
+    },
+    {
+        "merged": "F:\\demo2.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\talk_normal.png",
+        "source": "F:\\demo2.1\\app\\src\\main\\res\\drawable-hdpi\\talk_normal.png"
+    },
+    {
+        "merged": "F:\\demo2.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\checkboc_unselect.png",
+        "source": "F:\\demo2.1\\app\\src\\main\\res\\drawable-hdpi\\checkboc_unselect.png"
+    },
+    {
+        "merged": "F:\\demo2.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_preference_last_normal.png",
+        "source": "F:\\demo2.1\\app\\src\\main\\res\\drawable-hdpi\\ic_preference_last_normal.png"
+    },
+    {
+        "merged": "F:\\demo2.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\full_screen.png",
+        "source": "F:\\demo2.1\\app\\src\\main\\res\\drawable-hdpi\\full_screen.png"
+    },
+    {
+        "merged": "F:\\demo2.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_btn_check_to_on_mtrl_015.png",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.4.0.aar\\dd9a55aac51ce73dc3ef6c150e584100\\res\\drawable-hdpi-v4\\abc_btn_check_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "F:\\demo2.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\power_button.png",
+        "source": "F:\\demo2.1\\app\\src\\main\\res\\drawable-hdpi\\power_button.png"
+    },
+    {
+        "merged": "G:\\demo2.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_btn_check_to_on_mtrl_015.png",
+        "source": "C:\\Users\\zhp\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.4.0.aar\\5bfae358ce9383a6adc3d0328d3051cd\\res\\drawable-hdpi-v4\\abc_btn_check_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "F:\\demo2.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\four_divide_sele.png",
+        "source": "F:\\demo2.1\\app\\src\\main\\res\\drawable-hdpi\\four_divide_sele.png"
+    },
+    {
+        "merged": "G:\\demo2.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\add_wireless_setting.png",
+        "source": "G:\\demo2.1\\app\\src\\main\\res\\drawable-hdpi\\add_wireless_setting.png"
+    },
+    {
+        "merged": "F:\\demo2.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_camera_key.png",
+        "source": "F:\\demo2.1\\app\\src\\main\\res\\drawable-hdpi\\ic_camera_key.png"
+    },
+    {
+        "merged": "F:\\demo2.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\screenshot.png",
+        "source": "F:\\demo2.1\\app\\src\\main\\res\\drawable-hdpi\\screenshot.png"
+    },
+    {
+        "merged": "G:\\demo2.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_delete.png",
+        "source": "G:\\demo2.1\\app\\src\\main\\res\\drawable-hdpi\\ic_delete.png"
+    },
+    {
+        "merged": "G:\\demo2.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_menu_share_mtrl_alpha.png",
+        "source": "C:\\Users\\zhp\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.4.0.aar\\5bfae358ce9383a6adc3d0328d3051cd\\res\\drawable-hdpi-v4\\abc_ic_menu_share_mtrl_alpha.png"
+    },
+    {
+        "merged": "F:\\demo2.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\refreshing_image_frame_02.png",
+        "source": "F:\\demo2.1\\app\\src\\main\\res\\drawable-hdpi\\refreshing_image_frame_02.png"
+    },
+    {
+        "merged": "F:\\demo2.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\share.png",
+        "source": "F:\\demo2.1\\app\\src\\main\\res\\drawable-hdpi\\share.png"
+    },
+    {
+        "merged": "G:\\demo2.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\pull_end_image_frame_01.png",
+        "source": "G:\\demo2.1\\app\\src\\main\\res\\drawable-hdpi\\pull_end_image_frame_01.png"
+    },
+    {
+        "merged": "G:\\demo2.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\full_screen.png",
+        "source": "G:\\demo2.1\\app\\src\\main\\res\\drawable-hdpi\\full_screen.png"
+    },
+    {
+        "merged": "F:\\demo2.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\voice.png",
+        "source": "F:\\demo2.1\\app\\src\\main\\res\\drawable-hdpi\\voice.png"
+    },
+    {
+        "merged": "G:\\demo2.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\scan_it.png",
+        "source": "G:\\demo2.1\\app\\src\\main\\res\\drawable-hdpi\\scan_it.png"
+    },
+    {
+        "merged": "G:\\demo2.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_add_camera.png",
+        "source": "G:\\demo2.1\\app\\src\\main\\res\\drawable-hdpi\\ic_add_camera.png"
+    },
+    {
+        "merged": "F:\\demo2.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\pull_end_image_frame_01.png",
+        "source": "F:\\demo2.1\\app\\src\\main\\res\\drawable-hdpi\\pull_end_image_frame_01.png"
+    },
+    {
+        "merged": "F:\\demo2.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_list_selector_disabled_holo_light.9.png",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.4.0.aar\\dd9a55aac51ce73dc3ef6c150e584100\\res\\drawable-hdpi-v4\\abc_list_selector_disabled_holo_light.9.png"
+    },
+    {
+        "merged": "F:\\demo2.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\unfold.png",
+        "source": "F:\\demo2.1\\app\\src\\main\\res\\drawable-hdpi\\unfold.png"
+    },
+    {
+        "merged": "F:\\demo2.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\infrared.png",
+        "source": "F:\\demo2.1\\app\\src\\main\\res\\drawable-hdpi\\infrared.png"
+    },
+    {
+        "merged": "F:\\demo2.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_textfield_activated_mtrl_alpha.9.png",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.4.0.aar\\dd9a55aac51ce73dc3ef6c150e584100\\res\\drawable-hdpi-v4\\abc_textfield_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "G:\\demo2.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_star_half_black_36dp.png",
+        "source": "C:\\Users\\zhp\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.4.0.aar\\5bfae358ce9383a6adc3d0328d3051cd\\res\\drawable-hdpi-v4\\abc_ic_star_half_black_36dp.png"
+    },
+    {
+        "merged": "G:\\demo2.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\alarm_normal.png",
+        "source": "G:\\demo2.1\\app\\src\\main\\res\\drawable-hdpi\\alarm_normal.png"
+    },
+    {
+        "merged": "F:\\demo2.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\camhi_tabbar_normal_about.png",
+        "source": "F:\\demo2.1\\app\\src\\main\\res\\drawable-hdpi\\camhi_tabbar_normal_about.png"
+    },
+    {
+        "merged": "G:\\demo2.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\refreshing_image_frame_03.png",
+        "source": "G:\\demo2.1\\app\\src\\main\\res\\drawable-hdpi\\refreshing_image_frame_03.png"
+    },
+    {
+        "merged": "F:\\demo2.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_scrubber_control_to_pressed_mtrl_000.png",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.4.0.aar\\dd9a55aac51ce73dc3ef6c150e584100\\res\\drawable-hdpi-v4\\abc_scrubber_control_to_pressed_mtrl_000.png"
+    },
+    {
+        "merged": "G:\\demo2.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\camhi_tabbar_select_picture.png",
+        "source": "G:\\demo2.1\\app\\src\\main\\res\\drawable-hdpi\\camhi_tabbar_select_picture.png"
+    },
+    {
+        "merged": "G:\\demo2.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\pull_end_image_frame_05.png",
+        "source": "G:\\demo2.1\\app\\src\\main\\res\\drawable-hdpi\\pull_end_image_frame_05.png"
+    },
+    {
+        "merged": "G:\\demo2.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\fire.png",
+        "source": "G:\\demo2.1\\app\\src\\main\\res\\drawable-hdpi\\fire.png"
+    },
+    {
+        "merged": "F:\\demo2.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_spinner_mtrl_am_alpha.9.png",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.4.0.aar\\dd9a55aac51ce73dc3ef6c150e584100\\res\\drawable-hdpi-v4\\abc_spinner_mtrl_am_alpha.9.png"
+    },
+    {
+        "merged": "F:\\demo2.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\camhi_live_normal_recording.png",
+        "source": "F:\\demo2.1\\app\\src\\main\\res\\drawable-hdpi\\camhi_live_normal_recording.png"
+    },
+    {
+        "merged": "G:\\demo2.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_preference_pressed.png",
+        "source": "G:\\demo2.1\\app\\src\\main\\res\\drawable-hdpi\\ic_preference_pressed.png"
+    },
+    {
+        "merged": "G:\\demo2.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\camhi_tabbar_select_camera.png",
+        "source": "G:\\demo2.1\\app\\src\\main\\res\\drawable-hdpi\\camhi_tabbar_select_camera.png"
+    },
+    {
+        "merged": "F:\\demo2.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_menu_cut_mtrl_alpha.png",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.4.0.aar\\dd9a55aac51ce73dc3ef6c150e584100\\res\\drawable-hdpi-v4\\abc_ic_menu_cut_mtrl_alpha.png"
+    },
+    {
+        "merged": "F:\\demo2.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\refreshing_image_frame_04.png",
+        "source": "F:\\demo2.1\\app\\src\\main\\res\\drawable-hdpi\\refreshing_image_frame_04.png"
+    },
+    {
+        "merged": "G:\\demo2.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\camhi_live_normal_mirror.png",
+        "source": "G:\\demo2.1\\app\\src\\main\\res\\drawable-hdpi\\camhi_live_normal_mirror.png"
+    },
+    {
+        "merged": "F:\\demo2.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_alarm.png",
+        "source": "F:\\demo2.1\\app\\src\\main\\res\\drawable-hdpi\\ic_alarm.png"
+    },
+    {
+        "merged": "F:\\demo2.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_list_longpressed_holo.9.png",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.4.0.aar\\dd9a55aac51ce73dc3ef6c150e584100\\res\\drawable-hdpi-v4\\abc_list_longpressed_holo.9.png"
+    },
+    {
+        "merged": "G:\\demo2.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_list_pressed_holo_light.9.png",
+        "source": "C:\\Users\\zhp\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.4.0.aar\\5bfae358ce9383a6adc3d0328d3051cd\\res\\drawable-hdpi-v4\\abc_list_pressed_holo_light.9.png"
+    },
+    {
+        "merged": "G:\\demo2.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\search.png",
+        "source": "G:\\demo2.1\\app\\src\\main\\res\\drawable-hdpi\\search.png"
+    },
+    {
+        "merged": "G:\\demo2.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_btn_rating_star_off_mtrl_alpha.png",
+        "source": "C:\\Users\\zhp\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.4.0.aar\\5bfae358ce9383a6adc3d0328d3051cd\\res\\drawable-hdpi-v4\\abc_btn_rating_star_off_mtrl_alpha.png"
+    },
+    {
+        "merged": "F:\\demo2.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\cruise.png",
+        "source": "F:\\demo2.1\\app\\src\\main\\res\\drawable-hdpi\\cruise.png"
+    },
+    {
+        "merged": "F:\\demo2.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\transcoding.png",
+        "source": "F:\\demo2.1\\app\\src\\main\\res\\drawable-hdpi\\transcoding.png"
+    },
+    {
+        "merged": "G:\\demo2.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\door.png",
+        "source": "G:\\demo2.1\\app\\src\\main\\res\\drawable-hdpi\\door.png"
+    },
+    {
+        "merged": "G:\\demo2.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_alarm.png",
+        "source": "G:\\demo2.1\\app\\src\\main\\res\\drawable-hdpi\\ic_alarm.png"
+    },
+    {
+        "merged": "G:\\demo2.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ab_share_pack_mtrl_alpha.9.png",
+        "source": "C:\\Users\\zhp\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.4.0.aar\\5bfae358ce9383a6adc3d0328d3051cd\\res\\drawable-hdpi-v4\\abc_ab_share_pack_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "F:\\demo2.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\camhi_live_normal_zoom.png",
+        "source": "F:\\demo2.1\\app\\src\\main\\res\\drawable-hdpi\\camhi_live_normal_zoom.png"
+    },
+    {
+        "merged": "F:\\demo2.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\circular_sele.png",
+        "source": "F:\\demo2.1\\app\\src\\main\\res\\drawable-hdpi\\circular_sele.png"
+    },
+    {
+        "merged": "G:\\demo2.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\splash.png",
+        "source": "G:\\demo2.1\\app\\src\\main\\res\\drawable-hdpi\\splash.png"
+    },
+    {
+        "merged": "G:\\demo2.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\talk.png",
+        "source": "G:\\demo2.1\\app\\src\\main\\res\\drawable-hdpi\\talk.png"
+    },
+    {
+        "merged": "G:\\demo2.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\unfold.png",
+        "source": "G:\\demo2.1\\app\\src\\main\\res\\drawable-hdpi\\unfold.png"
+    },
+    {
+        "merged": "F:\\demo2.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\search.png",
+        "source": "F:\\demo2.1\\app\\src\\main\\res\\drawable-hdpi\\search.png"
+    },
+    {
+        "merged": "G:\\demo2.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_cab_background_top_mtrl_alpha.9.png",
+        "source": "C:\\Users\\zhp\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.4.0.aar\\5bfae358ce9383a6adc3d0328d3051cd\\res\\drawable-hdpi-v4\\abc_cab_background_top_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "F:\\demo2.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_btn_radio_to_on_mtrl_000.png",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.4.0.aar\\dd9a55aac51ce73dc3ef6c150e584100\\res\\drawable-hdpi-v4\\abc_btn_radio_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "F:\\demo2.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_star_half_black_16dp.png",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.4.0.aar\\dd9a55aac51ce73dc3ef6c150e584100\\res\\drawable-hdpi-v4\\abc_ic_star_half_black_16dp.png"
+    },
+    {
+        "merged": "G:\\demo2.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_btn_radio_to_on_mtrl_000.png",
+        "source": "C:\\Users\\zhp\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.4.0.aar\\5bfae358ce9383a6adc3d0328d3051cd\\res\\drawable-hdpi-v4\\abc_btn_radio_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "G:\\demo2.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\videoclip.png",
+        "source": "G:\\demo2.1\\app\\src\\main\\res\\drawable-hdpi\\videoclip.png"
+    },
+    {
+        "merged": "F:\\demo2.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\round_body.png",
+        "source": "F:\\demo2.1\\app\\src\\main\\res\\drawable-hdpi\\round_body.png"
+    },
+    {
+        "merged": "F:\\demo2.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\pull_end_image_frame_04.png",
+        "source": "F:\\demo2.1\\app\\src\\main\\res\\drawable-hdpi\\pull_end_image_frame_04.png"
+    },
+    {
+        "merged": "F:\\demo2.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_scrubber_control_off_mtrl_alpha.png",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.4.0.aar\\dd9a55aac51ce73dc3ef6c150e584100\\res\\drawable-hdpi-v4\\abc_scrubber_control_off_mtrl_alpha.png"
+    },
+    {
+        "merged": "F:\\demo2.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\camhi_live_select_speaker.png",
+        "source": "F:\\demo2.1\\app\\src\\main\\res\\drawable-hdpi\\camhi_live_select_speaker.png"
+    },
+    {
+        "merged": "F:\\demo2.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_list_pressed_holo_dark.9.png",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.4.0.aar\\dd9a55aac51ce73dc3ef6c150e584100\\res\\drawable-hdpi-v4\\abc_list_pressed_holo_dark.9.png"
+    },
+    {
+        "merged": "G:\\demo2.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_setting_btn.png",
+        "source": "G:\\demo2.1\\app\\src\\main\\res\\drawable-hdpi\\ic_setting_btn.png"
+    },
+    {
+        "merged": "G:\\demo2.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\camhi_live_select_speaker.png",
+        "source": "G:\\demo2.1\\app\\src\\main\\res\\drawable-hdpi\\camhi_live_select_speaker.png"
+    },
+    {
+        "merged": "G:\\demo2.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\refresh.png",
+        "source": "G:\\demo2.1\\app\\src\\main\\res\\drawable-hdpi\\refresh.png"
+    },
+    {
+        "merged": "G:\\demo2.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_clear_mtrl_alpha.png",
+        "source": "C:\\Users\\zhp\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.4.0.aar\\5bfae358ce9383a6adc3d0328d3051cd\\res\\drawable-hdpi-v4\\abc_ic_clear_mtrl_alpha.png"
+    },
+    {
+        "merged": "F:\\demo2.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\pull_end_image_frame_05.png",
+        "source": "F:\\demo2.1\\app\\src\\main\\res\\drawable-hdpi\\pull_end_image_frame_05.png"
+    },
+    {
+        "merged": "G:\\demo2.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\refreshing_image_frame_07.png",
+        "source": "G:\\demo2.1\\app\\src\\main\\res\\drawable-hdpi\\refreshing_image_frame_07.png"
+    },
+    {
+        "merged": "F:\\demo2.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\radar_11.png",
+        "source": "F:\\demo2.1\\app\\src\\main\\res\\drawable-hdpi\\radar_11.png"
+    },
+    {
+        "merged": "F:\\demo2.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\add_search_from_lan.png",
+        "source": "F:\\demo2.1\\app\\src\\main\\res\\drawable-hdpi\\add_search_from_lan.png"
+    },
+    {
+        "merged": "F:\\demo2.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\alarm_4.png",
+        "source": "F:\\demo2.1\\app\\src\\main\\res\\drawable-hdpi\\alarm_4.png"
+    },
+    {
+        "merged": "G:\\demo2.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_menu_paste_mtrl_am_alpha.png",
+        "source": "C:\\Users\\zhp\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.4.0.aar\\5bfae358ce9383a6adc3d0328d3051cd\\res\\drawable-hdpi-v4\\abc_ic_menu_paste_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "G:\\demo2.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\album.png",
+        "source": "G:\\demo2.1\\app\\src\\main\\res\\drawable-hdpi\\album.png"
+    },
+    {
+        "merged": "F:\\demo2.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\videoclip.png",
+        "source": "F:\\demo2.1\\app\\src\\main\\res\\drawable-hdpi\\videoclip.png"
+    },
+    {
+        "merged": "F:\\demo2.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\round_body_sele.png",
+        "source": "F:\\demo2.1\\app\\src\\main\\res\\drawable-hdpi\\round_body_sele.png"
+    },
+    {
+        "merged": "F:\\demo2.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\circular.png",
+        "source": "F:\\demo2.1\\app\\src\\main\\res\\drawable-hdpi\\circular.png"
+    },
+    {
+        "merged": "G:\\demo2.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_menu_cut_mtrl_alpha.png",
+        "source": "C:\\Users\\zhp\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.4.0.aar\\5bfae358ce9383a6adc3d0328d3051cd\\res\\drawable-hdpi-v4\\abc_ic_menu_cut_mtrl_alpha.png"
+    },
+    {
+        "merged": "F:\\demo2.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_scrubber_track_mtrl_alpha.9.png",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.4.0.aar\\dd9a55aac51ce73dc3ef6c150e584100\\res\\drawable-hdpi-v4\\abc_scrubber_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "G:\\demo2.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\round_body_sele.png",
+        "source": "G:\\demo2.1\\app\\src\\main\\res\\drawable-hdpi\\round_body_sele.png"
+    },
+    {
+        "merged": "F:\\demo2.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\refreshing_image_frame_08.png",
+        "source": "F:\\demo2.1\\app\\src\\main\\res\\drawable-hdpi\\refreshing_image_frame_08.png"
+    },
+    {
+        "merged": "G:\\demo2.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\playback_play_btn_stop.png",
+        "source": "G:\\demo2.1\\app\\src\\main\\res\\drawable-hdpi\\playback_play_btn_stop.png"
+    },
+    {
+        "merged": "F:\\demo2.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_star_black_16dp.png",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.4.0.aar\\dd9a55aac51ce73dc3ef6c150e584100\\res\\drawable-hdpi-v4\\abc_ic_star_black_16dp.png"
+    },
+    {
+        "merged": "G:\\demo2.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\refreshing_image_frame_08.png",
+        "source": "G:\\demo2.1\\app\\src\\main\\res\\drawable-hdpi\\refreshing_image_frame_08.png"
+    },
+    {
+        "merged": "G:\\demo2.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\add_search_from_lan.png",
+        "source": "G:\\demo2.1\\app\\src\\main\\res\\drawable-hdpi\\add_search_from_lan.png"
+    },
+    {
+        "merged": "F:\\demo2.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\arrow.png",
+        "source": "F:\\demo2.1\\app\\src\\main\\res\\drawable-hdpi\\arrow.png"
+    },
+    {
+        "merged": "G:\\demo2.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_btn_radio_to_on_mtrl_015.png",
+        "source": "C:\\Users\\zhp\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.4.0.aar\\5bfae358ce9383a6adc3d0328d3051cd\\res\\drawable-hdpi-v4\\abc_btn_radio_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "F:\\demo2.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\camhi_live_normal_preset.png",
+        "source": "F:\\demo2.1\\app\\src\\main\\res\\drawable-hdpi\\camhi_live_normal_preset.png"
+    },
+    {
+        "merged": "G:\\demo2.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\arrow.png",
+        "source": "G:\\demo2.1\\app\\src\\main\\res\\drawable-hdpi\\arrow.png"
+    },
+    {
+        "merged": "G:\\demo2.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\finish.png",
+        "source": "G:\\demo2.1\\app\\src\\main\\res\\drawable-hdpi\\finish.png"
+    },
+    {
+        "merged": "F:\\demo2.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\rf_other.png",
+        "source": "F:\\demo2.1\\app\\src\\main\\res\\drawable-hdpi\\rf_other.png"
+    },
+    {
+        "merged": "F:\\demo2.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\camhi_tabbar_normal_picture.png",
+        "source": "F:\\demo2.1\\app\\src\\main\\res\\drawable-hdpi\\camhi_tabbar_normal_picture.png"
+    },
+    {
+        "merged": "F:\\demo2.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\top.png",
+        "source": "F:\\demo2.1\\app\\src\\main\\res\\drawable-hdpi\\top.png"
+    },
+    {
+        "merged": "G:\\demo2.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\loading2.png",
+        "source": "G:\\demo2.1\\app\\src\\main\\res\\drawable-hdpi\\loading2.png"
+    },
+    {
+        "merged": "G:\\demo2.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\camhi_live_select_micphone.png",
+        "source": "G:\\demo2.1\\app\\src\\main\\res\\drawable-hdpi\\camhi_live_select_micphone.png"
+    },
+    {
+        "merged": "G:\\demo2.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_menu_hardkey_panel_mtrl_mult.9.png",
+        "source": "C:\\Users\\zhp\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.4.0.aar\\5bfae358ce9383a6adc3d0328d3051cd\\res\\drawable-hdpi-v4\\abc_menu_hardkey_panel_mtrl_mult.9.png"
+    },
+    {
+        "merged": "F:\\demo2.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\dialog_box.png",
+        "source": "F:\\demo2.1\\app\\src\\main\\res\\drawable-hdpi\\dialog_box.png"
+    },
+    {
+        "merged": "F:\\demo2.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_star_half_black_36dp.png",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.4.0.aar\\dd9a55aac51ce73dc3ef6c150e584100\\res\\drawable-hdpi-v4\\abc_ic_star_half_black_36dp.png"
+    },
+    {
+        "merged": "F:\\demo2.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\lvp_video_normao.png",
+        "source": "F:\\demo2.1\\app\\src\\main\\res\\drawable-hdpi\\lvp_video_normao.png"
+    },
+    {
+        "merged": "G:\\demo2.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\title_btn_back_pre.png",
+        "source": "G:\\demo2.1\\app\\src\\main\\res\\drawable-hdpi\\title_btn_back_pre.png"
+    },
+    {
+        "merged": "F:\\demo2.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\playback_play_btn_stop.png",
+        "source": "F:\\demo2.1\\app\\src\\main\\res\\drawable-hdpi\\playback_play_btn_stop.png"
+    },
+    {
+        "merged": "G:\\demo2.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_star_half_black_16dp.png",
+        "source": "C:\\Users\\zhp\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.4.0.aar\\5bfae358ce9383a6adc3d0328d3051cd\\res\\drawable-hdpi-v4\\abc_ic_star_half_black_16dp.png"
+    },
+    {
+        "merged": "G:\\demo2.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\camhi_live_normal_exit.png",
+        "source": "G:\\demo2.1\\app\\src\\main\\res\\drawable-hdpi\\camhi_live_normal_exit.png"
+    },
+    {
+        "merged": "G:\\demo2.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\camhi_live_normal_recording.png",
+        "source": "G:\\demo2.1\\app\\src\\main\\res\\drawable-hdpi\\camhi_live_normal_recording.png"
+    },
+    {
+        "merged": "F:\\demo2.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\finish.png",
+        "source": "F:\\demo2.1\\app\\src\\main\\res\\drawable-hdpi\\finish.png"
+    },
+    {
+        "merged": "F:\\demo2.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\move.png",
+        "source": "F:\\demo2.1\\app\\src\\main\\res\\drawable-hdpi\\move.png"
+    },
+    {
+        "merged": "F:\\demo2.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\checkbox_select.png",
+        "source": "F:\\demo2.1\\app\\src\\main\\res\\drawable-hdpi\\checkbox_select.png"
+    },
+    {
+        "merged": "F:\\demo2.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_scrubber_control_to_pressed_mtrl_005.png",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.4.0.aar\\dd9a55aac51ce73dc3ef6c150e584100\\res\\drawable-hdpi-v4\\abc_scrubber_control_to_pressed_mtrl_005.png"
+    },
+    {
+        "merged": "F:\\demo2.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_btn_switch_to_on_mtrl_00012.9.png",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.4.0.aar\\dd9a55aac51ce73dc3ef6c150e584100\\res\\drawable-hdpi-v4\\abc_btn_switch_to_on_mtrl_00012.9.png"
+    },
+    {
+        "merged": "F:\\demo2.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\refreshing_image_frame_03.png",
+        "source": "F:\\demo2.1\\app\\src\\main\\res\\drawable-hdpi\\refreshing_image_frame_03.png"
+    },
+    {
+        "merged": "G:\\demo2.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\camhi_tabbar_normal_about.png",
+        "source": "G:\\demo2.1\\app\\src\\main\\res\\drawable-hdpi\\camhi_tabbar_normal_about.png"
+    },
+    {
+        "merged": "F:\\demo2.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\camhi_tabbar_normal_video.png",
+        "source": "F:\\demo2.1\\app\\src\\main\\res\\drawable-hdpi\\camhi_tabbar_normal_video.png"
+    },
+    {
+        "merged": "G:\\demo2.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_preference_last_normal.png",
+        "source": "G:\\demo2.1\\app\\src\\main\\res\\drawable-hdpi\\ic_preference_last_normal.png"
+    },
+    {
+        "merged": "G:\\demo2.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\transcoding.png",
+        "source": "G:\\demo2.1\\app\\src\\main\\res\\drawable-hdpi\\transcoding.png"
+    },
+    {
+        "merged": "F:\\demo2.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_voice_search_api_mtrl_alpha.png",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.4.0.aar\\dd9a55aac51ce73dc3ef6c150e584100\\res\\drawable-hdpi-v4\\abc_ic_voice_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "G:\\demo2.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_list_longpressed_holo.9.png",
+        "source": "C:\\Users\\zhp\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.4.0.aar\\5bfae358ce9383a6adc3d0328d3051cd\\res\\drawable-hdpi-v4\\abc_list_longpressed_holo.9.png"
+    },
+    {
+        "merged": "G:\\demo2.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\checkbox_select.png",
+        "source": "G:\\demo2.1\\app\\src\\main\\res\\drawable-hdpi\\checkbox_select.png"
+    },
+    {
+        "merged": "F:\\demo2.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_go_search_api_mtrl_alpha.png",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.4.0.aar\\dd9a55aac51ce73dc3ef6c150e584100\\res\\drawable-hdpi-v4\\abc_ic_go_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "F:\\demo2.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\bowl_normal.png",
+        "source": "F:\\demo2.1\\app\\src\\main\\res\\drawable-hdpi\\bowl_normal.png"
+    },
+    {
+        "merged": "G:\\demo2.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\four.png",
+        "source": "G:\\demo2.1\\app\\src\\main\\res\\drawable-hdpi\\four.png"
+    },
+    {
+        "merged": "G:\\demo2.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_scrubber_control_to_pressed_mtrl_000.png",
+        "source": "C:\\Users\\zhp\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.4.0.aar\\5bfae358ce9383a6adc3d0328d3051cd\\res\\drawable-hdpi-v4\\abc_scrubber_control_to_pressed_mtrl_000.png"
+    },
+    {
+        "merged": "G:\\demo2.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\camhi_live_normal_micphone.png",
+        "source": "G:\\demo2.1\\app\\src\\main\\res\\drawable-hdpi\\camhi_live_normal_micphone.png"
+    },
+    {
+        "merged": "F:\\demo2.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\title_btn_back_nor.png",
+        "source": "F:\\demo2.1\\app\\src\\main\\res\\drawable-hdpi\\title_btn_back_nor.png"
+    },
+    {
+        "merged": "G:\\demo2.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_switch_track_mtrl_alpha.9.png",
+        "source": "C:\\Users\\zhp\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.4.0.aar\\5bfae358ce9383a6adc3d0328d3051cd\\res\\drawable-hdpi-v4\\abc_switch_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "G:\\demo2.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\remote_control.png",
+        "source": "G:\\demo2.1\\app\\src\\main\\res\\drawable-hdpi\\remote_control.png"
+    },
+    {
+        "merged": "F:\\demo2.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_popup_background_mtrl_mult.9.png",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.4.0.aar\\dd9a55aac51ce73dc3ef6c150e584100\\res\\drawable-hdpi-v4\\abc_popup_background_mtrl_mult.9.png"
+    },
+    {
+        "merged": "G:\\demo2.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\download.png",
+        "source": "G:\\demo2.1\\app\\src\\main\\res\\drawable-hdpi\\download.png"
+    },
+    {
+        "merged": "F:\\demo2.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_preference_last_pressed.png",
+        "source": "F:\\demo2.1\\app\\src\\main\\res\\drawable-hdpi\\ic_preference_last_pressed.png"
+    },
+    {
+        "merged": "F:\\demo2.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_btn_check_to_on_mtrl_000.png",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.4.0.aar\\dd9a55aac51ce73dc3ef6c150e584100\\res\\drawable-hdpi-v4\\abc_btn_check_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "F:\\demo2.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_scrubber_primary_mtrl_alpha.9.png",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.4.0.aar\\dd9a55aac51ce73dc3ef6c150e584100\\res\\drawable-hdpi-v4\\abc_scrubber_primary_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "G:\\demo2.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_tab_indicator_mtrl_alpha.9.png",
+        "source": "C:\\Users\\zhp\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.4.0.aar\\5bfae358ce9383a6adc3d0328d3051cd\\res\\drawable-hdpi-v4\\abc_tab_indicator_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "G:\\demo2.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\wall_normal.png",
+        "source": "G:\\demo2.1\\app\\src\\main\\res\\drawable-hdpi\\wall_normal.png"
+    },
+    {
+        "merged": "G:\\demo2.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\more.png",
+        "source": "G:\\demo2.1\\app\\src\\main\\res\\drawable-hdpi\\more.png"
+    },
+    {
+        "merged": "G:\\demo2.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\camhi_live_normal_snapshot.png",
+        "source": "G:\\demo2.1\\app\\src\\main\\res\\drawable-hdpi\\camhi_live_normal_snapshot.png"
+    },
+    {
+        "merged": "F:\\demo2.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\alarm_5.png",
+        "source": "F:\\demo2.1\\app\\src\\main\\res\\drawable-hdpi\\alarm_5.png"
+    },
+    {
+        "merged": "F:\\demo2.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\lvp_video.png",
+        "source": "F:\\demo2.1\\app\\src\\main\\res\\drawable-hdpi\\lvp_video.png"
+    },
+    {
+        "merged": "F:\\demo2.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\fire.png",
+        "source": "F:\\demo2.1\\app\\src\\main\\res\\drawable-hdpi\\fire.png"
+    },
+    {
+        "merged": "F:\\demo2.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_delete.png",
+        "source": "F:\\demo2.1\\app\\src\\main\\res\\drawable-hdpi\\ic_delete.png"
+    },
+    {
+        "merged": "F:\\demo2.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_search_api_mtrl_alpha.png",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.4.0.aar\\dd9a55aac51ce73dc3ef6c150e584100\\res\\drawable-hdpi-v4\\abc_ic_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "F:\\demo2.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\screenshot_normal.png",
+        "source": "F:\\demo2.1\\app\\src\\main\\res\\drawable-hdpi\\screenshot_normal.png"
+    },
+    {
+        "merged": "F:\\demo2.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\progress_bg.png",
+        "source": "F:\\demo2.1\\app\\src\\main\\res\\drawable-hdpi\\progress_bg.png"
+    },
+    {
+        "merged": "F:\\demo2.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\door.png",
+        "source": "F:\\demo2.1\\app\\src\\main\\res\\drawable-hdpi\\door.png"
+    },
+    {
+        "merged": "G:\\demo2.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\camhi_tabbar_normal_camera.png",
+        "source": "G:\\demo2.1\\app\\src\\main\\res\\drawable-hdpi\\camhi_tabbar_normal_camera.png"
+    },
+    {
+        "merged": "G:\\demo2.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\camhi_tabbar_normal_picture.png",
+        "source": "G:\\demo2.1\\app\\src\\main\\res\\drawable-hdpi\\camhi_tabbar_normal_picture.png"
+    },
+    {
+        "merged": "G:\\demo2.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_star_black_16dp.png",
+        "source": "C:\\Users\\zhp\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.4.0.aar\\5bfae358ce9383a6adc3d0328d3051cd\\res\\drawable-hdpi-v4\\abc_ic_star_black_16dp.png"
+    },
+    {
+        "merged": "F:\\demo2.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\pull_image.png",
+        "source": "F:\\demo2.1\\app\\src\\main\\res\\drawable-hdpi\\pull_image.png"
+    },
+    {
+        "merged": "F:\\demo2.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\top_normal.png",
+        "source": "F:\\demo2.1\\app\\src\\main\\res\\drawable-hdpi\\top_normal.png"
+    },
+    {
+        "merged": "F:\\demo2.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_textfield_search_default_mtrl_alpha.9.png",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.4.0.aar\\dd9a55aac51ce73dc3ef6c150e584100\\res\\drawable-hdpi-v4\\abc_textfield_search_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "F:\\demo2.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\back.png",
+        "source": "F:\\demo2.1\\app\\src\\main\\res\\drawable-hdpi\\back.png"
+    },
+    {
+        "merged": "G:\\demo2.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_scrubber_control_off_mtrl_alpha.png",
+        "source": "C:\\Users\\zhp\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.4.0.aar\\5bfae358ce9383a6adc3d0328d3051cd\\res\\drawable-hdpi-v4\\abc_scrubber_control_off_mtrl_alpha.png"
+    },
+    {
+        "merged": "G:\\demo2.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\fast_forward.png",
+        "source": "G:\\demo2.1\\app\\src\\main\\res\\drawable-hdpi\\fast_forward.png"
+    },
+    {
+        "merged": "G:\\demo2.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\pull_end_image_frame_02.png",
+        "source": "G:\\demo2.1\\app\\src\\main\\res\\drawable-hdpi\\pull_end_image_frame_02.png"
+    },
+    {
+        "merged": "G:\\demo2.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\rf_other.png",
+        "source": "G:\\demo2.1\\app\\src\\main\\res\\drawable-hdpi\\rf_other.png"
+    },
+    {
+        "merged": "F:\\demo2.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_btn_switch_to_on_mtrl_00001.9.png",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.4.0.aar\\dd9a55aac51ce73dc3ef6c150e584100\\res\\drawable-hdpi-v4\\abc_btn_switch_to_on_mtrl_00001.9.png"
+    },
+    {
+        "merged": "F:\\demo2.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\refreshing_image_frame_01.png",
+        "source": "F:\\demo2.1\\app\\src\\main\\res\\drawable-hdpi\\refreshing_image_frame_01.png"
+    },
+    {
+        "merged": "F:\\demo2.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_menu_paste_mtrl_am_alpha.png",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.4.0.aar\\dd9a55aac51ce73dc3ef6c150e584100\\res\\drawable-hdpi-v4\\abc_ic_menu_paste_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "G:\\demo2.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_preference_first_normal.png",
+        "source": "G:\\demo2.1\\app\\src\\main\\res\\drawable-hdpi\\ic_preference_first_normal.png"
+    },
+    {
+        "merged": "F:\\demo2.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_camera_user.png",
+        "source": "F:\\demo2.1\\app\\src\\main\\res\\drawable-hdpi\\ic_camera_user.png"
+    },
+    {
+        "merged": "G:\\demo2.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\share.png",
+        "source": "G:\\demo2.1\\app\\src\\main\\res\\drawable-hdpi\\share.png"
+    },
+    {
+        "merged": "F:\\demo2.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\add_scan_qr_code.png",
+        "source": "F:\\demo2.1\\app\\src\\main\\res\\drawable-hdpi\\add_scan_qr_code.png"
+    },
+    {
+        "merged": "G:\\demo2.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\alarm_select.png",
+        "source": "G:\\demo2.1\\app\\src\\main\\res\\drawable-hdpi\\alarm_select.png"
+    },
+    {
+        "merged": "G:\\demo2.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\alarm_4.png",
+        "source": "G:\\demo2.1\\app\\src\\main\\res\\drawable-hdpi\\alarm_4.png"
+    },
+    {
+        "merged": "G:\\demo2.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_scrubber_track_mtrl_alpha.9.png",
+        "source": "C:\\Users\\zhp\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.4.0.aar\\5bfae358ce9383a6adc3d0328d3051cd\\res\\drawable-hdpi-v4\\abc_scrubber_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "G:\\demo2.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\round_body.png",
+        "source": "G:\\demo2.1\\app\\src\\main\\res\\drawable-hdpi\\round_body.png"
+    },
+    {
+        "merged": "F:\\demo2.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_delete_camera.png",
+        "source": "F:\\demo2.1\\app\\src\\main\\res\\drawable-hdpi\\ic_delete_camera.png"
+    },
+    {
+        "merged": "F:\\demo2.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_star_black_36dp.png",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.4.0.aar\\dd9a55aac51ce73dc3ef6c150e584100\\res\\drawable-hdpi-v4\\abc_ic_star_black_36dp.png"
+    },
+    {
+        "merged": "G:\\demo2.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\four_divide_sele.png",
+        "source": "G:\\demo2.1\\app\\src\\main\\res\\drawable-hdpi\\four_divide_sele.png"
+    },
+    {
+        "merged": "F:\\demo2.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\camhi_live_select_recording.png",
+        "source": "F:\\demo2.1\\app\\src\\main\\res\\drawable-hdpi\\camhi_live_select_recording.png"
+    },
+    {
+        "merged": "G:\\demo2.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\edit.png",
+        "source": "G:\\demo2.1\\app\\src\\main\\res\\drawable-hdpi\\edit.png"
+    },
+    {
+        "merged": "F:\\demo2.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\camhi_live_normal_mirror.png",
+        "source": "F:\\demo2.1\\app\\src\\main\\res\\drawable-hdpi\\camhi_live_normal_mirror.png"
+    },
+    {
+        "merged": "G:\\demo2.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\refreshing_image_frame_02.png",
+        "source": "G:\\demo2.1\\app\\src\\main\\res\\drawable-hdpi\\refreshing_image_frame_02.png"
+    },
+    {
+        "merged": "G:\\demo2.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_voice_search_api_mtrl_alpha.png",
+        "source": "C:\\Users\\zhp\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.4.0.aar\\5bfae358ce9383a6adc3d0328d3051cd\\res\\drawable-hdpi-v4\\abc_ic_voice_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "G:\\demo2.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\unfold_normal.png",
+        "source": "G:\\demo2.1\\app\\src\\main\\res\\drawable-hdpi\\unfold_normal.png"
+    },
+    {
+        "merged": "G:\\demo2.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_textfield_default_mtrl_alpha.9.png",
+        "source": "C:\\Users\\zhp\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.4.0.aar\\5bfae358ce9383a6adc3d0328d3051cd\\res\\drawable-hdpi-v4\\abc_textfield_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "F:\\demo2.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_btn_radio_to_on_mtrl_015.png",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.4.0.aar\\dd9a55aac51ce73dc3ef6c150e584100\\res\\drawable-hdpi-v4\\abc_btn_radio_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "G:\\demo2.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_list_focused_holo.9.png",
+        "source": "C:\\Users\\zhp\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.4.0.aar\\5bfae358ce9383a6adc3d0328d3051cd\\res\\drawable-hdpi-v4\\abc_list_focused_holo.9.png"
+    },
+    {
+        "merged": "F:\\demo2.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_launcher.png",
+        "source": "F:\\demo2.1\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "G:\\demo2.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\voice_sel.png",
+        "source": "G:\\demo2.1\\app\\src\\main\\res\\drawable-hdpi\\voice_sel.png"
+    },
+    {
+        "merged": "G:\\demo2.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\pull_end_image_frame_04.png",
+        "source": "G:\\demo2.1\\app\\src\\main\\res\\drawable-hdpi\\pull_end_image_frame_04.png"
+    },
+    {
+        "merged": "G:\\demo2.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_scrubber_control_to_pressed_mtrl_005.png",
+        "source": "C:\\Users\\zhp\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.4.0.aar\\5bfae358ce9383a6adc3d0328d3051cd\\res\\drawable-hdpi-v4\\abc_scrubber_control_to_pressed_mtrl_005.png"
+    },
+    {
+        "merged": "G:\\demo2.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\lvp_video.png",
+        "source": "G:\\demo2.1\\app\\src\\main\\res\\drawable-hdpi\\lvp_video.png"
+    },
+    {
+        "merged": "F:\\demo2.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\wall_normal.png",
+        "source": "F:\\demo2.1\\app\\src\\main\\res\\drawable-hdpi\\wall_normal.png"
+    },
+    {
+        "merged": "G:\\demo2.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\camhi_live_normal_speaker.png",
+        "source": "G:\\demo2.1\\app\\src\\main\\res\\drawable-hdpi\\camhi_live_normal_speaker.png"
+    },
+    {
+        "merged": "F:\\demo2.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_ab_back_mtrl_am_alpha.png",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.4.0.aar\\dd9a55aac51ce73dc3ef6c150e584100\\res\\drawable-hdpi-v4\\abc_ic_ab_back_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "G:\\demo2.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\camhi_tabbar_normal_video.png",
+        "source": "G:\\demo2.1\\app\\src\\main\\res\\drawable-hdpi\\camhi_tabbar_normal_video.png"
+    },
+    {
+        "merged": "G:\\demo2.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\local.png",
+        "source": "G:\\demo2.1\\app\\src\\main\\res\\drawable-hdpi\\local.png"
+    },
+    {
+        "merged": "G:\\demo2.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\progress_patch.png",
+        "source": "G:\\demo2.1\\app\\src\\main\\res\\drawable-hdpi\\progress_patch.png"
+    },
+    {
+        "merged": "G:\\demo2.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\alarm_2.png",
+        "source": "G:\\demo2.1\\app\\src\\main\\res\\drawable-hdpi\\alarm_2.png"
+    },
+    {
+        "merged": "F:\\demo2.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\album.png",
+        "source": "F:\\demo2.1\\app\\src\\main\\res\\drawable-hdpi\\album.png"
+    },
+    {
+        "merged": "F:\\demo2.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\alarm_1.png",
+        "source": "F:\\demo2.1\\app\\src\\main\\res\\drawable-hdpi\\alarm_1.png"
+    },
+    {
+        "merged": "G:\\demo2.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_list_pressed_holo_dark.9.png",
+        "source": "C:\\Users\\zhp\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.4.0.aar\\5bfae358ce9383a6adc3d0328d3051cd\\res\\drawable-hdpi-v4\\abc_list_pressed_holo_dark.9.png"
+    },
+    {
+        "merged": "F:\\demo2.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\alarm_normal.png",
+        "source": "F:\\demo2.1\\app\\src\\main\\res\\drawable-hdpi\\alarm_normal.png"
+    },
+    {
+        "merged": "G:\\demo2.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\top.png",
+        "source": "G:\\demo2.1\\app\\src\\main\\res\\drawable-hdpi\\top.png"
+    },
+    {
+        "merged": "G:\\demo2.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\radar_22.png",
+        "source": "G:\\demo2.1\\app\\src\\main\\res\\drawable-hdpi\\radar_22.png"
+    },
+    {
+        "merged": "F:\\demo2.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\camhi_tabbar_normal_camera.png",
+        "source": "F:\\demo2.1\\app\\src\\main\\res\\drawable-hdpi\\camhi_tabbar_normal_camera.png"
+    },
+    {
+        "merged": "F:\\demo2.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_tab_indicator_mtrl_alpha.9.png",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.4.0.aar\\dd9a55aac51ce73dc3ef6c150e584100\\res\\drawable-hdpi-v4\\abc_tab_indicator_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "F:\\demo2.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\more.png",
+        "source": "F:\\demo2.1\\app\\src\\main\\res\\drawable-hdpi\\more.png"
+    },
+    {
+        "merged": "G:\\demo2.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\circular.png",
+        "source": "G:\\demo2.1\\app\\src\\main\\res\\drawable-hdpi\\circular.png"
+    },
+    {
+        "merged": "G:\\demo2.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\circular_sele.png",
+        "source": "G:\\demo2.1\\app\\src\\main\\res\\drawable-hdpi\\circular_sele.png"
+    },
+    {
+        "merged": "G:\\demo2.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_menu_moreoverflow_mtrl_alpha.png",
+        "source": "C:\\Users\\zhp\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.4.0.aar\\5bfae358ce9383a6adc3d0328d3051cd\\res\\drawable-hdpi-v4\\abc_ic_menu_moreoverflow_mtrl_alpha.png"
+    },
+    {
+        "merged": "G:\\demo2.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\move.png",
+        "source": "G:\\demo2.1\\app\\src\\main\\res\\drawable-hdpi\\move.png"
+    },
+    {
+        "merged": "F:\\demo2.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_clear_mtrl_alpha.png",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.4.0.aar\\dd9a55aac51ce73dc3ef6c150e584100\\res\\drawable-hdpi-v4\\abc_ic_clear_mtrl_alpha.png"
+    },
+    {
+        "merged": "G:\\demo2.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\top_normal.png",
+        "source": "G:\\demo2.1\\app\\src\\main\\res\\drawable-hdpi\\top_normal.png"
+    },
+    {
+        "merged": "G:\\demo2.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\rf.png",
+        "source": "G:\\demo2.1\\app\\src\\main\\res\\drawable-hdpi\\rf.png"
+    },
+    {
+        "merged": "G:\\demo2.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_popup_background_mtrl_mult.9.png",
+        "source": "C:\\Users\\zhp\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.4.0.aar\\5bfae358ce9383a6adc3d0328d3051cd\\res\\drawable-hdpi-v4\\abc_popup_background_mtrl_mult.9.png"
+    },
+    {
+        "merged": "G:\\demo2.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\wall.png",
+        "source": "G:\\demo2.1\\app\\src\\main\\res\\drawable-hdpi\\wall.png"
+    },
+    {
+        "merged": "G:\\demo2.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\dialog_box.png",
+        "source": "G:\\demo2.1\\app\\src\\main\\res\\drawable-hdpi\\dialog_box.png"
+    },
+    {
+        "merged": "G:\\demo2.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_textfield_activated_mtrl_alpha.9.png",
+        "source": "C:\\Users\\zhp\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.4.0.aar\\5bfae358ce9383a6adc3d0328d3051cd\\res\\drawable-hdpi-v4\\abc_textfield_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "F:\\demo2.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\camhi_tabbar_select_about.png",
+        "source": "F:\\demo2.1\\app\\src\\main\\res\\drawable-hdpi\\camhi_tabbar_select_about.png"
+    },
+    {
+        "merged": "G:\\demo2.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\camhi_live_normal_preset.png",
+        "source": "G:\\demo2.1\\app\\src\\main\\res\\drawable-hdpi\\camhi_live_normal_preset.png"
+    },
+    {
+        "merged": "G:\\demo2.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_textfield_search_activated_mtrl_alpha.9.png",
+        "source": "C:\\Users\\zhp\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.4.0.aar\\5bfae358ce9383a6adc3d0328d3051cd\\res\\drawable-hdpi-v4\\abc_textfield_search_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "G:\\demo2.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\progress_bg.png",
+        "source": "G:\\demo2.1\\app\\src\\main\\res\\drawable-hdpi\\progress_bg.png"
+    },
+    {
+        "merged": "G:\\demo2.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\bowl_normal.png",
+        "source": "G:\\demo2.1\\app\\src\\main\\res\\drawable-hdpi\\bowl_normal.png"
+    },
+    {
+        "merged": "F:\\demo2.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\narrow_screen.png",
+        "source": "F:\\demo2.1\\app\\src\\main\\res\\drawable-hdpi\\narrow_screen.png"
+    },
+    {
+        "merged": "G:\\demo2.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\infrared.png",
+        "source": "G:\\demo2.1\\app\\src\\main\\res\\drawable-hdpi\\infrared.png"
+    },
+    {
+        "merged": "F:\\demo2.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_menu_hardkey_panel_mtrl_mult.9.png",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.4.0.aar\\dd9a55aac51ce73dc3ef6c150e584100\\res\\drawable-hdpi-v4\\abc_menu_hardkey_panel_mtrl_mult.9.png"
+    },
+    {
+        "merged": "F:\\demo2.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_preference_first_pressed.png",
+        "source": "F:\\demo2.1\\app\\src\\main\\res\\drawable-hdpi\\ic_preference_first_pressed.png"
+    },
+    {
+        "merged": "G:\\demo2.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\power_button.png",
+        "source": "G:\\demo2.1\\app\\src\\main\\res\\drawable-hdpi\\power_button.png"
+    },
+    {
+        "merged": "F:\\demo2.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\camhi_live_normal_quality.png",
+        "source": "F:\\demo2.1\\app\\src\\main\\res\\drawable-hdpi\\camhi_live_normal_quality.png"
+    },
+    {
+        "merged": "F:\\demo2.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\two_divide.png",
+        "source": "F:\\demo2.1\\app\\src\\main\\res\\drawable-hdpi\\two_divide.png"
+    },
+    {
+        "merged": "F:\\demo2.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\voice_sel.png",
+        "source": "F:\\demo2.1\\app\\src\\main\\res\\drawable-hdpi\\voice_sel.png"
+    },
+    {
+        "merged": "F:\\demo2.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\online.png",
+        "source": "F:\\demo2.1\\app\\src\\main\\res\\drawable-hdpi\\online.png"
+    },
+    {
+        "merged": "G:\\demo2.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\refreshing_image_frame_06.png",
+        "source": "G:\\demo2.1\\app\\src\\main\\res\\drawable-hdpi\\refreshing_image_frame_06.png"
+    },
+    {
+        "merged": "G:\\demo2.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_menu_selectall_mtrl_alpha.png",
+        "source": "C:\\Users\\zhp\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.4.0.aar\\5bfae358ce9383a6adc3d0328d3051cd\\res\\drawable-hdpi-v4\\abc_ic_menu_selectall_mtrl_alpha.png"
+    },
+    {
+        "merged": "F:\\demo2.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\edit.png",
+        "source": "F:\\demo2.1\\app\\src\\main\\res\\drawable-hdpi\\edit.png"
+    },
+    {
+        "merged": "G:\\demo2.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\title_btn_back_nor.png",
+        "source": "G:\\demo2.1\\app\\src\\main\\res\\drawable-hdpi\\title_btn_back_nor.png"
+    },
+    {
+        "merged": "F:\\demo2.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\progress_patch.png",
+        "source": "F:\\demo2.1\\app\\src\\main\\res\\drawable-hdpi\\progress_patch.png"
+    },
+    {
+        "merged": "G:\\demo2.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btn_light.png",
+        "source": "G:\\demo2.1\\app\\src\\main\\res\\drawable-hdpi\\btn_light.png"
+    },
+    {
+        "merged": "F:\\demo2.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_preference_normal.png",
+        "source": "F:\\demo2.1\\app\\src\\main\\res\\drawable-hdpi\\ic_preference_normal.png"
+    },
+    {
+        "merged": "G:\\demo2.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\bowl_select.png",
+        "source": "G:\\demo2.1\\app\\src\\main\\res\\drawable-hdpi\\bowl_select.png"
+    },
+    {
+        "merged": "F:\\demo2.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\hava_video.png",
+        "source": "F:\\demo2.1\\app\\src\\main\\res\\drawable-hdpi\\hava_video.png"
+    },
+    {
+        "merged": "F:\\demo2.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\refreshing_image_frame_06.png",
+        "source": "F:\\demo2.1\\app\\src\\main\\res\\drawable-hdpi\\refreshing_image_frame_06.png"
+    },
+    {
+        "merged": "F:\\demo2.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_add_camera.png",
+        "source": "F:\\demo2.1\\app\\src\\main\\res\\drawable-hdpi\\ic_add_camera.png"
+    },
+    {
+        "merged": "F:\\demo2.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_menu_selectall_mtrl_alpha.png",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.4.0.aar\\dd9a55aac51ce73dc3ef6c150e584100\\res\\drawable-hdpi-v4\\abc_ic_menu_selectall_mtrl_alpha.png"
+    },
+    {
+        "merged": "G:\\demo2.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_btn_rating_star_on_mtrl_alpha.png",
+        "source": "C:\\Users\\zhp\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.4.0.aar\\5bfae358ce9383a6adc3d0328d3051cd\\res\\drawable-hdpi-v4\\abc_btn_rating_star_on_mtrl_alpha.png"
+    },
+    {
+        "merged": "G:\\demo2.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\camhi_live_normal_zoom.png",
+        "source": "G:\\demo2.1\\app\\src\\main\\res\\drawable-hdpi\\camhi_live_normal_zoom.png"
+    },
+    {
+        "merged": "G:\\demo2.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\screenshot_normal.png",
+        "source": "G:\\demo2.1\\app\\src\\main\\res\\drawable-hdpi\\screenshot_normal.png"
+    },
+    {
+        "merged": "G:\\demo2.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_ab_back_mtrl_am_alpha.png",
+        "source": "C:\\Users\\zhp\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.4.0.aar\\5bfae358ce9383a6adc3d0328d3051cd\\res\\drawable-hdpi-v4\\abc_ic_ab_back_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "F:\\demo2.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\camhi_live_select_micphone.png",
+        "source": "F:\\demo2.1\\app\\src\\main\\res\\drawable-hdpi\\camhi_live_select_micphone.png"
+    },
+    {
+        "merged": "F:\\demo2.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\talk.png",
+        "source": "F:\\demo2.1\\app\\src\\main\\res\\drawable-hdpi\\talk.png"
+    },
+    {
+        "merged": "G:\\demo2.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\talk_normal.png",
+        "source": "G:\\demo2.1\\app\\src\\main\\res\\drawable-hdpi\\talk_normal.png"
+    },
+    {
+        "merged": "G:\\demo2.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_camera_user.png",
+        "source": "G:\\demo2.1\\app\\src\\main\\res\\drawable-hdpi\\ic_camera_user.png"
+    },
+    {
+        "merged": "F:\\demo2.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\download.png",
+        "source": "F:\\demo2.1\\app\\src\\main\\res\\drawable-hdpi\\download.png"
+    },
+    {
+        "merged": "G:\\demo2.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\two_divide.png",
+        "source": "G:\\demo2.1\\app\\src\\main\\res\\drawable-hdpi\\two_divide.png"
+    },
+    {
+        "merged": "G:\\demo2.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_list_divider_mtrl_alpha.9.png",
+        "source": "C:\\Users\\zhp\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.4.0.aar\\5bfae358ce9383a6adc3d0328d3051cd\\res\\drawable-hdpi-v4\\abc_list_divider_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "G:\\demo2.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_btn_switch_to_on_mtrl_00001.9.png",
+        "source": "C:\\Users\\zhp\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.4.0.aar\\5bfae358ce9383a6adc3d0328d3051cd\\res\\drawable-hdpi-v4\\abc_btn_switch_to_on_mtrl_00001.9.png"
+    },
+    {
+        "merged": "G:\\demo2.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\lvp_video_normao.png",
+        "source": "G:\\demo2.1\\app\\src\\main\\res\\drawable-hdpi\\lvp_video_normao.png"
+    },
+    {
+        "merged": "F:\\demo2.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\gas.png",
+        "source": "F:\\demo2.1\\app\\src\\main\\res\\drawable-hdpi\\gas.png"
+    },
+    {
+        "merged": "G:\\demo2.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\screenshot.png",
+        "source": "G:\\demo2.1\\app\\src\\main\\res\\drawable-hdpi\\screenshot.png"
+    },
+    {
+        "merged": "F:\\demo2.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\rf.png",
+        "source": "F:\\demo2.1\\app\\src\\main\\res\\drawable-hdpi\\rf.png"
+    },
+    {
+        "merged": "G:\\demo2.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\cruise_select.png",
+        "source": "G:\\demo2.1\\app\\src\\main\\res\\drawable-hdpi\\cruise_select.png"
+    },
+    {
+        "merged": "F:\\demo2.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_menu_copy_mtrl_am_alpha.png",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.4.0.aar\\dd9a55aac51ce73dc3ef6c150e584100\\res\\drawable-hdpi-v4\\abc_ic_menu_copy_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "G:\\demo2.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_launcher.png",
+        "source": "G:\\demo2.1\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "F:\\demo2.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\refreshing_image_frame_07.png",
+        "source": "F:\\demo2.1\\app\\src\\main\\res\\drawable-hdpi\\refreshing_image_frame_07.png"
+    },
+    {
+        "merged": "G:\\demo2.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\refreshing_image_frame_05.png",
+        "source": "G:\\demo2.1\\app\\src\\main\\res\\drawable-hdpi\\refreshing_image_frame_05.png"
+    },
+    {
+        "merged": "G:\\demo2.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\online.png",
+        "source": "G:\\demo2.1\\app\\src\\main\\res\\drawable-hdpi\\online.png"
+    },
+    {
+        "merged": "F:\\demo2.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_commit_search_api_mtrl_alpha.png",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.4.0.aar\\dd9a55aac51ce73dc3ef6c150e584100\\res\\drawable-hdpi-v4\\abc_ic_commit_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "F:\\demo2.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\refreshing_image_frame_05.png",
+        "source": "F:\\demo2.1\\app\\src\\main\\res\\drawable-hdpi\\refreshing_image_frame_05.png"
+    },
+    {
+        "merged": "F:\\demo2.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\playback_play_btn_play.png",
+        "source": "F:\\demo2.1\\app\\src\\main\\res\\drawable-hdpi\\playback_play_btn_play.png"
+    },
+    {
+        "merged": "G:\\demo2.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\back.png",
+        "source": "G:\\demo2.1\\app\\src\\main\\res\\drawable-hdpi\\back.png"
+    },
+    {
+        "merged": "F:\\demo2.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\pull_end_image_frame_03.png",
+        "source": "F:\\demo2.1\\app\\src\\main\\res\\drawable-hdpi\\pull_end_image_frame_03.png"
+    },
+    {
+        "merged": "F:\\demo2.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_list_divider_mtrl_alpha.9.png",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.4.0.aar\\dd9a55aac51ce73dc3ef6c150e584100\\res\\drawable-hdpi-v4\\abc_list_divider_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "F:\\demo2.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_btn_rating_star_off_mtrl_alpha.png",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.4.0.aar\\dd9a55aac51ce73dc3ef6c150e584100\\res\\drawable-hdpi-v4\\abc_btn_rating_star_off_mtrl_alpha.png"
+    },
+    {
+        "merged": "G:\\demo2.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_list_selector_disabled_holo_dark.9.png",
+        "source": "C:\\Users\\zhp\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.4.0.aar\\5bfae358ce9383a6adc3d0328d3051cd\\res\\drawable-hdpi-v4\\abc_list_selector_disabled_holo_dark.9.png"
+    },
+    {
+        "merged": "F:\\demo2.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\alarm_3.png",
+        "source": "F:\\demo2.1\\app\\src\\main\\res\\drawable-hdpi\\alarm_3.png"
+    },
+    {
+        "merged": "G:\\demo2.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_go_search_api_mtrl_alpha.png",
+        "source": "C:\\Users\\zhp\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.4.0.aar\\5bfae358ce9383a6adc3d0328d3051cd\\res\\drawable-hdpi-v4\\abc_ic_go_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "F:\\demo2.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\splash.png",
+        "source": "F:\\demo2.1\\app\\src\\main\\res\\drawable-hdpi\\splash.png"
+    },
+    {
+        "merged": "F:\\demo2.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btn_light.png",
+        "source": "F:\\demo2.1\\app\\src\\main\\res\\drawable-hdpi\\btn_light.png"
+    },
+    {
+        "merged": "G:\\demo2.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\camhi_live_select_recording.png",
+        "source": "G:\\demo2.1\\app\\src\\main\\res\\drawable-hdpi\\camhi_live_select_recording.png"
+    },
+    {
+        "merged": "G:\\demo2.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\checkboc_unselect.png",
+        "source": "G:\\demo2.1\\app\\src\\main\\res\\drawable-hdpi\\checkboc_unselect.png"
+    },
+    {
+        "merged": "G:\\demo2.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\camhi_tabbar_select_video.png",
+        "source": "G:\\demo2.1\\app\\src\\main\\res\\drawable-hdpi\\camhi_tabbar_select_video.png"
+    },
+    {
+        "merged": "F:\\demo2.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\four.png",
+        "source": "F:\\demo2.1\\app\\src\\main\\res\\drawable-hdpi\\four.png"
+    },
+    {
+        "merged": "F:\\demo2.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_menu_share_mtrl_alpha.png",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.4.0.aar\\dd9a55aac51ce73dc3ef6c150e584100\\res\\drawable-hdpi-v4\\abc_ic_menu_share_mtrl_alpha.png"
+    },
+    {
+        "merged": "G:\\demo2.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\narrow_screen.png",
+        "source": "G:\\demo2.1\\app\\src\\main\\res\\drawable-hdpi\\narrow_screen.png"
+    },
+    {
+        "merged": "F:\\demo2.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_textfield_default_mtrl_alpha.9.png",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.4.0.aar\\dd9a55aac51ce73dc3ef6c150e584100\\res\\drawable-hdpi-v4\\abc_textfield_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "F:\\demo2.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\camhi_tabbar_select_video.png",
+        "source": "F:\\demo2.1\\app\\src\\main\\res\\drawable-hdpi\\camhi_tabbar_select_video.png"
+    },
+    {
+        "merged": "F:\\demo2.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\remote_control.png",
+        "source": "F:\\demo2.1\\app\\src\\main\\res\\drawable-hdpi\\remote_control.png"
+    },
+    {
+        "merged": "G:\\demo2.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_star_black_36dp.png",
+        "source": "C:\\Users\\zhp\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.4.0.aar\\5bfae358ce9383a6adc3d0328d3051cd\\res\\drawable-hdpi-v4\\abc_ic_star_black_36dp.png"
+    },
+    {
+        "merged": "F:\\demo2.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_list_selector_disabled_holo_dark.9.png",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.4.0.aar\\dd9a55aac51ce73dc3ef6c150e584100\\res\\drawable-hdpi-v4\\abc_list_selector_disabled_holo_dark.9.png"
+    },
+    {
+        "merged": "G:\\demo2.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_textfield_search_default_mtrl_alpha.9.png",
+        "source": "C:\\Users\\zhp\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.4.0.aar\\5bfae358ce9383a6adc3d0328d3051cd\\res\\drawable-hdpi-v4\\abc_textfield_search_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "G:\\demo2.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\playback_play_btn_play.png",
+        "source": "G:\\demo2.1\\app\\src\\main\\res\\drawable-hdpi\\playback_play_btn_play.png"
+    },
+    {
+        "merged": "F:\\demo2.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\camhi_live_normal_speaker.png",
+        "source": "F:\\demo2.1\\app\\src\\main\\res\\drawable-hdpi\\camhi_live_normal_speaker.png"
+    },
+    {
+        "merged": "F:\\demo2.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\search_listview.png",
+        "source": "F:\\demo2.1\\app\\src\\main\\res\\drawable-hdpi\\search_listview.png"
+    },
+    {
+        "merged": "F:\\demo2.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_menu_moreoverflow_mtrl_alpha.png",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.4.0.aar\\dd9a55aac51ce73dc3ef6c150e584100\\res\\drawable-hdpi-v4\\abc_ic_menu_moreoverflow_mtrl_alpha.png"
+    },
+    {
+        "merged": "F:\\demo2.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_preference_first_normal.png",
+        "source": "F:\\demo2.1\\app\\src\\main\\res\\drawable-hdpi\\ic_preference_first_normal.png"
+    },
+    {
+        "merged": "G:\\demo2.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_preference_first_pressed.png",
+        "source": "G:\\demo2.1\\app\\src\\main\\res\\drawable-hdpi\\ic_preference_first_pressed.png"
+    },
+    {
+        "merged": "G:\\demo2.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_delete_camera.png",
+        "source": "G:\\demo2.1\\app\\src\\main\\res\\drawable-hdpi\\ic_delete_camera.png"
+    },
+    {
+        "merged": "G:\\demo2.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\camhi_live_normal_quality.png",
+        "source": "G:\\demo2.1\\app\\src\\main\\res\\drawable-hdpi\\camhi_live_normal_quality.png"
+    },
+    {
+        "merged": "G:\\demo2.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\search_listview.png",
+        "source": "G:\\demo2.1\\app\\src\\main\\res\\drawable-hdpi\\search_listview.png"
+    },
+    {
+        "merged": "G:\\demo2.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_list_selector_disabled_holo_light.9.png",
+        "source": "C:\\Users\\zhp\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.4.0.aar\\5bfae358ce9383a6adc3d0328d3051cd\\res\\drawable-hdpi-v4\\abc_list_selector_disabled_holo_light.9.png"
+    },
+    {
+        "merged": "F:\\demo2.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\radar_22.png",
+        "source": "F:\\demo2.1\\app\\src\\main\\res\\drawable-hdpi\\radar_22.png"
+    },
+    {
+        "merged": "F:\\demo2.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\pull_end_image_frame_02.png",
+        "source": "F:\\demo2.1\\app\\src\\main\\res\\drawable-hdpi\\pull_end_image_frame_02.png"
+    },
+    {
+        "merged": "G:\\demo2.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\alarm_1.png",
+        "source": "G:\\demo2.1\\app\\src\\main\\res\\drawable-hdpi\\alarm_1.png"
+    },
+    {
+        "merged": "F:\\demo2.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\loading2.png",
+        "source": "F:\\demo2.1\\app\\src\\main\\res\\drawable-hdpi\\loading2.png"
+    },
+    {
+        "merged": "G:\\demo2.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\add_sense.png",
+        "source": "G:\\demo2.1\\app\\src\\main\\res\\drawable-hdpi\\add_sense.png"
+    },
+    {
+        "merged": "F:\\demo2.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\scan_it.png",
+        "source": "F:\\demo2.1\\app\\src\\main\\res\\drawable-hdpi\\scan_it.png"
+    },
+    {
+        "merged": "G:\\demo2.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_preference_normal.png",
+        "source": "G:\\demo2.1\\app\\src\\main\\res\\drawable-hdpi\\ic_preference_normal.png"
+    },
+    {
+        "merged": "F:\\demo2.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_preference_pressed.png",
+        "source": "F:\\demo2.1\\app\\src\\main\\res\\drawable-hdpi\\ic_preference_pressed.png"
+    },
+    {
+        "merged": "F:\\demo2.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\camhi_live_normal_snapshot.png",
+        "source": "F:\\demo2.1\\app\\src\\main\\res\\drawable-hdpi\\camhi_live_normal_snapshot.png"
+    },
+    {
+        "merged": "G:\\demo2.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\refreshing_image_frame_04.png",
+        "source": "G:\\demo2.1\\app\\src\\main\\res\\drawable-hdpi\\refreshing_image_frame_04.png"
+    },
+    {
+        "merged": "G:\\demo2.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_btn_switch_to_on_mtrl_00012.9.png",
+        "source": "C:\\Users\\zhp\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.4.0.aar\\5bfae358ce9383a6adc3d0328d3051cd\\res\\drawable-hdpi-v4\\abc_btn_switch_to_on_mtrl_00012.9.png"
+    },
+    {
+        "merged": "F:\\demo2.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_cab_background_top_mtrl_alpha.9.png",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.4.0.aar\\dd9a55aac51ce73dc3ef6c150e584100\\res\\drawable-hdpi-v4\\abc_cab_background_top_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "G:\\demo2.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_btn_check_to_on_mtrl_000.png",
+        "source": "C:\\Users\\zhp\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.4.0.aar\\5bfae358ce9383a6adc3d0328d3051cd\\res\\drawable-hdpi-v4\\abc_btn_check_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "G:\\demo2.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\pull_end_image_frame_03.png",
+        "source": "G:\\demo2.1\\app\\src\\main\\res\\drawable-hdpi\\pull_end_image_frame_03.png"
+    },
+    {
+        "merged": "F:\\demo2.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_list_focused_holo.9.png",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.4.0.aar\\dd9a55aac51ce73dc3ef6c150e584100\\res\\drawable-hdpi-v4\\abc_list_focused_holo.9.png"
+    },
+    {
+        "merged": "G:\\demo2.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_commit_search_api_mtrl_alpha.png",
+        "source": "C:\\Users\\zhp\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.4.0.aar\\5bfae358ce9383a6adc3d0328d3051cd\\res\\drawable-hdpi-v4\\abc_ic_commit_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "G:\\demo2.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_spinner_mtrl_am_alpha.9.png",
+        "source": "C:\\Users\\zhp\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.4.0.aar\\5bfae358ce9383a6adc3d0328d3051cd\\res\\drawable-hdpi-v4\\abc_spinner_mtrl_am_alpha.9.png"
+    },
+    {
+        "merged": "F:\\demo2.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\cruise_select.png",
+        "source": "F:\\demo2.1\\app\\src\\main\\res\\drawable-hdpi\\cruise_select.png"
+    },
+    {
+        "merged": "F:\\demo2.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\wall.png",
+        "source": "F:\\demo2.1\\app\\src\\main\\res\\drawable-hdpi\\wall.png"
+    },
+    {
+        "merged": "F:\\demo2.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\alarm_2.png",
+        "source": "F:\\demo2.1\\app\\src\\main\\res\\drawable-hdpi\\alarm_2.png"
+    },
+    {
+        "merged": "G:\\demo2.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_scrubber_primary_mtrl_alpha.9.png",
+        "source": "C:\\Users\\zhp\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.4.0.aar\\5bfae358ce9383a6adc3d0328d3051cd\\res\\drawable-hdpi-v4\\abc_scrubber_primary_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "G:\\demo2.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_preference_last_pressed.png",
+        "source": "G:\\demo2.1\\app\\src\\main\\res\\drawable-hdpi\\ic_preference_last_pressed.png"
+    },
+    {
+        "merged": "G:\\demo2.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\voice.png",
+        "source": "G:\\demo2.1\\app\\src\\main\\res\\drawable-hdpi\\voice.png"
+    },
+    {
+        "merged": "F:\\demo2.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\local.png",
+        "source": "F:\\demo2.1\\app\\src\\main\\res\\drawable-hdpi\\local.png"
+    },
+    {
+        "merged": "F:\\demo2.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\camhi_tabbar_select_picture.png",
+        "source": "F:\\demo2.1\\app\\src\\main\\res\\drawable-hdpi\\camhi_tabbar_select_picture.png"
+    },
+    {
+        "merged": "G:\\demo2.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_search_api_mtrl_alpha.png",
+        "source": "C:\\Users\\zhp\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.4.0.aar\\5bfae358ce9383a6adc3d0328d3051cd\\res\\drawable-hdpi-v4\\abc_ic_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "G:\\demo2.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\pull_image.png",
+        "source": "G:\\demo2.1\\app\\src\\main\\res\\drawable-hdpi\\pull_image.png"
+    },
+    {
+        "merged": "F:\\demo2.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\unfold_normal.png",
+        "source": "F:\\demo2.1\\app\\src\\main\\res\\drawable-hdpi\\unfold_normal.png"
+    },
+    {
+        "merged": "F:\\demo2.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_list_pressed_holo_light.9.png",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.4.0.aar\\dd9a55aac51ce73dc3ef6c150e584100\\res\\drawable-hdpi-v4\\abc_list_pressed_holo_light.9.png"
+    },
+    {
+        "merged": "G:\\demo2.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_camera_key.png",
+        "source": "G:\\demo2.1\\app\\src\\main\\res\\drawable-hdpi\\ic_camera_key.png"
+    }
+]

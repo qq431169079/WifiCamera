@@ -1,0 +1,597 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="alarm_action_picture_num">
+		<item>1</item>
+		<item>2</item>
+		<item>3</item>
+	</string-array>
+    <string-array name="audio_input_style">
+		<item>ラインイン</item>
+		<item>マイク</item>
+	</string-array>
+    <string-array name="connect_state">
+		<item>切断</item>
+		<item>接続中</item>
+		<item>接続中</item>
+		<item>パスワードが間違っています</item>
+		<item>オンライン</item>
+	</string-array>
+    <string-array name="device_timezone_new">
+		<item>Etc/GMT-12</item>
+		<item>Pacific/Apia</item>
+		<item>Pacific/Honolulu</item>
+		<item>America/Anchorage</item>
+		<item>America/Los_Angeles</item>
+		<item>America/Denver</item>
+		<item>America/Tegucigalpa</item>
+		<item>America/Phoenix</item>
+		<item>America/Saskatchewan</item>
+		<item>America/Mexico_City</item>
+		<item>America/Chicago</item>
+		<item>America/Costa_Rica</item>
+		<item>America/Indianapolis</item>
+		<item>America/New_York</item>
+		<item>America/Bogota</item>
+		<item>America/Caracas</item>
+		<item>America/Santiago</item>
+		<item>America/Montreal</item>
+		<item>America/St_Johns</item>
+		<item>America/Thule</item>
+		<item>America/Buenos_Aires</item>
+		<item>America/Sao_Paulo</item>
+		<item>Atlantic/South_Georgia</item>
+		<item>Atlantic/Cape_Verde</item>
+		<item>Atlantic/Azores</item>
+		<item>Europe/Dublin</item>
+		<item>Africa/Casablanca</item>
+		<item>Europe/Amsterdam</item>
+		<item>Europe/Belgrade</item>
+		<item>Europe/Brussels</item>
+		<item>Europe/Warsaw</item>
+		<item>Africa/Lagos</item>
+		<item>Europe/Athens</item>
+		<item>Europe/Bucharest</item>
+		<item>Africa/Cairo</item>
+		<item>Africa/Harare</item>
+		<item>Europe/Helsinki</item>
+		<item>Asia/Jerusalem</item>
+		<item>Asia/Baghdad</item>
+		<item>Asia/Kuwait</item>
+		<item>Europe/Moscow</item>
+		<item>Africa/Nairobi</item>
+		<item>Asia/Tehran</item>
+		<item>Asia/Dubai</item>
+		<item>Asia/Baku</item>
+		<item>Asia/Kabul</item>
+		<item>Asia/Yekaterinburg</item>
+		<item>Asia/Karachi</item>
+		<item>Asia/Calcutta</item>
+		<item>Asia/Katmandu</item>
+		<item>Asia/Novosibirsk</item>
+		<item>Asia/Dhaka</item>
+		<item>Asia/Astana</item>
+		<item>Asia/Rangoon</item>
+		<item>Asia/Bangkok</item>
+		<item>Asia/Krasnoyarsk</item>
+		<item>Asia/Hong_Kong</item>
+		<item>Asia/Irkutsk</item>
+		<item>Asia/Kuala_Lumpur</item>
+		<item>Australia/Perth</item>
+		<item>Asia/Taipei</item>
+		<item>Asia/Tokyo</item>
+		<item>Asia/Seoul</item>
+		<item>Asia/Yakutsk</item>
+		<item>Australia/Adelaide</item>
+		<item>Australia/Brisbane</item>
+		<item>Australia/Sydney</item>
+		<item>Pacific/Guam</item>
+		<item>Australia/Hobart</item>
+		<item>Asia/Vladivostok</item>
+		<item>Asia/Magadan</item>
+		<item>Pacific/Auckland</item>
+		<item>Pacific/Fiji</item>
+		<item>Pacific/Tongatapu</item>
+	</string-array>
+    <string-array name="device_timezone_old">
+
+        <item>GMT-11 ;</item>
+        <item>GMT-10 ハワイ;</item>
+        <item>GMT-9 アラスカ;</item>
+        <item>GMT-8 太平洋時間;</item>
+        <item>GMT-7 西部時間;</item>
+        <item>GMT-6 中部時間;</item>
+        <item>GMT-5 東部時間;</item>
+        <item>GMT-4 大西洋時間;</item>
+        <item>GMT-3 グリーンランド;</item>
+        <item>GMT-2 中大西洋;</item>
+        <item>GMT-1 ;</item>
+        <item>GMT 0 ロンドン;</item>
+        <item>GMT+1 パリ;ローマ;</item>
+        <item>GMT+2 カイロ;</item>
+        <item>GMT+3 モスクワ;</item>
+        <item>GMT+4 アブダビ;</item>
+        <item>GMT+5 イスラマバード;</item>
+        <item>GMT+6 ダッカ;</item>
+        <item>GMT+7 バンコク;</item>
+        <item>GMT+8 北京;香港;台北;</item>
+        <item>GMT+9 東京;</item>
+        <item>GMT+10 グァム岛;</item>
+        <item>GMT+11 ソロモン島;</item>
+        <item>GMT+12 フィジー;</item>
+    </string-array>
+    <string-array name="event_type">
+		<item>全ビデオファイル</item>
+		<item>手動録画</item>
+		<item>警報録画</item>
+		<item>スケジュール録画</item>
+	</string-array>
+    <string-array name="motion_detection_sensitivity">
+		<item>高</item>
+		<item>普通</item>
+		<item>低</item>
+	</string-array>
+    <string-array name="net_work_style">
+		<item>有線</item>
+		<item>WIFI</item>
+	</string-array>
+    <string-array name="online_recording_type">
+		<item>全ビデオファイル</item>
+		<item>手動録画</item>
+		<item>警報録画</item>
+		<item>スケジュール録画</item>
+	</string-array>
+    <string-array name="recording_time">
+		<item>なし</item>
+		<item>全日</item>
+	</string-array>
+    <string-array name="safety_connection">
+		<item>None</item>
+		<item>SSL</item>
+		<item>TLS</item>
+		<item>STARTTLS</item>
+	</string-array>
+    <string-array name="tab_name">
+		<item>カメラ</item>
+		<item>写真</item>
+		<item>ビデオ</item>
+		<item>アバウト</item>
+	</string-array>
+    <string-array name="tips_alarm_list_array">
+		<item>動体検知警報</item>
+		<item>外置警報</item>
+		<item>警報ボイス</item>
+		<item>シリアルアラーム</item>
+	</string-array>
+    <string-array name="video_apenc">
+		<item>INVALID</item>
+		<item>NONE</item>
+		<item>WEP</item>
+		<item>WPA_TKIP</item>
+		<item>WPA_AES</item>
+		<item>WPA2_TKIP</item>
+		<item>WPA2_AES</item>
+	</string-array>
+    <string-array name="video_frequency">
+		<item>50HZ</item>
+		<item>60HZ</item>
+	</string-array>
+    <string msgid="4600421777120114993" name="abc_action_bar_home_description">"ホームへ移動"</string>
+    <string msgid="1397052879051804371" name="abc_action_bar_home_description_format">"%1$s、%2$s"</string>
+    <string msgid="6623331958280229229" name="abc_action_bar_home_subtitle_description_format">"%1$s、%2$s、%3$s"</string>
+    <string msgid="1594238315039666878" name="abc_action_bar_up_description">"上へ移動"</string>
+    <string msgid="3588849162933574182" name="abc_action_menu_overflow_description">"その他のオプション"</string>
+    <string msgid="4076576682505996667" name="abc_action_mode_done">"完了"</string>
+    <string msgid="7468859129482906941" name="abc_activity_chooser_view_see_all">"すべて表示"</string>
+    <string msgid="2031811694353399454" name="abc_activitychooserview_choose_application">"アプリの選択"</string>
+    <string msgid="121134116657445385" name="abc_capital_off">"OFF"</string>
+    <string msgid="3405795526292276155" name="abc_capital_on">"ON"</string>
+    <string msgid="7723749260725869598" name="abc_search_hint">"検索…"</string>
+    <string msgid="3691816814315814921" name="abc_searchview_description_clear">"検索キーワードを削除"</string>
+    <string msgid="2550479030709304392" name="abc_searchview_description_query">"検索キーワード"</string>
+    <string msgid="8264924765203268293" name="abc_searchview_description_search">"検索"</string>
+    <string msgid="8928215447528550784" name="abc_searchview_description_submit">"検索キーワードを送信"</string>
+    <string msgid="893419373245838918" name="abc_searchview_description_voice">"音声検索"</string>
+    <string msgid="3421042268587513524" name="abc_shareactionprovider_share_with">"共有"</string>
+    <string msgid="7165123711973476752" name="abc_shareactionprovider_share_with_application">"%sと共有"</string>
+    <string msgid="1603543279005712093" name="abc_toolbar_collapse_description">"折りたたむ"</string>
+    <string name="about_fragment_SDK_version">SDK_version:</string>
+    <string name="about_fragment_copyright">版権</string>
+    <string name="action_settings">設定</string>
+    <string name="add_camera">カメラ追加</string>
+    <string name="admin">admin</string>
+    <string name="after_day">日後</string>
+    <string name="alarm_action_save_failed">警報設定保存失敗</string>
+    <string name="alarm_action_save_success">警報設定保存成功</string>
+    <string name="alarm_door">磁気アラーム</string>
+    <string name="alarm_doorbell">ドアベルアラーム</string>
+    <string name="alarm_gas">ガス警報</string>
+    <string name="alarm_humi">湿度警報</string>
+    <string name="alarm_infra">赤外線アラーム</string>
+    <string name="alarm_push">警報送信</string>
+    <string name="alarm_ring">リングアラーム</string>
+    <string name="alarm_sd_card_video">ＳＤカード警報</string>
+    <string name="alarm_smoke">煙感知器</string>
+    <string name="alarm_socket">ソケットアラーム</string>
+    <string name="alarm_sos">SOSアラーム</string>
+    <string name="alarm_temp">温度アラーム</string>
+    <string name="aleary_add_device">added</string>
+    <string name="alert_modify_now">Change it right now</string>
+    <string name="all_types">すべてのタイプ</string>
+    <string name="app_name">CamHi</string>
+    <string name="application">アプリ</string>
+    <string name="before_day">前日</string>
+    <string name="btn_alarm_check">検証</string>
+    <string name="btn_alarm_neglect">無視</string>
+    <string name="btn_delete_video_local">削除</string>
+    <string name="btn_downlinad_video_online">ビデオダウンロード</string>
+    <string name="btn_download_local_video">Download</string>
+    <string name="btn_edit">編集</string>
+    <string name="btn_no">NO</string>
+    <string name="btn_ok">OK</string>
+    <string name="btn_play_video_local">再生</string>
+    <string name="btn_play_video_online">再生</string>
+    <string name="btn_preset_1">1</string>
+    <string name="btn_preset_2">2</string>
+    <string name="btn_preset_3">3</string>
+    <string name="btn_preset_4">4</string>
+    <string name="btn_preset_5">5</string>
+    <string name="btn_preset_6">6</string>
+    <string name="btn_preset_7">7</string>
+    <string name="btn_preset_8">8</string>
+    <string name="btn_preset_call">調整</string>
+    <string name="btn_preset_set">設定</string>
+    <string name="btn_ptz_focusin">焦点+</string>
+    <string name="btn_ptz_focusout">焦点-</string>
+    <string name="btn_ptz_zoomin">ズーム+</string>
+    <string name="btn_ptz_zoomout">ズーム-</string>
+    <string name="btn_search">検索</string>
+    <string name="btn_yes">YES</string>
+    <string name="camera">カメラ</string>
+    <string name="camera_list">カメラリスト</string>
+    <string name="camera_setup">カメラ設定</string>
+    <string name="cancel">取消</string>
+    <string name="cancel_download">ダウンロード取消</string>
+    <string name="check_empty">コンテンツを空にすることはできません</string>
+    <string name="clear_all_log">ローカルに保存されているすべてのアラームログをクリアしてもよろしいですか？</string>
+    <string name="click_offline_setting">カメラオフライン</string>
+    <string name="click_to_add_camera">クリックしてカメラ追加</string>
+    <string name="connect_to_WIFI_first">先にスマホのWIFIを設定下さい</string>
+    <string name="continue_down">ダウンロード</string>
+    <string name="current_wifi">WIF情報</string>
+    <string name="data_parsing_error">データ解析エラー</string>
+    <string name="delete">削除</string>
+    <string name="device_info_device_name">カメラ名称</string>
+    <string name="device_info_dns">DNS</string>
+    <string name="device_info_gateway">ゲートウェイ</string>
+    <string name="device_info_ip_address">IPアドレス</string>
+    <string name="device_info_network_state">ネットワーク状態</string>
+    <string name="device_info_software_version">ファームVer</string>
+    <string name="device_info_subnet_mask">サブネットマスク</string>
+    <string name="device_info_user_connections">ユーザ接続数</string>
+    <string name="device_setting">設備設置</string>
+    <string name="device_type">デバイスタイプ</string>
+    <string name="dimension_content">ボックス内のQRコード/バーコードを自動スキャンする</string>
+    <string name="disconnect">接続が切れている</string>
+    <string name="door">Menci</string>
+    <string name="doorbell">ドアベル</string>
+    <string name="email_alarm_and_send_pictures">E-mail写真付警報</string>
+    <string name="equipment_setting_equipment_setting_timezone">タイムゾーン設定</string>
+    <string name="equipment_setting_equipment_timezone">タイムゾーン</string>
+    <string name="equipment_setting_phone_timezone">スマホタイムゾーン</string>
+    <string name="equipment_setting_setting_time">カメラ時間設定</string>
+    <string name="equipment_setting_setting_timezone">タイムゾーン</string>
+    <string name="equipment_setting_synchronization_time">同期時間</string>
+    <string name="failed_recording">devices memory less than 100MB</string>
+    <string name="file_alearly_convert">ファイルが変換されました、変換するフォルダの下のアルバムまたはファイル管理で表示してください！</string>
+    <string name="finish">完成</string>
+    <string name="first_tips_code_rate_range">符号率範囲  32–6144</string>
+    <string name="fish_cruise">クルーズ</string>
+    <string name="fish_divide_nine">上記のように、トップパノラマモード画面は、9つの領域</string>
+    <string name="fish_dou_elg">上のいずれかの領域をダブルクリックすると、表示することができます</string>
+    <string name="fish_know">それを知る</string>
+    <string name="fish_listen">聞く</string>
+    <string name="fish_snap">スクリーンショット</string>
+    <string name="fish_talk">インターコム</string>
+    <string name="fish_top">トップローディング</string>
+    <string name="fish_view_model">モデルのモデルを選択してください：</string>
+    <string name="fish_wall">ウォールマウント</string>
+    <string name="fluent">SD</string>
+    <string name="ftp_setting_passive_mode">パッシブモード</string>
+    <string name="ftp_setting_password">パスワード</string>
+    <string name="ftp_setting_path">パス</string>
+    <string name="ftp_setting_port">ポート</string>
+    <string name="ftp_setting_save_failed">FTP設定保存失敗</string>
+    <string name="ftp_setting_save_success">FTP設定保存成功</string>
+    <string name="ftp_setting_server">サーバ</string>
+    <string name="ftp_setting_test_ftp">FTP設定検証</string>
+    <string name="ftp_setting_username">ユーザ名</string>
+    <string name="gas">ガス</string>
+    <string name="high_definition">高精</string>
+    <string name="hint_chart">英文の文字をサポートする</string>
+    <string name="hint_key">パスワード入力</string>
+    <string name="hint_nike">カメラ名称</string>
+    <string name="hint_uid">カメラUID入力</string>
+    <string name="hint_user">ユーザ名入力</string>
+    <string name="infra">赤外線</string>
+    <string name="input_style">入力タイプ</string>
+    <string name="input_volume">入力音量</string>
+    <string name="item_action_with_alarm">警報</string>
+    <string name="item_alarm_motion_detection">動感検知警報</string>
+    <string name="item_audio_setup">音量設定</string>
+    <string name="item_equipment_information">設備情報</string>
+    <string name="item_equipment_time_setting">時間設定</string>
+    <string name="item_ftp_settings">FTP設定</string>
+    <string name="item_mailbox_settings">Email設定</string>
+    <string name="item_modify_password">パスワード修正</string>
+    <string name="item_sd_card_set">SDカード設定</string>
+    <string name="item_system_settings">システム設定</string>
+    <string name="item_timing_video">定時録画</string>
+    <string name="item_video_settings">ビデオ設定</string>
+    <string name="item_wifi_settings">WIFI設定</string>
+    <string name="light_button">Flash</string>
+    <string name="list_txt_uid">UID: </string>
+    <string name="live_view_light_auto">Auto</string>
+    <string name="live_view_light_close">Close</string>
+    <string name="live_view_light_color">Color</string>
+    <string name="live_view_light_normal">Normal</string>
+    <string name="live_view_light_open">Open</string>
+    <string name="mailbox_setting_check_failed">検証失敗</string>
+    <string name="mailbox_setting_check_success">検証成功</string>
+    <string name="mailbox_setting_message">メッセージ</string>
+    <string name="mailbox_setting_password">パスワード</string>
+    <string name="mailbox_setting_port">ポート</string>
+    <string name="mailbox_setting_receive_address">受信アドレス</string>
+    <string name="mailbox_setting_safety_connection">安全接続</string>
+    <string name="mailbox_setting_save_failed">Email設定失敗</string>
+    <string name="mailbox_setting_save_success">Email設定成功</string>
+    <string name="mailbox_setting_sending_address">送信アドレス</string>
+    <string name="mailbox_setting_smtp_server">SMTPサーバ</string>
+    <string name="mailbox_setting_test">検証</string>
+    <string name="mailbox_setting_test_email">Email設定検証</string>
+    <string name="mailbox_setting_theme">表題</string>
+    <string name="mailbox_setting_username">ユーザ名</string>
+    <string name="mailbox_setting_verification">検証</string>
+    <string name="name">名称:</string>
+    <string name="new_psw">新パスワード</string>
+    <string name="no_wifi">いいえ、無線！</string>
+    <string name="off">OFF</string>
+    <string name="old_psw">旧パスワード</string>
+    <string name="on">ON</string>
+    <string name="one_key_setting">WIFI設置</string>
+    <string name="one_key_setting_wifi">WIFI設定</string>
+    <string name="open_motion_detection">動感検知開始</string>
+    <string name="output_volume">出力音量</string>
+    <string name="photograph_album">アルバムの選択</string>
+    <string name="port_limit">ポート番号の範囲は（1〜65535）</string>
+    <string name="psw">パスワード:</string>
+    <string name="pup_goto">査看に行く</string>
+    <string name="range_video_setting_frame_rate">fps(1-%d)</string>
+    <string name="refresh">更新</string>
+    <string name="resolution_ratio">解像度</string>
+    <string name="return_btn">戻る</string>
+    <string name="rf_alarm">RFアラーム</string>
+    <string name="rf_sensor">RFセンサ</string>
+    <string name="save_pictures_to_ftp_server">FTPサーバへ写真保存</string>
+    <string name="save_videos_to_ftp_server">FTPサーバへビデオ保存</string>
+    <string name="scan">Scan QR code, add UID</string>
+    <string name="scann_qrcode_add_camera">二次元コードをスキャンして共有カメラを追加する</string>
+    <string name="scanning_begin">スキャンを開始する</string>
+    <string name="sd_card_setting_available_size">空き容量：</string>
+    <string name="sd_card_setting_btm_tips">フォーマットによりカード内の全データは削除されます</string>
+    <string name="sd_card_setting_format_sd_card">SDフォーマット</string>
+    <string name="sd_card_setting_storage_size">保存容量：</string>
+    <string name="search_camera_result">検索結果</string>
+    <string name="search_dialog_from">から</string>
+    <string name="search_dialog_to">まで</string>
+    <string name="search_in_lan">LAN内スキャン</string>
+    <string name="search_video">録画を検索する</string>
+    <string name="search_video_a_day">１日以内</string>
+    <string name="search_video_half_day">半日以内</string>
+    <string name="search_video_hour">１時間以内</string>
+    <string name="search_video_self">限定</string>
+    <string name="search_video_week">１週間以内</string>
+    <string name="second_tips_code_rate_range">符号率範囲  32–2048</string>
+    <string name="sends">秒</string>
+    <string name="sensitivity">動感検知感度</string>
+    <string name="setting">設定</string>
+    <string name="smoke">煙</string>
+    <string name="ssid">SSID:</string>
+    <string msgid="2869576371154716097" name="status_bar_notification_info_overflow">"999+"</string>
+    <string name="success_to_album">アルバムに保存しました！</string>
+    <string name="sure">確定</string>
+    <string name="sure_new_psw">パスワード確認</string>
+    <string name="sure_to_exit">終了しますか？</string>
+    <string name="system_setting_restart_camera">カメラ再起動</string>
+    <string name="system_setting_restore_factory_settings">工場設定値へ戻します</string>
+    <string name="system_setting_upgrade_online_settings">更新</string>
+    <string name="take_picture_counts">撮影写真枚数</string>
+    <string name="text_scan">ＱＲコード読み取り</string>
+    <string name="time_zone">タイムゾーン</string>
+    <string name="tint_to_album">このビデオを電話アルバムに保存することを確認しますか？</string>
+    <string name="tip_alear_dowm">The video has been downloaded</string>
+    <string name="tip_close_failed">閉じるに失敗しました</string>
+    <string name="tip_count">計算中</string>
+    <string name="tip_day">D</string>
+    <string name="tip_de_zone">設置設備のタイムゾーン</string>
+    <string name="tip_delete_snap">削除の速写を選択して下さい！</string>
+    <string name="tip_device_add">要求に失敗しました</string>
+    <string name="tip_dst">DST</string>
+    <string name="tip_file_alear_down">このファイルはダウンロードしている</string>
+    <string name="tip_from">から</string>
+    <string name="tip_ftp_setting">テストFTP設定</string>
+    <string name="tip_get_devi_tizone_fail">失败を設備のタイムゾーン</string>
+    <string name="tip_hint">ヒント</string>
+    <string name="tip_hour">H</string>
+    <string name="tip_knows">知っているよ</string>
+    <string name="tip_miute">M</string>
+    <string name="tip_modify_content">The device is using the default password:admin,please change the password first</string>
+    <string name="tip_modify_password">Please change the password </string>
+    <string name="tip_mouth">M</string>
+    <string name="tip_no">なし</string>
+    <string name="tip_not_empty">新しいパスワードを空にすることはできません</string>
+    <string name="tip_not_empty_admin">新パスワードは空にできませんとadmin</string>
+    <string name="tip_not_settimezone">設置ができない現在の設備のタイムゾーン</string>
+    <string name="tip_not_spcialchar">Special characters are not supported</string>
+    <string name="tip_not_switch_quality">通話中、画質の調整はできます</string>
+    <string name="tip_open_faild">オープンに失敗しました</string>
+    <string name="tip_password_limit">Password length must not exceed Thirty-one!</string>
+    <string name="tip_perset_hint_input">Please input preset number (1-255)</string>
+    <string name="tip_perset_toast">Preset bits must not be greater than 255 or 0!</string>
+    <string name="tip_preset_fail">Preset bit setting failed</string>
+    <string name="tip_recording_list">ビデオファイルリスト</string>
+    <string name="tip_reminder">ウォームヒント</string>
+    <string name="tip_seting_devi_time">設置設備のタイムゾーン</string>
+    <string name="tip_system_update">更新中，電源を切らないで下さい</string>
+    <string name="tip_system_update_new">最新版です。更新は不要です。</string>
+    <string name="tip_system_update_old">最新版があります、更新しますか？</string>
+    <string name="tip_to">～</string>
+    <string name="tip_year">Y</string>
+    <string name="tips_about_video_vonert">ビデオがMP4ファイルに変換されていることを確認し、アルバムまたはファイルマネージャの[変換]フォルダで表示できます</string>
+    <string name="tips_add_camera_exists">カメラ登録,新しいカメラを追加下さい</string>
+    <string name="tips_alarm_setting_failed">警報設定保存失敗</string>
+    <string name="tips_alarm_setting_success">警報設定保存成功</string>
+    <string name="tips_audio_setting">音声設定成功</string>
+    <string name="tips_cancel_download_file">ダウン―°を取り消しますか？</string>
+    <string name="tips_delete_video_local">ビデオ削除しますか?</string>
+    <string name="tips_device_num">デバイス数</string>
+    <string name="tips_device_time_setting_reboot_camera">タイムゾーン設定後は再起動が必要です，継続しますか？</string>
+    <string name="tips_device_time_setting_synchroned_time">時刻同期成功</string>
+    <string name="tips_device_time_setting_timezone">タイムゾーン設定成功，カメラは再起動します</string>
+    <string name="tips_device_time_setting_timezone_new">Setting Time Successfully</string>
+    <string name="tips_down_file_route">あなたはここにいることができます</string>
+    <string name="tips_downlaoding_video">ビデオダウンロード中</string>
+    <string name="tips_email_tolong">長いメッセージの内容</string>
+    <string name="tips_emptied">空になった</string>
+    <string name="tips_format_sd_card">全録画ファイルを削除しますか？</string>
+    <string name="tips_format_sd_card_success">フォーマット成功</string>
+    <string name="tips_frame_rate_range">フレームレート範囲1–%d</string>
+    <string name="tips_goto_add_camera">最初にカメラを追加する</string>
+    <string name="tips_input_tolong">入力の長さが長すぎて、あなたの入力の長さが長すぎる。</string>
+    <string name="tips_internet_no_cameras">ネットワークにカメラを発見できません</string>
+    <string name="tips_invalid_uid">UIDが無効です</string>
+    <string name="tips_limit_add_camera">Limits 64 cameras</string>
+    <string name="tips_loading">ロード中</string>
+    <string name="tips_long_press_preset_btn">リセット長押し10秒で初期化後再起動します</string>
+    <string name="tips_modify_security_code_ok">パスワード修正成功，カメラ再接続をお待ち下さい</string>
+    <string name="tips_msg_delete_camera">カメラを削除しますか？</string>
+    <string name="tips_msg_delete_snapshot">スナップ削除？</string>
+    <string name="tips_msg_wifi_set_restart_app">wifi設定後再起動が必要です.</string>
+    <string name="tips_network_disconnect">The network has been disconnected, please re Download</string>
+    <string name="tips_new_passwords_do_not_match">パスワード不一致</string>
+    <string name="tips_no_data">データがありません</string>
+    <string name="tips_no_file">未保存のビデオ</string>
+    <string name="tips_no_permission">設定権限がありません。確認下さい。</string>
+    <string name="tips_no_picture">写真無</string>
+    <string name="tips_no_sdcard">ＳＤカード無</string>
+    <string name="tips_null_nike">入力必要[カメラ名称]</string>
+    <string name="tips_null_uid">入力必要[UID]</string>
+    <string name="tips_null_username">入力必要[ユーザ名]</string>
+    <string name="tips_old_password_is_wrong">パスワードエラー</string>
+    <string name="tips_one_key_set_wifi">Wifi設定,お待ち下さい</string>
+    <string name="tips_one_key_setting">   
+				Before click the apply button, 
+				please turn the phone volume up to the maximum, 
+				and put the phone close to the camera.</string>
+    <string name="tips_open_video_fail">開いているビデオに失敗</string>
+    <string name="tips_password_tolong">パスワードが長すぎて</string>
+    <string name="tips_password_wrong_contains">パスワードは ~ $ \ \\ = + （スペース）を含めません</string>
+    <string name="tips_play_progress">進捗状況を再生: </string>
+    <string name="tips_port_notnull">ポートが空であるか、または0ことはできません</string>
+    <string name="tips_preset_set_btn">設定成功</string>
+    <string name="tips_reboot_camera">カメラを再起動しますか？１分程度処理時間がかかります。</string>
+    <string name="tips_recording_time_range">撮影時間範囲15秒～%d秒</string>
+    <string name="tips_recovery">回復中…</string>
+    <string name="tips_remove_success">カメラ削除成功</string>
+    <string name="tips_restart">再起動中…</string>
+    <string name="tips_restore_factory_settings">工場設定値へ戻しますか？１分程度処理時間がかかります。</string>
+    <string name="tips_sele_share_camera">共有カメラを選択</string>
+    <string name="tips_setzonefail">設定した時間帯に失敗しました</string>
+    <string name="tips_share">シェア</string>
+    <string name="tips_share_qrcode">QRコードを共有する</string>
+    <string name="tips_share_to">共有先</string>
+    <string name="tips_snapshot_failed">スナップ失敗</string>
+    <string name="tips_snapshot_success">スナップショットを保存しました</string>
+    <string name="tips_stanotend">始まりは時間と終わり、時間とは、時間が</string>
+    <string name="tips_stop_video">ビデオ停止</string>
+    <string name="tips_summer_time">サマータイム</string>
+    <string name="tips_time_video">設定保存成功</string>
+    <string name="tips_update">En la actualización.</string>
+    <string name="tips_update_system_failed">Connection server failed </string>
+    <string name="tips_username_tolong">El nombre de usuario es demasiado largo</string>
+    <string name="tips_video_level_range">ビデオ品質範囲 1–6</string>
+    <string name="tips_video_setting">ビデオ設定成功</string>
+    <string name="tips_warning">警告</string>
+    <string name="tips_wifi_connect_failed">Connection failed! </string>
+    <string name="tips_wifi_connect_success">Connection success! </string>
+    <string name="tips_wifi_one_key_set">カメラの音声が聞こえますか</string>
+    <string name="tips_wifi_setting">Wifi設定成功</string>
+    <string name="tit_video">録音</string>
+    <string name="title_about_fragment">関係</string>
+    <string name="title_action_with_alarm">警報</string>
+    <string name="title_alarm_list">警報記録</string>
+    <string name="title_alarm_motion_detection">動感検知警報</string>
+    <string name="title_audio_setup">音量設定</string>
+    <string name="title_camera_fragment">カメラ</string>
+    <string name="title_equipment_information">設備情報</string>
+    <string name="title_equipment_setting">時間設定</string>
+    <string name="title_ftp_settings">FTP設定</string>
+    <string name="title_local_picture">ローカル写真</string>
+    <string name="title_local_video">ローカルビデオ</string>
+    <string name="title_mailbox_settings">Email設定</string>
+    <string name="title_modify_password">パスワード修正</string>
+    <string name="title_online_video">オンライン</string>
+    <string name="title_picture_fragment">写真</string>
+    <string name="title_scan_qr_code">ＱＲコード</string>
+    <string name="title_sdcard_setting">SDカード設定</string>
+    <string name="title_search_dialog">事象検索</string>
+    <string name="title_search_video">カードビデオ</string>
+    <string name="title_system_settings">システム設定</string>
+    <string name="title_timing_video">定時録画</string>
+    <string name="title_user_settting">ユーザ設定</string>
+    <string name="title_video_settings">ビデオ設定</string>
+    <string name="title_wifi_setting">無線設定</string>
+    <string name="to_album">アルバムに保存</string>
+    <string name="toast_confirm_add">追加することを確認する</string>
+    <string name="toast_device_added">前に追加したカメラ！</string>
+    <string name="toast_scan_fail">スキャンに失敗しました！</string>
+    <string name="toast_scanning">スキャン中...</string>
+    <string name="toast_sele_device">共有したい機器を選択してください！</string>
+    <string name="today">今日</string>
+    <string name="totast_more_ten">一度に最大10個のデバイスしか共有できません</string>
+    <string name="turn_on_video">ビデオ撮影開始</string>
+    <string name="txtNoResultFound">記録を発見できません</string>
+    <string name="txtSearchEventDuration">検索期間:</string>
+    <string name="txt_live_flip">フリップ</string>
+    <string name="txt_live_mirror">ミラー</string>
+    <string name="txt_recording">録画中</string>
+    <string name="uid">UID:</string>
+    <string name="uid_limit_input">0123456789abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ- </string>
+    <string name="use_setting_show_psw">パスワード表示</string>
+    <string name="user_name">ユーザ名:</string>
+    <string name="video_conversion">動画変換</string>
+    <string name="video_convert">動画変換</string>
+    <string name="video_file_times">撮影ファイル時間</string>
+    <string name="video_fragment_local_btn">ローカル</string>
+    <string name="video_fragment_online_btn">オンライン</string>
+    <string name="video_setting_btm_tips">値が小さいほど写真精度は高いです</string>
+    <string name="video_setting_code_rate">符号率</string>
+    <string name="video_setting_first_stream">第一ストリーム</string>
+    <string name="video_setting_frame_rate">フレームレート</string>
+    <string name="video_setting_second_stream">第二ストリーム</string>
+    <string name="video_setting_video_format">ビデオフォーマット</string>
+    <string name="video_setting_video_level">ビデオ品質</string>
+    <string name="video_time">撮影時間</string>
+    <string name="wifi_setting_connect">接続</string>
+    <string name="wifi_setting_connected">接続済</string>
+    <string name="wifi_setting_loading">ロード中</string>
+    <string name="wifi_setting_manager_btn">WiFi管理</string>
+    <string name="wifi_setting_not_connect">未接続</string>
+    <string name="wifi_setting_safety">安全管理:</string>
+    <string name="wifi_setting_signal_intensity">信号強度:</string>
+    <string name="xml_current_install_mode">Current installation mode:</string>
+    <string name="xml_double_enlager">Double-click the magnified view of the area you want to see!</string>
+    <string name="xml_fish_video">Fisheye video</string>
+    <string name="xml_pinch_together">1. Available two fingers zoom view video yo!</string>
+    <string name="xml_select_view_model">Please select the view model you want to watch:</string>
+    <string name="xml_switch_view">Switch the view</string>
+</resources>

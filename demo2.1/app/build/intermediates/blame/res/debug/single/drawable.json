@@ -1,0 +1,902 @@
+[
+    {
+        "merged": "G:\\demo2.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_spinner_textfield_background_material.xml",
+        "source": "C:\\Users\\zhp\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.4.0.aar\\5bfae358ce9383a6adc3d0328d3051cd\\res\\drawable\\abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "G:\\demo2.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\shape_check_code_un.xml",
+        "source": "G:\\demo2.1\\app\\src\\main\\res\\drawable\\shape_check_code_un.xml"
+    },
+    {
+        "merged": "G:\\demo2.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\shape_gradient_live.xml",
+        "source": "G:\\demo2.1\\app\\src\\main\\res\\drawable\\shape_gradient_live.xml"
+    },
+    {
+        "merged": "F:\\demo2.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_pup_four.xml",
+        "source": "F:\\demo2.1\\app\\src\\main\\res\\drawable\\selector_pup_four.xml"
+    },
+    {
+        "merged": "F:\\demo2.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_pup_wall.xml",
+        "source": "F:\\demo2.1\\app\\src\\main\\res\\drawable\\selector_pup_wall.xml"
+    },
+    {
+        "merged": "F:\\demo2.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\pull_to_refresh_second_anim.xml",
+        "source": "F:\\demo2.1\\app\\src\\main\\res\\drawable\\pull_to_refresh_second_anim.xml"
+    },
+    {
+        "merged": "F:\\demo2.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\shape_rf_log.xml",
+        "source": "F:\\demo2.1\\app\\src\\main\\res\\drawable\\shape_rf_log.xml"
+    },
+    {
+        "merged": "F:\\demo2.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_indicator_material.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.4.0.aar\\dd9a55aac51ce73dc3ef6c150e584100\\res\\drawable\\abc_ratingbar_indicator_material.xml"
+    },
+    {
+        "merged": "G:\\demo2.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\shape_check_code.xml",
+        "source": "G:\\demo2.1\\app\\src\\main\\res\\drawable\\shape_check_code.xml"
+    },
+    {
+        "merged": "F:\\demo2.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_edit_text_material.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.4.0.aar\\dd9a55aac51ce73dc3ef6c150e584100\\res\\drawable\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "F:\\demo2.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\radio_btn_picture_fragment_left_bg.xml",
+        "source": "F:\\demo2.1\\app\\src\\main\\res\\drawable\\radio_btn_picture_fragment_left_bg.xml"
+    },
+    {
+        "merged": "F:\\demo2.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_live_box_bg.xml",
+        "source": "F:\\demo2.1\\app\\src\\main\\res\\drawable\\btn_live_box_bg.xml"
+    },
+    {
+        "merged": "G:\\demo2.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_pup_intall_top.xml",
+        "source": "G:\\demo2.1\\app\\src\\main\\res\\drawable\\selector_pup_intall_top.xml"
+    },
+    {
+        "merged": "F:\\demo2.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\click_btn_nor.xml",
+        "source": "F:\\demo2.1\\app\\src\\main\\res\\drawable\\click_btn_nor.xml"
+    },
+    {
+        "merged": "G:\\demo2.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_pw_checkbox.xml",
+        "source": "G:\\demo2.1\\app\\src\\main\\res\\drawable\\selector_pw_checkbox.xml"
+    },
+    {
+        "merged": "G:\\demo2.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\shape_trance_rate.xml",
+        "source": "G:\\demo2.1\\app\\src\\main\\res\\drawable\\shape_trance_rate.xml"
+    },
+    {
+        "merged": "F:\\demo2.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_pup_intall_top.xml",
+        "source": "F:\\demo2.1\\app\\src\\main\\res\\drawable\\selector_pup_intall_top.xml"
+    },
+    {
+        "merged": "F:\\demo2.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\shape_gradient_eee.xml",
+        "source": "F:\\demo2.1\\app\\src\\main\\res\\drawable\\shape_gradient_eee.xml"
+    },
+    {
+        "merged": "G:\\demo2.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\alive_setting_item_bg.xml",
+        "source": "G:\\demo2.1\\app\\src\\main\\res\\drawable\\alive_setting_item_bg.xml"
+    },
+    {
+        "merged": "G:\\demo2.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\click_btn_bg.xml",
+        "source": "G:\\demo2.1\\app\\src\\main\\res\\drawable\\click_btn_bg.xml"
+    },
+    {
+        "merged": "F:\\demo2.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\layout_click_bg.xml",
+        "source": "F:\\demo2.1\\app\\src\\main\\res\\drawable\\layout_click_bg.xml"
+    },
+    {
+        "merged": "G:\\demo2.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\round_corner.xml",
+        "source": "G:\\demo2.1\\app\\src\\main\\res\\drawable\\round_corner.xml"
+    },
+    {
+        "merged": "G:\\demo2.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_pup_roundboby.xml",
+        "source": "G:\\demo2.1\\app\\src\\main\\res\\drawable\\selector_pup_roundboby.xml"
+    },
+    {
+        "merged": "G:\\demo2.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_pup_circluer.xml",
+        "source": "G:\\demo2.1\\app\\src\\main\\res\\drawable\\selector_pup_circluer.xml"
+    },
+    {
+        "merged": "F:\\demo2.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_check_code.xml",
+        "source": "F:\\demo2.1\\app\\src\\main\\res\\drawable\\selector_check_code.xml"
+    },
+    {
+        "merged": "F:\\demo2.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.4.0.aar\\dd9a55aac51ce73dc3ef6c150e584100\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "G:\\demo2.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_pup_wall.xml",
+        "source": "G:\\demo2.1\\app\\src\\main\\res\\drawable\\selector_pup_wall.xml"
+    },
+    {
+        "merged": "G:\\demo2.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\radio_btn_picture_fragment_left_bg.xml",
+        "source": "G:\\demo2.1\\app\\src\\main\\res\\drawable\\radio_btn_picture_fragment_left_bg.xml"
+    },
+    {
+        "merged": "G:\\demo2.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_check_material.xml",
+        "source": "C:\\Users\\zhp\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.4.0.aar\\5bfae358ce9383a6adc3d0328d3051cd\\res\\drawable\\abc_btn_check_material.xml"
+    },
+    {
+        "merged": "G:\\demo2.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_check_code.xml",
+        "source": "G:\\demo2.1\\app\\src\\main\\res\\drawable\\selector_check_code.xml"
+    },
+    {
+        "merged": "G:\\demo2.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\shape_know_bg.xml",
+        "source": "G:\\demo2.1\\app\\src\\main\\res\\drawable\\shape_know_bg.xml"
+    },
+    {
+        "merged": "F:\\demo2.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_radio_material.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.4.0.aar\\dd9a55aac51ce73dc3ef6c150e584100\\res\\drawable\\abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "F:\\demo2.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_main_buttom_txt.xml",
+        "source": "F:\\demo2.1\\app\\src\\main\\res\\drawable\\selector_main_buttom_txt.xml"
+    },
+    {
+        "merged": "F:\\demo2.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.4.0.aar\\dd9a55aac51ce73dc3ef6c150e584100\\res\\drawable\\abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "F:\\demo2.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\shape_qrcode.xml",
+        "source": "F:\\demo2.1\\app\\src\\main\\res\\drawable\\shape_qrcode.xml"
+    },
+    {
+        "merged": "G:\\demo2.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_radio_material.xml",
+        "source": "C:\\Users\\zhp\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.4.0.aar\\5bfae358ce9383a6adc3d0328d3051cd\\res\\drawable\\abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "F:\\demo2.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\shape_dialog_bg.xml",
+        "source": "F:\\demo2.1\\app\\src\\main\\res\\drawable\\shape_dialog_bg.xml"
+    },
+    {
+        "merged": "G:\\demo2.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_pup_two.xml",
+        "source": "G:\\demo2.1\\app\\src\\main\\res\\drawable\\selector_pup_two.xml"
+    },
+    {
+        "merged": "F:\\demo2.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\po_seekbar.xml",
+        "source": "F:\\demo2.1\\app\\src\\main\\res\\drawable\\po_seekbar.xml"
+    },
+    {
+        "merged": "F:\\demo2.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\shape_gradient_live_buttom.xml",
+        "source": "F:\\demo2.1\\app\\src\\main\\res\\drawable\\shape_gradient_live_buttom.xml"
+    },
+    {
+        "merged": "F:\\demo2.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_default_mtrl_shape.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.4.0.aar\\dd9a55aac51ce73dc3ef6c150e584100\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "G:\\demo2.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\layout_click_bg.xml",
+        "source": "G:\\demo2.1\\app\\src\\main\\res\\drawable\\layout_click_bg.xml"
+    },
+    {
+        "merged": "G:\\demo2.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background_dark.xml",
+        "source": "C:\\Users\\zhp\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.4.0.aar\\5bfae358ce9383a6adc3d0328d3051cd\\res\\drawable\\abc_dialog_material_background_dark.xml"
+    },
+    {
+        "merged": "G:\\demo2.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\layout_camera_fragment_main_bg.xml",
+        "source": "G:\\demo2.1\\app\\src\\main\\res\\drawable\\layout_camera_fragment_main_bg.xml"
+    },
+    {
+        "merged": "F:\\demo2.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\shape_install_mode_bg.xml",
+        "source": "F:\\demo2.1\\app\\src\\main\\res\\drawable\\shape_install_mode_bg.xml"
+    },
+    {
+        "merged": "G:\\demo2.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\shape_key_normal.xml",
+        "source": "G:\\demo2.1\\app\\src\\main\\res\\drawable\\shape_key_normal.xml"
+    },
+    {
+        "merged": "G:\\demo2.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_check_code_tv.xml",
+        "source": "G:\\demo2.1\\app\\src\\main\\res\\drawable\\selector_check_code_tv.xml"
+    },
+    {
+        "merged": "G:\\demo2.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_text_cursor_material.xml",
+        "source": "C:\\Users\\zhp\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.4.0.aar\\5bfae358ce9383a6adc3d0328d3051cd\\res\\drawable\\abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "F:\\demo2.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_record.xml",
+        "source": "F:\\demo2.1\\app\\src\\main\\res\\drawable\\selector_record.xml"
+    },
+    {
+        "merged": "G:\\demo2.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\round_corner_pre.xml",
+        "source": "G:\\demo2.1\\app\\src\\main\\res\\drawable\\round_corner_pre.xml"
+    },
+    {
+        "merged": "G:\\demo2.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_microphone_bg.xml",
+        "source": "G:\\demo2.1\\app\\src\\main\\res\\drawable\\btn_microphone_bg.xml"
+    },
+    {
+        "merged": "F:\\demo2.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\shape_gradient_live.xml",
+        "source": "F:\\demo2.1\\app\\src\\main\\res\\drawable\\shape_gradient_live.xml"
+    },
+    {
+        "merged": "F:\\demo2.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\shape_pupview_bg.xml",
+        "source": "F:\\demo2.1\\app\\src\\main\\res\\drawable\\shape_pupview_bg.xml"
+    },
+    {
+        "merged": "G:\\demo2.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "C:\\Users\\zhp\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.4.0.aar\\5bfae358ce9383a6adc3d0328d3051cd\\res\\drawable\\abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "F:\\demo2.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\click_btn_bg.xml",
+        "source": "F:\\demo2.1\\app\\src\\main\\res\\drawable\\click_btn_bg.xml"
+    },
+    {
+        "merged": "F:\\demo2.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\round_corner_pre.xml",
+        "source": "F:\\demo2.1\\app\\src\\main\\res\\drawable\\round_corner_pre.xml"
+    },
+    {
+        "merged": "F:\\demo2.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_colored_material.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.4.0.aar\\dd9a55aac51ce73dc3ef6c150e584100\\res\\drawable\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "G:\\demo2.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_edit_text_material.xml",
+        "source": "C:\\Users\\zhp\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.4.0.aar\\5bfae358ce9383a6adc3d0328d3051cd\\res\\drawable\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "G:\\demo2.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_picture.xml",
+        "source": "G:\\demo2.1\\app\\src\\main\\res\\drawable\\selector_picture.xml"
+    },
+    {
+        "merged": "F:\\demo2.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\alive_setting_bottom_item_bg.xml",
+        "source": "F:\\demo2.1\\app\\src\\main\\res\\drawable\\alive_setting_bottom_item_bg.xml"
+    },
+    {
+        "merged": "F:\\demo2.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_full_material.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.4.0.aar\\dd9a55aac51ce73dc3ef6c150e584100\\res\\drawable\\abc_ratingbar_full_material.xml"
+    },
+    {
+        "merged": "G:\\demo2.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_default_mtrl_shape.xml",
+        "source": "C:\\Users\\zhp\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.4.0.aar\\5bfae358ce9383a6adc3d0328d3051cd\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "F:\\demo2.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\progress_bar.xml",
+        "source": "F:\\demo2.1\\app\\src\\main\\res\\drawable\\progress_bar.xml"
+    },
+    {
+        "merged": "F:\\demo2.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\shape_check_code_un.xml",
+        "source": "F:\\demo2.1\\app\\src\\main\\res\\drawable\\shape_check_code_un.xml"
+    },
+    {
+        "merged": "G:\\demo2.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\shape_fish_iv_bg.xml",
+        "source": "G:\\demo2.1\\app\\src\\main\\res\\drawable\\shape_fish_iv_bg.xml"
+    },
+    {
+        "merged": "F:\\demo2.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.4.0.aar\\dd9a55aac51ce73dc3ef6c150e584100\\res\\drawable\\abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "F:\\demo2.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_check_code_tv.xml",
+        "source": "F:\\demo2.1\\app\\src\\main\\res\\drawable\\selector_check_code_tv.xml"
+    },
+    {
+        "merged": "F:\\demo2.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_top_material.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.4.0.aar\\dd9a55aac51ce73dc3ef6c150e584100\\res\\drawable\\abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "F:\\demo2.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\shape_trance_rate.xml",
+        "source": "F:\\demo2.1\\app\\src\\main\\res\\drawable\\shape_trance_rate.xml"
+    },
+    {
+        "merged": "F:\\demo2.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_live_tvcruise.xml",
+        "source": "F:\\demo2.1\\app\\src\\main\\res\\drawable\\selector_live_tvcruise.xml"
+    },
+    {
+        "merged": "G:\\demo2.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\shape_control_btn_enab.xml",
+        "source": "G:\\demo2.1\\app\\src\\main\\res\\drawable\\shape_control_btn_enab.xml"
+    },
+    {
+        "merged": "F:\\demo2.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tv_bg_pre.xml",
+        "source": "F:\\demo2.1\\app\\src\\main\\res\\drawable\\tv_bg_pre.xml"
+    },
+    {
+        "merged": "G:\\demo2.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_switch_thumb_material.xml",
+        "source": "C:\\Users\\zhp\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.4.0.aar\\5bfae358ce9383a6adc3d0328d3051cd\\res\\drawable\\abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "G:\\demo2.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\shape_install_mode_bg.xml",
+        "source": "G:\\demo2.1\\app\\src\\main\\res\\drawable\\shape_install_mode_bg.xml"
+    },
+    {
+        "merged": "F:\\demo2.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_camera.xml",
+        "source": "F:\\demo2.1\\app\\src\\main\\res\\drawable\\selector_camera.xml"
+    },
+    {
+        "merged": "G:\\demo2.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_pup_bowl.xml",
+        "source": "G:\\demo2.1\\app\\src\\main\\res\\drawable\\selector_pup_bowl.xml"
+    },
+    {
+        "merged": "F:\\demo2.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\radio_bg_nor.xml",
+        "source": "F:\\demo2.1\\app\\src\\main\\res\\drawable\\radio_bg_nor.xml"
+    },
+    {
+        "merged": "G:\\demo2.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tv_bg_pre.xml",
+        "source": "G:\\demo2.1\\app\\src\\main\\res\\drawable\\tv_bg_pre.xml"
+    },
+    {
+        "merged": "F:\\demo2.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_bg_press.xml",
+        "source": "F:\\demo2.1\\app\\src\\main\\res\\drawable\\selector_bg_press.xml"
+    },
+    {
+        "merged": "G:\\demo2.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\shape_gradient_eee.xml",
+        "source": "G:\\demo2.1\\app\\src\\main\\res\\drawable\\shape_gradient_eee.xml"
+    },
+    {
+        "merged": "G:\\demo2.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\shape_full_screen.xml",
+        "source": "G:\\demo2.1\\app\\src\\main\\res\\drawable\\shape_full_screen.xml"
+    },
+    {
+        "merged": "G:\\demo2.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\alive_setting_top_item_bg.xml",
+        "source": "G:\\demo2.1\\app\\src\\main\\res\\drawable\\alive_setting_top_item_bg.xml"
+    },
+    {
+        "merged": "F:\\demo2.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_live_cruis.xml",
+        "source": "F:\\demo2.1\\app\\src\\main\\res\\drawable\\selector_live_cruis.xml"
+    },
+    {
+        "merged": "F:\\demo2.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background_dark.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.4.0.aar\\dd9a55aac51ce73dc3ef6c150e584100\\res\\drawable\\abc_dialog_material_background_dark.xml"
+    },
+    {
+        "merged": "F:\\demo2.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tv_bg_nor.xml",
+        "source": "F:\\demo2.1\\app\\src\\main\\res\\drawable\\tv_bg_nor.xml"
+    },
+    {
+        "merged": "G:\\demo2.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\radio_button_font_style.xml",
+        "source": "G:\\demo2.1\\app\\src\\main\\res\\drawable\\radio_button_font_style.xml"
+    },
+    {
+        "merged": "G:\\demo2.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_light.xml",
+        "source": "C:\\Users\\zhp\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.4.0.aar\\5bfae358ce9383a6adc3d0328d3051cd\\res\\drawable\\abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "F:\\demo2.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\alive_snapshot_bg.xml",
+        "source": "F:\\demo2.1\\app\\src\\main\\res\\drawable\\alive_snapshot_bg.xml"
+    },
+    {
+        "merged": "G:\\demo2.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\shape_dialog_bg.xml",
+        "source": "G:\\demo2.1\\app\\src\\main\\res\\drawable\\shape_dialog_bg.xml"
+    },
+    {
+        "merged": "F:\\demo2.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\radio_button_font_style.xml",
+        "source": "F:\\demo2.1\\app\\src\\main\\res\\drawable\\radio_button_font_style.xml"
+    },
+    {
+        "merged": "F:\\demo2.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\shape_circle.xml",
+        "source": "F:\\demo2.1\\app\\src\\main\\res\\drawable\\shape_circle.xml"
+    },
+    {
+        "merged": "F:\\demo2.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\shape_circular_black.xml",
+        "source": "F:\\demo2.1\\app\\src\\main\\res\\drawable\\shape_circular_black.xml"
+    },
+    {
+        "merged": "F:\\demo2.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\playback_play_btn_bg.xml",
+        "source": "F:\\demo2.1\\app\\src\\main\\res\\drawable\\playback_play_btn_bg.xml"
+    },
+    {
+        "merged": "G:\\demo2.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_focus_bg.xml",
+        "source": "G:\\demo2.1\\app\\src\\main\\res\\drawable\\selector_focus_bg.xml"
+    },
+    {
+        "merged": "F:\\demo2.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_pup_roundboby.xml",
+        "source": "F:\\demo2.1\\app\\src\\main\\res\\drawable\\selector_pup_roundboby.xml"
+    },
+    {
+        "merged": "F:\\demo2.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\nor_background_ll.xml",
+        "source": "F:\\demo2.1\\app\\src\\main\\res\\drawable\\nor_background_ll.xml"
+    },
+    {
+        "merged": "F:\\demo2.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\shap_red_spot.xml",
+        "source": "F:\\demo2.1\\app\\src\\main\\res\\drawable\\shap_red_spot.xml"
+    },
+    {
+        "merged": "F:\\demo2.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\radio_bg_sel.xml",
+        "source": "F:\\demo2.1\\app\\src\\main\\res\\drawable\\radio_bg_sel.xml"
+    },
+    {
+        "merged": "G:\\demo2.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\shape_control_btn_bg_pre.xml",
+        "source": "G:\\demo2.1\\app\\src\\main\\res\\drawable\\shape_control_btn_bg_pre.xml"
+    },
+    {
+        "merged": "F:\\demo2.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_pup_install_wall.xml",
+        "source": "F:\\demo2.1\\app\\src\\main\\res\\drawable\\selector_pup_install_wall.xml"
+    },
+    {
+        "merged": "G:\\demo2.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background_light.xml",
+        "source": "C:\\Users\\zhp\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.4.0.aar\\5bfae358ce9383a6adc3d0328d3051cd\\res\\drawable\\abc_dialog_material_background_light.xml"
+    },
+    {
+        "merged": "G:\\demo2.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_full_material.xml",
+        "source": "C:\\Users\\zhp\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.4.0.aar\\5bfae358ce9383a6adc3d0328d3051cd\\res\\drawable\\abc_ratingbar_full_material.xml"
+    },
+    {
+        "merged": "G:\\demo2.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_tab_indicator_material.xml",
+        "source": "C:\\Users\\zhp\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.4.0.aar\\5bfae358ce9383a6adc3d0328d3051cd\\res\\drawable\\abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "F:\\demo2.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_spinner_textfield_background_material.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.4.0.aar\\dd9a55aac51ce73dc3ef6c150e584100\\res\\drawable\\abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "G:\\demo2.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\click_btn_pre.xml",
+        "source": "G:\\demo2.1\\app\\src\\main\\res\\drawable\\click_btn_pre.xml"
+    },
+    {
+        "merged": "F:\\demo2.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\shape_seekbar_thumb.xml",
+        "source": "F:\\demo2.1\\app\\src\\main\\res\\drawable\\shape_seekbar_thumb.xml"
+    },
+    {
+        "merged": "F:\\demo2.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_search_material.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.4.0.aar\\dd9a55aac51ce73dc3ef6c150e584100\\res\\drawable\\abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "G:\\demo2.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\shape_pupview_bg.xml",
+        "source": "G:\\demo2.1\\app\\src\\main\\res\\drawable\\shape_pupview_bg.xml"
+    },
+    {
+        "merged": "G:\\demo2.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_indicator_material.xml",
+        "source": "C:\\Users\\zhp\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.4.0.aar\\5bfae358ce9383a6adc3d0328d3051cd\\res\\drawable\\abc_ratingbar_indicator_material.xml"
+    },
+    {
+        "merged": "G:\\demo2.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_search_material.xml",
+        "source": "C:\\Users\\zhp\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.4.0.aar\\5bfae358ce9383a6adc3d0328d3051cd\\res\\drawable\\abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "G:\\demo2.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\alive_snapshot_bg.xml",
+        "source": "G:\\demo2.1\\app\\src\\main\\res\\drawable\\alive_snapshot_bg.xml"
+    },
+    {
+        "merged": "F:\\demo2.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_light.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.4.0.aar\\dd9a55aac51ce73dc3ef6c150e584100\\res\\drawable\\abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "F:\\demo2.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_thumb_material.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.4.0.aar\\dd9a55aac51ce73dc3ef6c150e584100\\res\\drawable\\abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "F:\\demo2.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\shape_fish_iv_bg.xml",
+        "source": "F:\\demo2.1\\app\\src\\main\\res\\drawable\\shape_fish_iv_bg.xml"
+    },
+    {
+        "merged": "G:\\demo2.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\radio_bg_sel.xml",
+        "source": "G:\\demo2.1\\app\\src\\main\\res\\drawable\\radio_bg_sel.xml"
+    },
+    {
+        "merged": "F:\\demo2.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\layout_camera_fragment_main_bg.xml",
+        "source": "F:\\demo2.1\\app\\src\\main\\res\\drawable\\layout_camera_fragment_main_bg.xml"
+    },
+    {
+        "merged": "G:\\demo2.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\pull_to_refresh_third_anim.xml",
+        "source": "G:\\demo2.1\\app\\src\\main\\res\\drawable\\pull_to_refresh_third_anim.xml"
+    },
+    {
+        "merged": "G:\\demo2.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\alive_setting_layout_bg.xml",
+        "source": "G:\\demo2.1\\app\\src\\main\\res\\drawable\\alive_setting_layout_bg.xml"
+    },
+    {
+        "merged": "F:\\demo2.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_live_alarm.xml",
+        "source": "F:\\demo2.1\\app\\src\\main\\res\\drawable\\selector_live_alarm.xml"
+    },
+    {
+        "merged": "G:\\demo2.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_small_material.xml",
+        "source": "C:\\Users\\zhp\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.4.0.aar\\5bfae358ce9383a6adc3d0328d3051cd\\res\\drawable\\abc_ratingbar_small_material.xml"
+    },
+    {
+        "merged": "G:\\demo2.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\radio_bg_nor.xml",
+        "source": "G:\\demo2.1\\app\\src\\main\\res\\drawable\\radio_bg_nor.xml"
+    },
+    {
+        "merged": "F:\\demo2.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\radio_btn_picture_fragment_middle_bg.xml",
+        "source": "F:\\demo2.1\\app\\src\\main\\res\\drawable\\radio_btn_picture_fragment_middle_bg.xml"
+    },
+    {
+        "merged": "G:\\demo2.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_key_num.xml",
+        "source": "G:\\demo2.1\\app\\src\\main\\res\\drawable\\selector_key_num.xml"
+    },
+    {
+        "merged": "F:\\demo2.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\alive_setting_layout_bg.xml",
+        "source": "F:\\demo2.1\\app\\src\\main\\res\\drawable\\alive_setting_layout_bg.xml"
+    },
+    {
+        "merged": "F:\\demo2.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_pw_checkbox.xml",
+        "source": "F:\\demo2.1\\app\\src\\main\\res\\drawable\\selector_pw_checkbox.xml"
+    },
+    {
+        "merged": "F:\\demo2.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_picture.xml",
+        "source": "F:\\demo2.1\\app\\src\\main\\res\\drawable\\selector_picture.xml"
+    },
+    {
+        "merged": "G:\\demo2.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\round_loading_rate_bg.xml",
+        "source": "G:\\demo2.1\\app\\src\\main\\res\\drawable\\round_loading_rate_bg.xml"
+    },
+    {
+        "merged": "F:\\demo2.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\shape_control_btn_bg_pre.xml",
+        "source": "F:\\demo2.1\\app\\src\\main\\res\\drawable\\shape_control_btn_bg_pre.xml"
+    },
+    {
+        "merged": "G:\\demo2.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\shape_rf_circular.xml",
+        "source": "G:\\demo2.1\\app\\src\\main\\res\\drawable\\shape_rf_circular.xml"
+    },
+    {
+        "merged": "G:\\demo2.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_camera.xml",
+        "source": "G:\\demo2.1\\app\\src\\main\\res\\drawable\\selector_camera.xml"
+    },
+    {
+        "merged": "G:\\demo2.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_snapshot.xml",
+        "source": "G:\\demo2.1\\app\\src\\main\\res\\drawable\\selector_snapshot.xml"
+    },
+    {
+        "merged": "G:\\demo2.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\radio_btn_picture_fragment_right_bg.xml",
+        "source": "G:\\demo2.1\\app\\src\\main\\res\\drawable\\radio_btn_picture_fragment_right_bg.xml"
+    },
+    {
+        "merged": "F:\\demo2.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_focus_bg.xml",
+        "source": "F:\\demo2.1\\app\\src\\main\\res\\drawable\\selector_focus_bg.xml"
+    },
+    {
+        "merged": "G:\\demo2.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_video.xml",
+        "source": "G:\\demo2.1\\app\\src\\main\\res\\drawable\\selector_video.xml"
+    },
+    {
+        "merged": "F:\\demo2.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\shape_color.xml",
+        "source": "F:\\demo2.1\\app\\src\\main\\res\\drawable\\shape_color.xml"
+    },
+    {
+        "merged": "G:\\demo2.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\shape_qrcode.xml",
+        "source": "G:\\demo2.1\\app\\src\\main\\res\\drawable\\shape_qrcode.xml"
+    },
+    {
+        "merged": "F:\\demo2.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ios_back_drawable.xml",
+        "source": "F:\\demo2.1\\app\\src\\main\\res\\drawable\\ios_back_drawable.xml"
+    },
+    {
+        "merged": "G:\\demo2.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\nor_background_ll.xml",
+        "source": "G:\\demo2.1\\app\\src\\main\\res\\drawable\\nor_background_ll.xml"
+    },
+    {
+        "merged": "F:\\demo2.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ios_thumb_selector.xml",
+        "source": "F:\\demo2.1\\app\\src\\main\\res\\drawable\\ios_thumb_selector.xml"
+    },
+    {
+        "merged": "G:\\demo2.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_talk.xml",
+        "source": "G:\\demo2.1\\app\\src\\main\\res\\drawable\\selector_talk.xml"
+    },
+    {
+        "merged": "F:\\demo2.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\shape_key_normal.xml",
+        "source": "F:\\demo2.1\\app\\src\\main\\res\\drawable\\shape_key_normal.xml"
+    },
+    {
+        "merged": "G:\\demo2.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "C:\\Users\\zhp\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.4.0.aar\\5bfae358ce9383a6adc3d0328d3051cd\\res\\drawable\\abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "G:\\demo2.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "C:\\Users\\zhp\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.4.0.aar\\5bfae358ce9383a6adc3d0328d3051cd\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "G:\\demo2.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\pull_to_refresh_second_anim.xml",
+        "source": "G:\\demo2.1\\app\\src\\main\\res\\drawable\\pull_to_refresh_second_anim.xml"
+    },
+    {
+        "merged": "F:\\demo2.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\round_corner.xml",
+        "source": "F:\\demo2.1\\app\\src\\main\\res\\drawable\\round_corner.xml"
+    },
+    {
+        "merged": "F:\\demo2.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_check_material.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.4.0.aar\\dd9a55aac51ce73dc3ef6c150e584100\\res\\drawable\\abc_btn_check_material.xml"
+    },
+    {
+        "merged": "F:\\demo2.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_control_btn_bg.xml",
+        "source": "F:\\demo2.1\\app\\src\\main\\res\\drawable\\selector_control_btn_bg.xml"
+    },
+    {
+        "merged": "F:\\demo2.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\pull_to_refresh_third_anim.xml",
+        "source": "F:\\demo2.1\\app\\src\\main\\res\\drawable\\pull_to_refresh_third_anim.xml"
+    },
+    {
+        "merged": "F:\\demo2.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\click_btn_pre.xml",
+        "source": "F:\\demo2.1\\app\\src\\main\\res\\drawable\\click_btn_pre.xml"
+    },
+    {
+        "merged": "F:\\demo2.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_pup_two.xml",
+        "source": "F:\\demo2.1\\app\\src\\main\\res\\drawable\\selector_pup_two.xml"
+    },
+    {
+        "merged": "G:\\demo2.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_top_material.xml",
+        "source": "C:\\Users\\zhp\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.4.0.aar\\5bfae358ce9383a6adc3d0328d3051cd\\res\\drawable\\abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "G:\\demo2.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\click_btn_nor.xml",
+        "source": "G:\\demo2.1\\app\\src\\main\\res\\drawable\\click_btn_nor.xml"
+    },
+    {
+        "merged": "G:\\demo2.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_thumb_material.xml",
+        "source": "C:\\Users\\zhp\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.4.0.aar\\5bfae358ce9383a6adc3d0328d3051cd\\res\\drawable\\abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "F:\\demo2.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\shape_rf_circular.xml",
+        "source": "F:\\demo2.1\\app\\src\\main\\res\\drawable\\shape_rf_circular.xml"
+    },
+    {
+        "merged": "G:\\demo2.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\shape_color.xml",
+        "source": "G:\\demo2.1\\app\\src\\main\\res\\drawable\\shape_color.xml"
+    },
+    {
+        "merged": "G:\\demo2.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\layout_camera_fragment_add_bg.xml",
+        "source": "G:\\demo2.1\\app\\src\\main\\res\\drawable\\layout_camera_fragment_add_bg.xml"
+    },
+    {
+        "merged": "G:\\demo2.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\background_gray_alpha.xml",
+        "source": "G:\\demo2.1\\app\\src\\main\\res\\drawable\\background_gray_alpha.xml"
+    },
+    {
+        "merged": "G:\\demo2.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_live_cruis.xml",
+        "source": "G:\\demo2.1\\app\\src\\main\\res\\drawable\\selector_live_cruis.xml"
+    },
+    {
+        "merged": "F:\\demo2.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\alive_setting_item_bg.xml",
+        "source": "F:\\demo2.1\\app\\src\\main\\res\\drawable\\alive_setting_item_bg.xml"
+    },
+    {
+        "merged": "G:\\demo2.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_voice.xml",
+        "source": "G:\\demo2.1\\app\\src\\main\\res\\drawable\\selector_voice.xml"
+    },
+    {
+        "merged": "G:\\demo2.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_control_btn_bg.xml",
+        "source": "G:\\demo2.1\\app\\src\\main\\res\\drawable\\selector_control_btn_bg.xml"
+    },
+    {
+        "merged": "G:\\demo2.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\shape_circular_black.xml",
+        "source": "G:\\demo2.1\\app\\src\\main\\res\\drawable\\shape_circular_black.xml"
+    },
+    {
+        "merged": "G:\\demo2.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\playback_play_btn_bg.xml",
+        "source": "G:\\demo2.1\\app\\src\\main\\res\\drawable\\playback_play_btn_bg.xml"
+    },
+    {
+        "merged": "F:\\demo2.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_internal_bg.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.4.0.aar\\dd9a55aac51ce73dc3ef6c150e584100\\res\\drawable\\abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "G:\\demo2.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ios_back_drawable.xml",
+        "source": "G:\\demo2.1\\app\\src\\main\\res\\drawable\\ios_back_drawable.xml"
+    },
+    {
+        "merged": "F:\\demo2.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_snapshot.xml",
+        "source": "F:\\demo2.1\\app\\src\\main\\res\\drawable\\selector_snapshot.xml"
+    },
+    {
+        "merged": "G:\\demo2.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\shape_seekbar_thumb.xml",
+        "source": "G:\\demo2.1\\app\\src\\main\\res\\drawable\\shape_seekbar_thumb.xml"
+    },
+    {
+        "merged": "F:\\demo2.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_small_material.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.4.0.aar\\dd9a55aac51ce73dc3ef6c150e584100\\res\\drawable\\abc_ratingbar_small_material.xml"
+    },
+    {
+        "merged": "G:\\demo2.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ios_thumb_selector.xml",
+        "source": "G:\\demo2.1\\app\\src\\main\\res\\drawable\\ios_thumb_selector.xml"
+    },
+    {
+        "merged": "F:\\demo2.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tv_bg.xml",
+        "source": "F:\\demo2.1\\app\\src\\main\\res\\drawable\\tv_bg.xml"
+    },
+    {
+        "merged": "G:\\demo2.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_borderless_material.xml",
+        "source": "C:\\Users\\zhp\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.4.0.aar\\5bfae358ce9383a6adc3d0328d3051cd\\res\\drawable\\abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "F:\\demo2.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_btn_title_back.xml",
+        "source": "F:\\demo2.1\\app\\src\\main\\res\\drawable\\selector_btn_title_back.xml"
+    },
+    {
+        "merged": "F:\\demo2.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_text_cursor_material.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.4.0.aar\\dd9a55aac51ce73dc3ef6c150e584100\\res\\drawable\\abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "G:\\demo2.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_main_buttom_txt.xml",
+        "source": "G:\\demo2.1\\app\\src\\main\\res\\drawable\\selector_main_buttom_txt.xml"
+    },
+    {
+        "merged": "F:\\demo2.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_tab_indicator_material.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.4.0.aar\\dd9a55aac51ce73dc3ef6c150e584100\\res\\drawable\\abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "G:\\demo2.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_bg_press.xml",
+        "source": "G:\\demo2.1\\app\\src\\main\\res\\drawable\\selector_bg_press.xml"
+    },
+    {
+        "merged": "F:\\demo2.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_pup_circluer.xml",
+        "source": "F:\\demo2.1\\app\\src\\main\\res\\drawable\\selector_pup_circluer.xml"
+    },
+    {
+        "merged": "G:\\demo2.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_btn_title_back.xml",
+        "source": "G:\\demo2.1\\app\\src\\main\\res\\drawable\\selector_btn_title_back.xml"
+    },
+    {
+        "merged": "G:\\demo2.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tv_bg_nor.xml",
+        "source": "G:\\demo2.1\\app\\src\\main\\res\\drawable\\tv_bg_nor.xml"
+    },
+    {
+        "merged": "G:\\demo2.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_internal_bg.xml",
+        "source": "C:\\Users\\zhp\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.4.0.aar\\5bfae358ce9383a6adc3d0328d3051cd\\res\\drawable\\abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "G:\\demo2.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\shap_red_spot.xml",
+        "source": "G:\\demo2.1\\app\\src\\main\\res\\drawable\\shap_red_spot.xml"
+    },
+    {
+        "merged": "G:\\demo2.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_track_material.xml",
+        "source": "C:\\Users\\zhp\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.4.0.aar\\5bfae358ce9383a6adc3d0328d3051cd\\res\\drawable\\abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "G:\\demo2.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tv_bg.xml",
+        "source": "G:\\demo2.1\\app\\src\\main\\res\\drawable\\tv_bg.xml"
+    },
+    {
+        "merged": "F:\\demo2.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.4.0.aar\\dd9a55aac51ce73dc3ef6c150e584100\\res\\drawable\\abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "F:\\demo2.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_microphone_bg.xml",
+        "source": "F:\\demo2.1\\app\\src\\main\\res\\drawable\\btn_microphone_bg.xml"
+    },
+    {
+        "merged": "F:\\demo2.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\shape_check_code.xml",
+        "source": "F:\\demo2.1\\app\\src\\main\\res\\drawable\\shape_check_code.xml"
+    },
+    {
+        "merged": "F:\\demo2.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\background_gray_alpha.xml",
+        "source": "F:\\demo2.1\\app\\src\\main\\res\\drawable\\background_gray_alpha.xml"
+    },
+    {
+        "merged": "G:\\demo2.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_live_box_bg.xml",
+        "source": "G:\\demo2.1\\app\\src\\main\\res\\drawable\\btn_live_box_bg.xml"
+    },
+    {
+        "merged": "G:\\demo2.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\po_seekbar.xml",
+        "source": "G:\\demo2.1\\app\\src\\main\\res\\drawable\\po_seekbar.xml"
+    },
+    {
+        "merged": "G:\\demo2.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\shape_control_btn_bg.xml",
+        "source": "G:\\demo2.1\\app\\src\\main\\res\\drawable\\shape_control_btn_bg.xml"
+    },
+    {
+        "merged": "F:\\demo2.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\radio_btn_picture_fragment_right_bg.xml",
+        "source": "F:\\demo2.1\\app\\src\\main\\res\\drawable\\radio_btn_picture_fragment_right_bg.xml"
+    },
+    {
+        "merged": "G:\\demo2.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\alive_setting_bottom_item_bg.xml",
+        "source": "G:\\demo2.1\\app\\src\\main\\res\\drawable\\alive_setting_bottom_item_bg.xml"
+    },
+    {
+        "merged": "F:\\demo2.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_borderless_material.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.4.0.aar\\dd9a55aac51ce73dc3ef6c150e584100\\res\\drawable\\abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "F:\\demo2.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\radio_bg.xml",
+        "source": "F:\\demo2.1\\app\\src\\main\\res\\drawable\\radio_bg.xml"
+    },
+    {
+        "merged": "G:\\demo2.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_live_alarm.xml",
+        "source": "G:\\demo2.1\\app\\src\\main\\res\\drawable\\selector_live_alarm.xml"
+    },
+    {
+        "merged": "G:\\demo2.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "C:\\Users\\zhp\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.4.0.aar\\5bfae358ce9383a6adc3d0328d3051cd\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "F:\\demo2.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\shape_full_screen.xml",
+        "source": "F:\\demo2.1\\app\\src\\main\\res\\drawable\\shape_full_screen.xml"
+    },
+    {
+        "merged": "G:\\demo2.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\shape_circle.xml",
+        "source": "G:\\demo2.1\\app\\src\\main\\res\\drawable\\shape_circle.xml"
+    },
+    {
+        "merged": "G:\\demo2.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_colored_material.xml",
+        "source": "C:\\Users\\zhp\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.4.0.aar\\5bfae358ce9383a6adc3d0328d3051cd\\res\\drawable\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "F:\\demo2.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\alive_setting_top_item_bg.xml",
+        "source": "F:\\demo2.1\\app\\src\\main\\res\\drawable\\alive_setting_top_item_bg.xml"
+    },
+    {
+        "merged": "F:\\demo2.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\layout_camera_fragment_add_bg.xml",
+        "source": "F:\\demo2.1\\app\\src\\main\\res\\drawable\\layout_camera_fragment_add_bg.xml"
+    },
+    {
+        "merged": "G:\\demo2.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_pup_four.xml",
+        "source": "G:\\demo2.1\\app\\src\\main\\res\\drawable\\selector_pup_four.xml"
+    },
+    {
+        "merged": "F:\\demo2.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_switch_thumb_material.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.4.0.aar\\dd9a55aac51ce73dc3ef6c150e584100\\res\\drawable\\abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "F:\\demo2.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_voice.xml",
+        "source": "F:\\demo2.1\\app\\src\\main\\res\\drawable\\selector_voice.xml"
+    },
+    {
+        "merged": "F:\\demo2.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_track_material.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.4.0.aar\\dd9a55aac51ce73dc3ef6c150e584100\\res\\drawable\\abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "G:\\demo2.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\radio_btn_picture_fragment_middle_bg.xml",
+        "source": "G:\\demo2.1\\app\\src\\main\\res\\drawable\\radio_btn_picture_fragment_middle_bg.xml"
+    },
+    {
+        "merged": "F:\\demo2.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\round_loading_rate_bg.xml",
+        "source": "F:\\demo2.1\\app\\src\\main\\res\\drawable\\round_loading_rate_bg.xml"
+    },
+    {
+        "merged": "F:\\demo2.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_talk.xml",
+        "source": "F:\\demo2.1\\app\\src\\main\\res\\drawable\\selector_talk.xml"
+    },
+    {
+        "merged": "F:\\demo2.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_about.xml",
+        "source": "F:\\demo2.1\\app\\src\\main\\res\\drawable\\selector_about.xml"
+    },
+    {
+        "merged": "G:\\demo2.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_pup_install_wall.xml",
+        "source": "G:\\demo2.1\\app\\src\\main\\res\\drawable\\selector_pup_install_wall.xml"
+    },
+    {
+        "merged": "G:\\demo2.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_record.xml",
+        "source": "G:\\demo2.1\\app\\src\\main\\res\\drawable\\selector_record.xml"
+    },
+    {
+        "merged": "G:\\demo2.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\radio_bg.xml",
+        "source": "G:\\demo2.1\\app\\src\\main\\res\\drawable\\radio_bg.xml"
+    },
+    {
+        "merged": "F:\\demo2.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\shape_control_btn_bg.xml",
+        "source": "F:\\demo2.1\\app\\src\\main\\res\\drawable\\shape_control_btn_bg.xml"
+    },
+    {
+        "merged": "G:\\demo2.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_live_tvcruise.xml",
+        "source": "G:\\demo2.1\\app\\src\\main\\res\\drawable\\selector_live_tvcruise.xml"
+    },
+    {
+        "merged": "G:\\demo2.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\shape_gradient_live_buttom.xml",
+        "source": "G:\\demo2.1\\app\\src\\main\\res\\drawable\\shape_gradient_live_buttom.xml"
+    },
+    {
+        "merged": "F:\\demo2.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_key_num.xml",
+        "source": "F:\\demo2.1\\app\\src\\main\\res\\drawable\\selector_key_num.xml"
+    },
+    {
+        "merged": "G:\\demo2.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\shape_rf_log.xml",
+        "source": "G:\\demo2.1\\app\\src\\main\\res\\drawable\\shape_rf_log.xml"
+    },
+    {
+        "merged": "G:\\demo2.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\progress_bar.xml",
+        "source": "G:\\demo2.1\\app\\src\\main\\res\\drawable\\progress_bar.xml"
+    },
+    {
+        "merged": "F:\\demo2.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_pup_bowl.xml",
+        "source": "F:\\demo2.1\\app\\src\\main\\res\\drawable\\selector_pup_bowl.xml"
+    },
+    {
+        "merged": "F:\\demo2.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\shape_know_bg.xml",
+        "source": "F:\\demo2.1\\app\\src\\main\\res\\drawable\\shape_know_bg.xml"
+    },
+    {
+        "merged": "F:\\demo2.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.4.0.aar\\dd9a55aac51ce73dc3ef6c150e584100\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "F:\\demo2.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\shape_control_btn_enab.xml",
+        "source": "F:\\demo2.1\\app\\src\\main\\res\\drawable\\shape_control_btn_enab.xml"
+    },
+    {
+        "merged": "F:\\demo2.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_video.xml",
+        "source": "F:\\demo2.1\\app\\src\\main\\res\\drawable\\selector_video.xml"
+    },
+    {
+        "merged": "G:\\demo2.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "C:\\Users\\zhp\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.4.0.aar\\5bfae358ce9383a6adc3d0328d3051cd\\res\\drawable\\abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "F:\\demo2.1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background_light.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.4.0.aar\\dd9a55aac51ce73dc3ef6c150e584100\\res\\drawable\\abc_dialog_material_background_light.xml"
+    }
+]

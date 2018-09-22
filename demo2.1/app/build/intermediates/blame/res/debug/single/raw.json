@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "F:\\demo2.1\\app\\build\\intermediates\\res\\merged\\debug\\raw\\beep.ogg",
+        "source": "F:\\demo2.1\\app\\src\\main\\res\\raw\\beep.ogg"
+    },
+    {
+        "merged": "G:\\demo2.1\\app\\build\\intermediates\\res\\merged\\debug\\raw\\beep.ogg",
+        "source": "G:\\demo2.1\\app\\src\\main\\res\\raw\\beep.ogg"
+    }
+]
